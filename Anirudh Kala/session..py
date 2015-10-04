@@ -8,7 +8,6 @@ import pandas as pd
 
 
 path = {}
-data = {}
 data1 = {}
 
 '''
@@ -64,7 +63,7 @@ final.to_csv("./Data/xxx_old.csv" , sep = ',' )
 3. Algo to remove Others from Field ... use of @ depicting others
 '''
 
-dataset = pd.read_csv("./Data/session_exp.csv")
+# dataset = pd.read_csv("./Data/session.csv")
 
 '''
 for i in range(0,6969) :
@@ -86,7 +85,67 @@ for i in range(0,6969) :
 		 dataset['Which industry do you work in?'][i] = "@ " + dataset['Which industry do you work in? Conditional'][i]
 '''
 
-dataset['UID'] = dataset['Badge Name'].map(str) + " " + dataset['Email Address'].map(str)
+'''dataset['UID'] = dataset['Badge Name'].map(str) + " " + dataset['Email Address'].map(str)'''
 
-dataset.to_csv("./Data/session_exp.csv")         		
-		      
+'''
+words = []
+ 		data = pd.read_csv("./Data/session.csv")
+ 		data['First Name'] = "nan"
+ 		data['Second Name'] = "nan"
+ 		for i in range (0,6969) :
+ 			words = data['Name'][i].split(" ");
+ 			data['First Name'][i] = words[0]
+ 			data['Second Name'][i] = words[1]
+ 		
+ 		
+ 		data.to_csv("./Data/session.csv")        
+''' 		
+'''
+for i in range(0,6969) :
+	if (pd.isnull(data['How often do you use the OSIsoft PI System products?'][i])!=0) :
+         data['How often do you use the OSIsoft PI System products?'][i] = data['How often do you use the OSIsoft PI System products?.1'][i]
+   	if (pd.isnull(data['Business Phone'][i])!=0) :
+		data['Business Phone'][i] = data['Mobile Phone'][i]	
+	if (pd.isnull(data['Email Address'][i])!=0) :
+		data['Email Address'][i] = data['CC Email'][i]	
+	if (pd.isnull(data['Are you attending the Multi Themed Parties on Wednesday, March 26?'][i])!=0) :
+		data['Are you attending the Multi Themed Parties on Wednesday, March 26?'][i] = data['Are you attending the Multi Themed Parties on Wednesday, March 26?*'][i]	
+	if (pd.isnull(data['Are you attending the Partner Meeting on Thursday, March 27?'][i])!=0) :
+          data['Are you attending the Partner Meeting on Thursday, March 27?'][i] = data['Are you attending the Partner Meeting on Thursday, March 27?.1'][i]			 
+    
+    '''
+'''   
+for root, dirs, files in os.walk("./Data/Session Activity Data/"):
+	print len(files)
+	
+    
+for i in range(0 , 60) :
+	path[i] = files[i][:-4]
+	print(path[i])
+
+data = pd.read_csv("./Data/session1.csv")
+for i in range(0,60) :
+	if(i != 22) :
+		data[path[i]] = 0
+
+for i in range(0,6969) :
+	for j in range(i , 6969) :
+		if(data["AAA_ID"][i] == data["AAA_ID"][j]) :
+			str = data["Session"][j]
+			for k in range(0,60) :
+				if(k!=22) :
+				      if(str == path[k]) :
+				        	data[str][i] = 1
+				         	break
+		else :
+		     i = j-1 
+		     break
+		if(i != j) :
+		       data["AAA_ID"][j] = "abcdef" 
+
+data = data[data.AAA_ID != "abcdef"]
+
+data.to_csv("./Data/session_trans.csv")
+'''
+data = pd.read_csv("./Data/session_trans.csv")
+data.to_csv("./Data/session_trans1.csv")

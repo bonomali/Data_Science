@@ -1,0 +1,79 @@
+,Date/Time,Device ID,Badge ID,Name Badge First Name,Name Badge Last Name,Job Title,Company,Email Address,Address Line 1,Address Line 2,City,State/Province,US State,Zip (Postal Code),Country,Business Phone,Mobile Phone,Lead Rank,Event
+0,214-3-26T1:37:23,Q76318,OSI1333,Keri,Darlington,Lead RTS Analyst,NiSource,kdarlington@nisource.com,17 MacCorkle Ave. SE,,Charleston,WV,,25314,United States,34-357-3243,34-716-6863,,OSIsoft PI Coresight
+1,214-3-26T14:22:41,Q76318,OSI1111,David,Weng,Sr. Automation Engineer,BioMarin Pharmaceutical,dweng@bmrn.com,15 Digital Dr,,Novato,CA,,94949,United States,415-56-3594,,,OSIsoft PI Coresight
+2,214-3-25T17:19:,Q76318,OSI1586,Chuck,Alonge,Senior Software Developer,NYISO,calonge@nyiso.com,1 Krey Boulevard,,Rensselaer,NY,,12144,United States,518-356-6248,,,OSIsoft PI Coresight
+3,214-3-25T13:39:45,Q76318,OSI179,Paulo,Rueda,Automation Supervisor,Pacific Rubiales Energy,prueda@pacificrubiales.com.co,Calle 11 No. 9-25,,Bogota,DC,,11111,Colombia,(+57) 3188199971,,,OSIsoft PI Coresight
+4,214-3-26T1:49:46,Q76318,OSI1134,Matt,Richards,O&M Manager,Colorado Energy Management,mrichards@coloradoenergy.com,Malburg Generating Station,4963 Soto St.,Vernon,CA,,958,United States,6263933748,,,OSIsoft PI Coresight
+5,214-3-25T13:45:33,Q76318,OSI1476,Carlos,Prieto,IT Specialist,LT Automation,cprieto@ltapr.com,PMB 41 #89 Ave De Diego,Suite 15,San Juan,PR,,927,Puerto Rico,787-78-374,787-63-3213,,OSIsoft PI Coresight
+6,214-3-25T16:41:17,Q76318,OSI1476,Carlos,Prieto,IT Specialist,LT Automation,cprieto@ltapr.com,PMB 41 #89 Ave De Diego,Suite 15,San Juan,PR,,927,Puerto Rico,787-78-374,787-63-3213,,OSIsoft PI Coresight
+7,214-3-26T9:5:53,Q76318,OSI1476,Carlos,Prieto,IT Specialist,LT Automation,cprieto@ltapr.com,PMB 41 #89 Ave De Diego,Suite 15,San Juan,PR,,927,Puerto Rico,787-78-374,787-63-3213,,OSIsoft PI Coresight
+8,214-3-26T8:55:12,Q76318,OSI1797,Dawson,Newberry,,,newberryd@conedenergy.com,1 Summit Lake Drive,Suite 41,Valhalla,NY,,1595,United States,914 993 219,,,OSIsoft PI Coresight
+9,214-3-26T9:2:43,Q76318,OSI1266,Jason,Maxwell,Group Manager,RoviSys,jason.maxwell@rovisys.com,1455 Danner Drive,,Aurora,OH,,4422,United States,(33) 995-825,(44) 49-412,,OSIsoft PI Coresight
+10,214-3-25T14:31:15,Q76318,OSI1515,Jeff,Edwards,Director,TSI Group/Triencon Services,jeff.edwards@triencon.com,1 Post and Paddock,Ste 2,Grand Prairie,TX,,755,United States,817-785-89,,,OSIsoft PI Coresight
+11,214-3-26T9:36:9,Q76318,OSI11391,Harry,Paul,Technical Support Engineer,OSIsoft,hpaul@osisoft.com,,,Philadelphia,,,1917,United States,,(63) 568-325,,OSIsoft PI Coresight
+12,214-3-26T9:58:26,Q76318,OSI1276,Steve,Van Doren,Sr. Tech Service Engineer,RockTenn-Solvay,svandoren@rocktenn.com,53 industrial drive,,syracuse,new youk,,1324,United States,315-73-936,315-877-5582,,OSIsoft PI Coresight
+13,214-3-26T9:5:55,Q76318,OSI1661,Hector,Rodriguez,Principal Engineer,PREPA,hl-rodriguez@prepa.com,Puerto Rico Electric Power Authority,San Juan Power Plant,San Juan,PR,,92,Puerto Rico,787-521-7717,787-649-6823,,OSIsoft PI Coresight
+14,214-3-26T9:37:47,Q76318,OSI11392,Michael,Ferster,,OSIsoft,mferster@osisoft.com,,,Philadelphia,,,,United States,,717-395-249,,OSIsoft PI Coresight
+15,214-3-26T13:13:31,Q76318,OSI1758,Denis,Means,Critical Environment Instrumentation Project Manager,Microsoft,denim@microsoft.com,515 Rogers Rd,,San Antonio,TX,,78254,United States,213719337,,,OSIsoft PI Coresight
+16,214-3-25T17:6:35,Q76318,OSI1375,Doug,Tremblay,ICT,Irving Tissue Company,tremblay.doug@irvingpulp.com,PO Box 5666,,Saint John,NB,,E2L5B6,Canada,566353961,,,OSIsoft PI Coresight
+17,214-3-26T14::25,Q76318,OSI121,Donald,Beverly,Senior Advisor Renewable Energy,Gaz Métro,dbeverly@gazmetro.com,1717 du Havre Street,,Montreal,Quebec,,H2K 2X3,Canada,514 598-3256,,,OSIsoft PI Coresight
+18,214-3-26T1:24:9,Q76318,OSI11519,Craig,Torpey,,OSIsoft,ctorpey@osisoft.com,,,Philadelphia,,,,United States,,,,OSIsoft PI Coresight
+19,214-3-25T16:16:43,Q76318,OSI133,Anton,Meyer,Senior Systems Engineer,Barrick Gold Corporation,ameyer@barrick.com,95 West Main Street,,Elko,NV,,8981,United States,(775) 748-1111,(775) 777-568,,OSIsoft PI Coresight
+20,214-3-25T13:17:53,Q76318,OSI1737,Luis,Yacher,Manager,CONTAC,lyacher@contac.cl,Americo Vespucio Sur 315,,Santiago,Metropolitana,,775,Chile,562 2279,,,OSIsoft PI Coresight
+21,214-3-25T17:51:9,Q76318,OSI113,Chilkoot,Ward,Director of Utilities,University of Alaska Fairbanks,cbward@alaska.edu,82 Alumni Drive,Box 75742,Fairbanks,AK,,99775-742,United States,97-474-568,,,OSIsoft PI Coresight
+22,214-3-26T14:5:6,Q76318,OSI1761,Marvin,Wong,Operations Analyst Engineer,Secure Energy Services,mwong@secure-energy.ca,"36, 25 5th Ave SW",,Calgary,AB,,T2P 2V7,Canada,437714861,,,OSIsoft PI Coresight
+23,214-3-26T8:18:15,Q76318,OSI1453,Rick,Smith,Process Information Manager,International Paper,richard.smithjr@ipaper.com,6285 Tri-Ridge Blvd,,Loveland,Ohio,,4515,United States,513-248-6222,,,OSIsoft PI Coresight
+24,214-3-26T13:44:1,Q76318,OSI1228,Eleonora,Aliverti,Technical Scientific Services fo Operations (IT project Leader),Eni E&P,eleonora.aliverti@eni.com,VIA EMILIA 1,,SAN DONATO MILANESE (MI),ITALY,,297,Italy,39525994,,,OSIsoft PI Coresight
+25,214-3-25T13:53:7,Q76318,OSI1742,Scott,King,SCADA Engineer,United Illuminating Company,scott.king@uinet.com,1 Marsh Hill Road,,Orange,CT,,6477,United States,23-926-454,23-361-8996,,OSIsoft PI Coresight
+26,214-3-26T14:17:48,Q76318,OSI1311,David,Farrell,Product Manager,SmartSignal,dscr22@yahoo.com,442 Basswood Drive,,Lisle,Illinois,,6532,United States,633352955,633352955,,OSIsoft PI Coresight
+27,214-3-25T14:18:1,Q76318,OSI1181,Mickie,Hodges,COE Manufacturing Solutions,MeadWestvaco,mickie.hodges@mwv.com,51 South 5th Street,,Richmond,Virginia,,23219,United States,84-444-752,434-264-414,,OSIsoft PI Coresight
+28,214-3-25T14:7:4,Q76318,OSI1141,Charles,Davis,"Director,Transportation Group","J.D. Irving, Limited - I.T. Division",davis.charles@jdirving.com,3 Union Street,4th Floor,Saint John,New Brunswick,,E2L3V6,Canada,(56) 635-5697,(56) 647-5781,,OSIsoft PI Coresight
+29,214-3-25T13:39:42,Q76318,OSI17,Bernardo Andres,Tabares Gomez,Automation Engineer,Pacific Rubiales Energy,btabares@Pacificrubiales.com.co,Calle 11 # 9 -25 Piso 14,,Bogota,Bogota,,,Colombia,+ 571 5112754,,,OSIsoft PI Coresight
+30,214-3-26T8:45:47,Q76318,OSI1112,Corbin,Thomas,System Administration / Developer,Leidos,cthomas2783@gmail.com,22 Teakwood Pl,,Conroe,TX,,77384,United States,281-297-3636,,,OSIsoft PI Coresight
+31,214-3-25T15:12:55,Q76318,OSI1699,Justin,Studer,Lead Software Engineer,Rovisys,justin.studer@rovisys.com,1455 Danner Drive,,Aurora,OH,,4422,United States,335628688,,,OSIsoft PI Coresight
+32,214-3-26T1:37:28,Q76318,OSI1699,Justin,Studer,Lead Software Engineer,Rovisys,justin.studer@rovisys.com,1455 Danner Drive,,Aurora,OH,,4422,United States,335628688,,,OSIsoft PI Coresight
+33,214-3-25T13:45:46,Q76318,OSI1617,Sergio,Zarate,Process Manager Plant Systems,CEMEX,sergioalberto.zarate@cemex.com,Av. Constitución 444 Pte.,"Col. Centro,",Monterrey,Nuevo León,,64,Mexico,(52) 81 8328 3,(1) 561-83-6174,,OSIsoft PI Coresight
+34,214-3-26T12:3:28,Q76318,OSI1299,Tim,Heck,Adv IT Systems Integrator,Marathon Petroleum,teheck@marathonpetroleum.com,539 S. Main Street,,Findlay,OH,,4584,United States,419-619-8115,,,OSIsoft PI Coresight
+35,214-3-26T12:13:6,Q76318,OSI1963,Crazy,Pete,Programmer,Xcel Energy,Peter.D.Gimeno@XcelEnergy.com,1821 W. 1th Ave.,,Golden,CO,,8231,United States,33-273-4838,33-91-3662,,OSIsoft PI Coresight
+36,214-3-26T1:21:19,Q76318,OSI1341,Lucas,Smith,Application Engineer,SunPower,lucas.smith@sunpower.com,181 N. MoPac Expressway,"Building 3, Floor 5",Austin,TX,,78759,United States,51273531,,,OSIsoft PI Coresight
+37,214-3-25T13:5:59,Q76318,OSI1386,Eddy,Brooks,PI Admin,Tate & Lyle,eddy.brooks@tateandlyle.com,198 Blair Bend Road,,Loudon,TN,,37774,United States,865-48-555,865-755-4657,,OSIsoft PI Coresight
+38,214-3-25T15:25:12,Q76318,OSI1428,Ghazala,Siddiqui,GRTM,Chevron,Ghazala.Siddiqui@Chevron.com,23 Diamond Blvd.,,Concord,California,,9452-5738,United States,925-827-6515,,,OSIsoft PI Coresight
+39,214-3-26T12:37:4,Q76318,OSI192,Kevin,MacLean,PI System Administrator,Michelin North America (Canada) Inc,kevin.maclean@ca.michelin.com,P.O. Box 399,,New Glasgow,NS,,B2H 5E6,Canada,927531827,,,OSIsoft PI Coresight
+40,214-3-25T14:18:3,Q76318,OSI1496,Thony,Valbrun,Principal Business Capability Analyst,Bristol-Myers Squibb,anthony.valbrun@bms.com,1 Squibb Drive,B15-146,New Brunswick,NJ,,893,United States,732-227-7736,,,OSIsoft PI Coresight
+41,214-3-25T16:31:9,Q76318,OSI151,Mary,Bellinger,Project Systems Analyst,Sinclair Oil,mnbellinger@sinclairoil.com,119 Sycamore Commons Lane,,Bermuda Run,NC,,276,United States,336-941-3218,713-443-8538,,OSIsoft PI Coresight
+42,214-3-25T12:22:15,Q76318,OSI1139,Jason,Golla,Developement Lead,OSIsoft,jgolla@osisoft.com,,,Philadelphia,,,877,United States,,267-879-826,,OSIsoft PI Coresight
+43,214-3-26T14:2:49,Q76318,OSI1533,Gus,Green,Sr. Automation Engineer,Biogen Idec,gus.green@biogenidec.com,5 Davis Dr,,RTP,NC,,2779,United States,(919) 993-137,(919) 274-6871,,OSIsoft PI Coresight
+44,214-3-26T9:2:41,Q76318,OSI125,Patrick,Mechenbier,Software Developer,RoviSys,patrick.mechenbier@rovisys.com,1455 Danner Dr.,,Aurora,Ohio,,4422,United States,33 995 8118,,,OSIsoft PI Coresight
+45,214-3-26T11:5:9,Q76318,OSI1159,Kevin,Geneva,Customer Support Engineer,OSIsoft,kgeneva@osisoft.com,17 Market Street,Suite 22,Philadelphia,,,1913,United States,21566791,2152646537,,OSIsoft PI Coresight
+46,214-3-26T12:33:38,Q76318,OSI139,Susan,Stoner,Distribution Planning Engineer,Nebraska Public Power District,skstone@nppd.com,1414 15th St.,PO BOX 499,Columbus,Nebraska,,6862-499,United States,42-563-5446,42-91-4545,,OSIsoft PI Coresight
+47,214-3-26T13:36:35,Q76318,OSI1339,Tony,Maggio,Consulting Business Analyst,Tesoro,tony.m.maggio@tsocorp.com,12 West March Point Road,,Anacortes,WA,,98221,United States,(36) 293-9168,,,OSIsoft PI Coresight
+48,214-3-26T14:6:19,Q76318,OSI1114,James,Burr,Systems Engineer,Intermountain Power,james.burr@ipsc.com,85 W Brushwellman Road,,Delta,UT,,84624,United States,435-864-6454,,,OSIsoft PI Coresight
+49,214-3-26T13:55:29,Q76318,OSI1926,Anthony,Kaunehowen,System Operations Specialist,Manitoba Hydro International,akauenhowen@mhi.ca,211 Commerce Drive,,Winnipeg,MB,,R3P 1A3,Canada,48-257-349,48-257-349,,OSIsoft PI Coresight
+50,214-3-26T11:1:39,Q76318,OSI1843,Kevin,Swain,Business Intelligence Analyst,First Wind,kswain@firstwind.com,179 Lincoln St,Suite 5,Boston,Massachusettes,,2111,United States,857-31-5312,,,OSIsoft PI Coresight
+51,214-3-25T13:45:17,Q76318,OSI1454,Jason,Nunez,PI Development Engineer,EDF Renewable Energy,Jason.Nunez@edf-re.com,15445 Innovation Drive,,San Diego,CA,,92128,United States,858-521-3489,,,OSIsoft PI Coresight
+52,214-3-26T1:9:27,Q76318,OSI1455,Jerome,Boudon,Regional Center Development Manager,EDF,jerome.boudon@edf.fr,37 rue Diderot,,Grenoble,Isère,,38,France,+33  476 29 753,+33  628 348 13,,OSIsoft PI Coresight
+53,214-3-25T14:31:7,Q76318,OSI1538,Uche,Ejiogu,Petroleum Technologist,Statoil,uej@statoil.com,"36,38-4th ave SW",,Calgary,Alberta,,T2X 3B7,Canada,43-513-848,,,OSIsoft PI Coresight
+54,214-3-26T1:37:26,Q76318,OSI1725,Bryan,Toich,Software Engineer,RoviSys,bryan.toich@rovisys.com,1455 Danner Drive,,Aurora,OH,,4422,United States,33-995-8155,,,OSIsoft PI Coresight
+55,214-3-26T13:56:27,Q76318,OSI142,Gary,Petersen,Senior Engineer,Tesoro,gary.j.petersen@tsocorp.com,Golden Eagle Refinery,15 Solano Way,Martinez,California,,94553,United States,925-37-335,,,OSIsoft PI Coresight
+56,214-3-25T13:45:35,Q76318,OSI1474,Manuel,Mendendez,ENGINEERING DIRECTOR,LT Automation,mmenendez@ltapr.com,PMB 41 89 AVE DE DIEGO,SUITE 15,SAN JUAN,PR,,927,Puerto Rico,78778374,787366754,,OSIsoft PI Coresight
+57,214-3-26T9:5:51,Q76318,OSI1474,Manuel,Mendendez,ENGINEERING DIRECTOR,LT Automation,mmenendez@ltapr.com,PMB 41 89 AVE DE DIEGO,SUITE 15,SAN JUAN,PR,,927,Puerto Rico,78778374,787366754,,OSIsoft PI Coresight
+58,214-3-25T13:45:44,Q76318,OSI172,Francisco,Ibarra,Business Consultant,CEMEX,franciscojavier.ibarrac@ext.cemex.com,Av. Constitución 444 Pte.,Col. Centro,Monterrey,Nuevo León,,64,Mexico,(52) 81 8328 3,832857359,,OSIsoft PI Coresight
+59,214-3-26T12:2:36,Q76318,OSI1477,Cyndi,Bourne,PI Center of Excellence,Shell,cyndi.bourne@shell.com,4 4th Avenue SW,,Calgary,Alberta,,T2P 2H5,Canada,+143691479,,,OSIsoft PI Coresight
+60,214-3-26T11:1:57,Q76318,OSI1945,Brandon,Curless,Programmer II,XCEL Energy,brandon.a.curless@xcelenergy.com,686 SW 48th,,Amarillo,TX,,7919,United States,86-64-638,,,OSIsoft PI Coresight
+61,214-3-25T16:48:8,Q76318,OSI1156,James,Lisk,Project Engineer,Corning Incorporated,liskjd@corning.com,HP-ME-3-81,,Corning,New York,,14831,United States,67-974-9658,67-329-548,,OSIsoft PI Coresight
+62,214-3-26T13:11:7,Q76318,OSI1666,Ronald,Holden,Divisional Director,Servelec Controls,ronald.holden@servelec-controls.com,The Technology Centre,Claymore Drive,Aberdeen,Aberdeenshire,,AB23 8GD,United Kingdom,+441224777,+4478598742,,OSIsoft PI Coresight
+63,214-3-26T9:58:18,Q76318,OSI154,Li,Luo,Sr. Systems Architect,"Pepco Holdings, Inc",li.luo@pepcoholdings.com,PO Box 9239,79NC35,Newark,DE,,19714,United States,324544392,,,OSIsoft PI Coresight
+64,214-3-25T16:41:15,Q76318,OSI1479,Elvin,Pagan,President,LT Automation,epagan@ltapr.com,PMB 41 #89 Ave De Diego,Suite 15,San Juan,PR,,927,Puerto Rico,787-78-374,,,OSIsoft PI Coresight
+65,214-3-26T8:7:12,Q76318,OSI1421,Carl,Van Laer,IT Manager Manufacturing Systems,Janssen Pharmaceutical Companies,cvlaer1@its.jnj.com,Turnhoutseweg 3,,Beerse,Antwerp,,B-234,Belgium,+32146473,+3247455949,,OSIsoft PI Coresight
+66,214-3-25T16:8:16,Q76318,OSI1147,John,Sintilas,Development Lead,OSIsoft,jsintilas@osisoft.com,,,Philadelphia,,,,United States,,,,OSIsoft PI Coresight
+67,214-3-25T16:8:21,Q76318,OSI1147,John,Sintilas,Development Lead,OSIsoft,jsintilas@osisoft.com,,,Philadelphia,,,,United States,,,,OSIsoft PI Coresight
+68,214-3-25T16:8:24,Q76318,OSI1147,John,Sintilas,Development Lead,OSIsoft,jsintilas@osisoft.com,,,Philadelphia,,,,United States,,,,OSIsoft PI Coresight
+69,214-3-26T11:2:13,Q76318,OSI167,Tom,Pardue,Systems Analyst,Eastman Chemical Company,tpardue@eastman.com,B-284,1 Eastman Road,Kingsport ,Tennessee ,,3766,United States,423-229-2938,423-3841896,,OSIsoft PI Coresight
+70,214-3-26T8:37:27,Q76318,OSI171,Alan,Calder,Electrical Engineer,Deseret Power,acalder@deseretpower.com,125 East 255 South,,Vernal,Utah,,8478,United States,435-781-5719,,,OSIsoft PI Coresight
+71,214-3-25T12:55:3,Q76318,OSI11497,Eric,Lang,,OSIsoft,elang@osisoft.com,,,Philadelphia,,,,United States,,,Hot,OSIsoft PI Coresight
+72,214-3-26T9:37:19,Q76318,OSI115,Joe,Couchara,Software Test Engineer,OSIsoft,jcouchara@osisoft.com,17 Market St,Suite 221,Philadelphia,,,1913,United States,215-66-641,,,OSIsoft PI Coresight
+73,214-3-26T11:6:19,Q76318,OSI11699,Brent,Bregenzer,Customer Support Engineer,OSIsoft,bbregenzer@osisoft.com,Creekside Plaza Building A,"11 San Leandro Blvd, Suite 2",San Leandro,,,94577,United States,51-877-4415,,,OSIsoft PI Coresight
+74,214-3-26T13:56:25,Q76318,OSI1622,Peter,King,Control Systems Manager,Tesoro,peter.j.king@tsocorp.com,Golden Eagle Refinery,"15, Solano Way,",Matinez,Ca,,94553,United States,9253723167,,,OSIsoft PI Coresight
+75,214-3-25T13:33:31,Q76318,OSI158,Philipp,Sutter,Owner,OctaveSoft GmbH,philipp.sutter@octavesoft.ch,Malzgasse 15,,Basel,BS,,452,Switzerland,+41 61 271 8283,,,OSIsoft PI Coresight
+76,214-3-26T13:32:,Q76318,OSI11761,Gary,Grimes,Director of Technology,Paramount Petroleum,ggrimes@ppcla.com,147 Downey Ave,,Paramount,CA,,9723,United States,562-531-26,949-93-4112,,OSIsoft PI Coresight
+77,214-3-25T14:1:17,Q76318,OSI11771,Nader,Riad,Engineer,Baxter Healthcare,nader_riad@baxter.com,17 rancho conejo,,thousand oaks,CA,,9132,United States,8541514,8541514,,OSIsoft PI Coresight

@@ -1,0 +1,71 @@
+,Date/Time,Device ID,Badge ID,Name Badge First Name,Name Badge Last Name,Job Title,Company,Email Address,Address Line 1,Address Line 2,City,State/Province,US State,Zip (Postal Code),Country,Business Phone,Mobile Phone,Custom Question,Lead Rank,Follow Up,Event
+0,,,,,,,,,,,,,,,,,,,,,RoviSys
+1,2014-03-25T17:00:38,Q706332,OSI010408,Amy,Konat,Business Analyst,Chevron,byih@chevron.com,9525 Camino Media,,Bakersfield,CA,,93311,United States,661-292-3902,,,,,RoviSys
+2,,,,,,,,,,,,,,,,,,,,,RoviSys
+3,2014-03-25T16:29:32,Q706332,OSI010744,James,Simonetti,Systems Architect,"Pepco Holdings, Inc",jsimonetti@pepco.com,10611 Westlake Drive,,Bethesda,Md,,20817,United States,3014804269,,,Hot,Phone,RoviSys
+4,,,,,,,,,,,,,,,,,,,,,RoviSys
+5,2014-03-25T13:54:04,Q706332,OSI010773,Daqing,Hou,Professor,Clarkson University,dhou@clarkson.edu,8 Clarkson Ave,,Potsdam,NY,,13699,United States,315-2687675,,,,,RoviSys
+6,,,,,,,,,,,,,,,,,,,,,RoviSys
+7,2014-03-25T11:01:24,Q706332,OSI010322,Bryan,DeBois,ERP Solutions Manager,RoviSys,debois@rovisys.com,1455 Danner Dr,,Aurora,OH,,44202,United States,330-995-8125,,,Cold,,RoviSys
+8,,,,,,,,,,,,,,,,,,,,,RoviSys
+9,2014-03-26T14:03:31,Q706332,OSI011102,Joshua,Biagio,Automation Engineer II,BioMarin Pharmaceutical,jbiagio@bmrn.com,105 Digital Dr,,Novato,California,,94949,United States,+1 (415) 506-3316,+1 (415) 246-9451,Yes,Hot,Phone,RoviSys
+10,,,,,,,,,,,,,,,,,,,,,RoviSys
+11,2014-03-25T13:58:53,Q706332,OSI011614,Ian,Rustandi,Inside Account Representative,OSIsoft,irustandi@osisoft.com,,,San Leandro,,,,United States,,6262268817,,,,RoviSys
+12,,,,,,,,,,,,,,,,,,,,,RoviSys
+13,2014-03-26T11:14:04,Q706332,OSI010369,Bob,Grinde,Solutions Architect,Blu-Sphere Systems Inc.,bgrinde@bssinc.us,120 East FM 544 Ste 72,PMB 212,Murphy,TX,,75094-4035,United States,6122542049,6128029424,No,,,RoviSys
+14,,,,,,,,,,,,,,,,,,,,,RoviSys
+15,2014-03-26T12:28:06,Q706332,OSI010682,Paul,Yaroshak,Senior Process Systems Engineer,Barrick Gold Corporation,pyaroshak@barrick.com,"Novo - Centro, Piso 16, ",Avenida Lope de Vega No. 29. Ensanche Naco,Santo Domingo,Santo Domingo,,,Dominican Republic,829-345-9572,829-345-9572,,Hot,Email,RoviSys
+16,,,,,,,,,,,,,,,,,,,,,RoviSys
+17,2014-03-26T12:05:31,Q706332,OSI010571,Linda,Stevens,"Supervisor, Control System Software","Pepco Holdings, Inc",Linda.Stevens@pepcoholdings.com,P.O Box 9239,,Newark,De,,19714-9239,United States,3024544554,,,,,RoviSys
+18,,,,,,,,,,,,,,,,,,,,,RoviSys
+19,2014-03-26T11:13:24,Q706332,OSI010271,Patrick,Harding,Data Integration Project Leader,Alcoa,patrick.harding@alcoa.com,4879 State Street,,Bettendorf,Iowa,,52722,United States,563-459-1201,563-676-8925,,,,RoviSys
+20,,,,,,,,,,,,,,,,,,,,,RoviSys
+21,2014-03-25T17:23:27,Q706332,OSI010757,Srini,Gudeti,Principal Analyst,DTE Energy,gudetir@dteenergy.com,"One Energy Plaza, ",308 SOC,Detroit,MI,,48335,United States,313-235-6677,,,,,RoviSys
+22,,,,,,,,,,,,,,,,,,,,,RoviSys
+23,2014-03-25T14:29:27,Q706332,OSI010692,Jon,Norris,PI & Systems Administrator,Brookfield Power,jonathan.norris@brookfieldrenewable.com,200 Donald Lynch Blvd. Ste 300,,Marlborough,MA,,1752,United States,(518) 743-2094,(508) 361-9488,,Hot,,RoviSys
+24,,,,,,,,,,,,,,,,,,,,,RoviSys
+25,2014-03-25T14:39:00,Q706332,OSI010699,Justin,Studer,Lead Software Engineer,Rovisys,justin.studer@rovisys.com,1455 Danner Drive,,Aurora,OH,,44202,United States,3305628688,,,Hot,,RoviSys
+26,,,,,,,,,,,,,,,,,,,,,RoviSys
+27,2014-03-26T12:05:21,Q706332,OSI010299,Tim,Heck,Adv IT Systems Integrator,Marathon Petroleum,teheck@marathonpetroleum.com,539 S. Main Street,,Findlay,OH,,45840,United States,419-619-8115,,,,,RoviSys
+28,,,,,,,,,,,,,,,,,,,,,RoviSys
+29,2014-03-25T13:06:17,Q706332,OSI010310,Brent,Punt,Swiftwater Site Head for Industrial,Sanofi Pasteur,brent.punt@sanofi.com,1 Discovery Dr,,Swiftwater,PA,,18411,United States,570 957 5623,570 216 6116,,,,RoviSys
+30,,,,,,,,,,,,,,,,,,,,,RoviSys
+31,2014-03-25T14:07:27,Q706332,OSI010406,John,Vargo,Manager,RoviSys,john.vargo@rovisys.com,"2521 Schieffelin Rd, Suite 116",,Apex,NC,,27502,United States,(919) 741-3584,(919) 741-3584,,,,RoviSys
+32,,,,,,,,,,,,,,,,,,,,,RoviSys
+33,2014-03-25T13:15:38,Q706332,OSI010531,Wesley,Smith,Controls Technician,Public Service Company of New Mexico,wesley.smith@pnm.com,CR 6800 North,PNM,Waterflow,New Mexico,,87421,United States,505-598-7676,510-449-9321,,,,RoviSys
+34,,,,,,,,,,,,,,,,,,,,,RoviSys
+35,2014-03-25T10:19:32,Q706332,OSI010242,Brian,Polaski,Manager,RoviSys,brian.polaski@rovisys.com,1455 Danner Drive,,Aurora,Oh,,44202,United States,3308071000,3308071000,,,,RoviSys
+36,,,,,,,,,,,,,,,,,,,,,RoviSys
+37,2014-03-26T11:01:11,Q706332,OSI010415,Corey,Bigelow,SCADA Coordinator,Access Midstream,corey.bigelow@accessmidstream.com,P.O. Box 18355,,Oklahoma City,OK,,73154,United States,405-727-1151,,,,,RoviSys
+38,,,,,,,,,,,,,,,,,,,,,RoviSys
+39,2014-03-26T12:05:03,Q706332,OSI010595,Anh,Hoang,Process Control Engineer,NALCO Champion,anh.hoang@champ-tech.com,3130 FM 521,,Fresno,Texas,,77545,United States,281-719-9312,,,,,RoviSys
+40,,,,,,,,,,,,,,,,,,,,,RoviSys
+41,2014-03-25T17:02:59,Q706332,OSI010162,Mark,Blaszkiewicz,Manager - IT,DTE Energy,blaszkiewiczm@dteenergy.com,One Energy Plaza,723 GO,Detroit,Michigan,,48226,United States,313-235-6463,248-342-8147,,,,RoviSys
+42,,,,,,,,,,,,,,,,,,,,,RoviSys
+43,2014-03-26T08:14:43,Q706332,OSI010631,James,Li,Principle Engineer,Abbott Laboratories,Kuochu.Li@abbott.com,625 Cleveland Ave.,,Columbus,OH,,43215,United States,6146243016,6145355307,,,,RoviSys
+44,,,,,,,,,,,,,,,,,,,,,RoviSys
+45,2014-03-25T18:04:55,Q706332,OSI010443,Jim,Herwig,Control Systems Engineer,Grain Processing Corporation,jim_herwig@grainprocessing.com,1443 S 300 W,,Washington,IN,,47501,United States,812-257-2710,812-459-3315,,Hot,Email,RoviSys
+46,,,,,,,,,,,,,,,,,,,,,RoviSys
+47,2014-03-25T15:06:29,Q706332,OSI010278,Kimlin,Pen,Information Architect,Spectra Energy,kpen@spectraenergy.com,"Suite 2600, 425 1st Street SW",,Calgary,AB,,T2P3L8,Canada,403-699-1807,,,,,RoviSys
+48,,,,,,,,,,,,,,,,,,,,,RoviSys
+49,2014-03-25T15:06:31,Q706332,OSI010278,Kimlin,Pen,Information Architect,Spectra Energy,kpen@spectraenergy.com,"Suite 2600, 425 1st Street SW",,Calgary,AB,,T2P3L8,Canada,403-699-1807,,,,,RoviSys
+50,,,,,,,,,,,,,,,,,,,,,RoviSys
+51,2014-03-25T17:59:31,Q706332,OSI011087,Marco,Ascazubi,Technical Project Lead,CUNY Building Performance Lab,mascazubi@gmail.com,8031 Cypress Ave.,,Ridgewood,NY,,11385,United States,3476201011,,,,,RoviSys
+52,,,,,,,,,,,,,,,,,,,,,RoviSys
+53,2014-03-26T12:05:27,Q706332,OSI010504,Li,Luo,Sr. Systems Architect,"Pepco Holdings, Inc",li.luo@pepcoholdings.com,PO Box 9239,79NC35,Newark,DE,,19714,United States,3024544392,,,,,RoviSys
+54,,,,,,,,,,,,,,,,,,,,,RoviSys
+55,2014-03-25T16:18:33,Q706332,OSI010479,Elvin,Pagan,President,LT Automation,epagan@ltapr.com,PMB 401 #89 Ave De Diego,Suite 105,San Juan,PR,,927,Puerto Rico,787-780-3740,,,,,RoviSys
+56,,,,,,,,,,,,,,,,,,,,,RoviSys
+57,2014-03-25T14:25:42,Q706332,OSI010526,Myles,Sumlin,Automation Engineer,Genentech,msumlin@gene.com,1 Antibody Way,,Oceanside,CA,,92056,United States,7602312827,8589675929,,,,RoviSys
+58,,,,,,,,,,,,,,,,,,,,,RoviSys
+59,2014-03-25T16:58:16,Q706332,OSI010954,Tony,Anderson,Systems Analyst III,NRG Energy,Tony.Anderson@nrgenergy.com,1000 Main St.,2030G,Houston,TX,,77002,United States,(832)357-3267,(713)858-9295,,,,RoviSys
+60,,,,,,,,,,,,,,,,,,,,,RoviSys
+61,2014-03-25T14:59:25,Q706332,OSI010701,Alan,Calder,Electrical Engineer,Deseret Power,acalder@deseretpower.com,12500 East 25500 South,,Vernal,Utah,,84078,United States,435-781-5719,,,,,RoviSys
+62,,,,,,,,,,,,,,,,,,,,,RoviSys
+63,2014-03-25T15:07:34,Q706332,OSI010701,Alan,Calder,Electrical Engineer,Deseret Power,acalder@deseretpower.com,12500 East 25500 South,,Vernal,Utah,,84078,United States,435-781-5719,,,,,RoviSys
+64,,,,,,,,,,,,,,,,,,,,,RoviSys
+65,2014-03-26T11:01:08,Q706332,OSI010374,Darin,Molone,"Manager, SCADA",Access Midstream,darin.molone@accessmidstream.com,525 Central Park Drive,,Oklahoma City,OK,,73105,United States,405-727-1587,,,,,RoviSys
+66,,,,,,,,,,,,,,,,,,,,,RoviSys
+67,2014-03-26T10:36:46,Q706332,OSI010563,Steven,Ho,Plant Engineer,Ecolab,steven.ho@nalco.com,PO Box 18181,,Sugar Land,Texas,,77496,United States,2812637983,,,Warm,Phone,RoviSys
+68,,,,,,,,,,,,,,,,,,,,,RoviSys
+69,2014-03-25T17:35:58,Q706332,OSI011765,Russell,Mayhew,"Director, Automation Engineering",BioMarin Pharmaceutical Inc.,rmayhew@bmrn.com,105 Digital Dr.,,Novato,CA,,94949,United States,415-506-3604,,,Hot,Phone,RoviSys

@@ -1,0 +1,91 @@
+,Date/Time,Device ID,Badge ID,Name Badge First Name,Name Badge Last Name,Job Title,Company,Email Address,Address Line 1,Address Line 2,City,State/Province,US State,Zip (Postal Code),Country,Business Phone,Mobile Phone,Custom Question,Lead Rank,Follow Up,Event
+0,,,,,,,,,,,,,,,,,,,,,O-Sys
+1,2014-03-25T13:48:13,Q079,OSI010439,Frank,Inselbuch,Senior Manager,Accenture,frank.inselbuch@accenture.com,1301 Fannin,Suite 1900,Houston,TX,,77002,United States,713-581-0914,713-865-6244,,,Email,O-Sys
+2,,,,,,,,,,,,,,,,,,,,,O-Sys
+3,2014-03-25T14:56:15,Q079,OSI010819,Frank,Seguin,IT Superintendent,Glencore Canada,frank.seguin@glencore-ca.com,"P.O. Bag 2002, Stn Main",,Timmins,Ontario,,P4N 7K1,Canada,705-267-8777,705-266-4221,,,,O-Sys
+4,,,,,,,,,,,,,,,,,,,,,O-Sys
+5,2014-03-25T15:20:55,Q079,OSI010744,James,Simonetti,Systems Architect,"Pepco Holdings, Inc",jsimonetti@pepco.com,10611 Westlake Drive,,Bethesda,Md,,20817,United States,3014804269,,,,Email,O-Sys
+6,,,,,,,,,,,,,,,,,,,,,O-Sys
+7,2014-03-25T16:45:24,Q079,OSI010055,Chris,Smelker,Control Engineer,Chevron/Phillips Chemical Company LLP,smelkca@cpchem.com,Spur 119 East,,Borger,Texas,,79007,United States,8062755520,8066268282,,,,O-Sys
+8,,,,,,,,,,,,,,,,,,,,,O-Sys
+9,2014-03-26T08:42:10,Q079,OSI010639,Mark,Pelosi,"Manager, Reliability Engineering","Essential Power, LLC",mark.pelosi@essentialpowerllc.com,150 College Rd West,Suite 300,Princeton,NJ,,8540,United States,7329838351,,,,,O-Sys
+10,,,,,,,,,,,,,,,,,,,,,O-Sys
+11,2014-03-25T15:00:00,Q079,OSI011085,Khalid,Alzahrani,Supervisor,Saudi Aramco,khalid.zahrani.2@aramco.com,P.O.Box 1914,,Ras Tanura,Eastern,,31311,Saudi Arabia,9668808518,,,Hot,Email,O-Sys
+12,,,,,,,,,,,,,,,,,,,,,O-Sys
+13,2014-03-26T11:09:55,Q079,OSI010012,David,Bell,Engineering Leader,Novelis,david.bell@novelis.com,302 Mayde Rd.,,Berea,KY,,40403,United States,8599856806,,,,,O-Sys
+14,,,,,,,,,,,,,,,,,,,,,O-Sys
+15,2014-03-26T09:51:17,Q079,OSI011175,Steve,Bogan,President,Prism Technology Services,steveb@theprismgroup.biz,10222 The Grove Blvd Apt 1311,,Baton Rouge,Louisina,,70836,United States,225-324-3739,,,,Email,O-Sys
+16,,,,,,,,,,,,,,,,,,,,,O-Sys
+17,2014-03-25T16:00:17,Q079,OSI011125,Edmund,Campion,Director R&D,APR Energy,edmund.campion@aprenergy.com,3814 Biggin Church Rd. W.,,Jacksonville,Fl,,32224,United States,9042232289,9042005797,No,Hot,Email,O-Sys
+18,,,,,,,,,,,,,,,,,,,,,O-Sys
+19,2014-03-26T14:23:44,Q079,OSI010076,John,Branch,Senior Power & Commercial Analyst,SunCoke Energy,jhbranch@suncoke.com,1011 Warrenville Road,,Lisle,Illinois,,60532,United States,630-824-1905,630-432-5415,,,Email,O-Sys
+20,,,,,,,,,,,,,,,,,,,,,O-Sys
+21,2014-03-26T13:14:24,Q079,OSI010802,Rui,Sun,Engineer III,Dominion Virginia Power,rui.sun@dom.com,2400 Grayland Ave.,,Richmond,VA,,23220,United States,804-257-4978,804-363-8554,,Warm,Email,O-Sys
+22,,,,,,,,,,,,,,,,,,,,,O-Sys
+23,2014-03-26T08:21:30,Q079,OSI010332,Brian,Corcoran,Manufacturing Systems Manager,Janssen Pharmaceutical Companies,bcorcor2@its.jnj.com,Janssen Biologics,"Barnahely, Ringaskiddy",Cork,na,,na,Ireland,353214973319,,,Cold,Email,O-Sys
+24,,,,,,,,,,,,,,,,,,,,,O-Sys
+25,2014-03-26T10:55:59,Q079,OSI010822,Nick,Skimas,IT Manager,Georgia-Pacific,nick.skimas@gapac.com,92326 Taylorville Rd.,,Clatskanie,OR,,97016,United States,503-298-2607,,,Warm,Email,O-Sys
+26,,,,,,,,,,,,,,,,,,,,,O-Sys
+27,2014-03-26T09:12:57,Q079,OSI010336,Craig,Lichty,General Manager Arkansas Operations,Evergreen Packaging,craig.lichty@everpack.com,5201 Fairfield Road,,Pine Bluff,AR,,71601,United States,870-541-5631,870-543-9756,,,Email,O-Sys
+28,,,,,,,,,,,,,,,,,,,,,O-Sys
+29,2014-03-25T14:01:08,Q079,OSI010831,Tim,Domenget,Application Lead,Georgia-Pacific,tim.domenget@gapac.com,7530 Highway 114,Naheola Mill,Pennington,Alabama,,36916,United States,(205) 459-1449,(601) 513-3467,Yes,Hot,,O-Sys
+30,,,,,,,,,,,,,,,,,,,,,O-Sys
+31,2014-03-26T11:34:58,Q079,OSI010718,Mike,Parker,Regional Automation & Electrical Manager,Archer Daniels Midland,mike.parker@adm.com,4107 Kennedy Rd,,Taylorville,IL,,62568,United States,217-451-3224,217-412-8711,,,,O-Sys
+32,,,,,,,,,,,,,,,,,,,,,O-Sys
+33,2014-03-26T11:35:00,Q079,OSI010716,Tom,Bell,Regional Automation & Electrical Manager,Archer Daniels Midland,tom.bell@adm.com,1841 Clay Rd,,Valdosta,Georgia,,31601,United States,229-293-2640,229-251-8140,,,Phone,O-Sys
+34,,,,,,,,,,,,,,,,,,,,,O-Sys
+35,2014-03-26T14:07:10,Q079,OSI010936,Roland,Esquivel,Manufacturing Systems Analyst,Amway,resquivel@amway.com,5600 beach blvd,,buena Park,california,,90621,United States,714-837-6696,,No,Cold,,O-Sys
+36,,,,,,,,,,,,,,,,,,,,,O-Sys
+37,2014-03-26T14:23:39,Q079,OSI010165,Katie,Russell,Process Technology Engineer,SunCoke Energy,kerussell@suncoke.com,1011 Warrenville Road,Suite 600,Lisle,IL,,60532,United States,630-209-2651,,,,Email,O-Sys
+38,,,,,,,,,,,,,,,,,,,,,O-Sys
+39,2014-03-25T16:08:16,Q079,OSI011084,Arne,Hedevang,Lead Commercial Developer,DONG Energy,arhed@dongenergy.dk,Kraftværksvej 53,,Fredericia,Jylland,,7000,Denmark,4599557827,,,,,O-Sys
+40,,,,,,,,,,,,,,,,,,,,,O-Sys
+41,2014-03-26T14:05:41,Q079,OSI010048,Richard,D'Souza,Director,TerraSol Limited,richard@terrasol.co.uk,Anvil Cottage,Burnhervie,Inverurie,Aberdeenshire,,AB51 5JR,United Kingdom,1467642570,7866568216,,,Email,O-Sys
+42,,,,,,,,,,,,,,,,,,,,,O-Sys
+43,2014-03-26T11:19:27,Q079,OSI010327,Ian,Jefferson,Manager Manufacturing Software Solutions,Corning Incorporated,jeffersonig@corning.com,Corning Incorporporated,HP-ME-03,Corning,NY,,14831,United States,607-974-4334,,,,,O-Sys
+44,,,,,,,,,,,,,,,,,,,,,O-Sys
+45,2014-03-26T09:34:32,Q079,OSI010420,Francois,Ruel,Control System Engineer,Chevron,fruel@chevron.com,1400 Smith ave,,Houston,Texas,,77002,United States,713-372-0544,832-763-8266,,,Email,O-Sys
+46,,,,,,,,,,,,,,,,,,,,,O-Sys
+47,2014-03-25T13:50:26,Q079,OSI011157,Constantino,Seixas,Managing Director,Accenture,constantino.seixas@accenture.com,Rua Senador Milton Campos 145 ,,Nova Lima,MG,,34000-000,Brazil,55 31 3338 5092,55 31 9779 21 40,No,,Email,O-Sys
+48,,,,,,,,,,,,,,,,,,,,,O-Sys
+49,2014-03-25T15:39:01,Q079,OSI010531,Wesley,Smith,Controls Technician,Public Service Company of New Mexico,wesley.smith@pnm.com,CR 6800 North,PNM,Waterflow,New Mexico,,87421,United States,505-598-7676,510-449-9321,,,Email,O-Sys
+50,,,,,,,,,,,,,,,,,,,,,O-Sys
+51,2014-03-25T12:48:27,Q079,OSI010711,Joshua,Flores,Business Development Manager,Optimized Systems and Solutions,floresJ@ds-s.com,8303 McHard Rd.,Suite 200,Houston,TX,,77053,United States,281-617-4800,,,,,O-Sys
+52,,,,,,,,,,,,,,,,,,,,,O-Sys
+53,2014-03-25T17:43:01,Q079,OSI010782,Arkadiusz,Ziemba,CEO,StatConsulting,sylwia.socko@statconsulting.com.pl,ul. Wolodyjowskiego 38a,02-724 Warszaw,Warsaw,Warsaw,,02-724,Poland,+48 22 847 97 17,,Yes,Hot,Email,O-Sys
+54,,,,,,,,,,,,,,,,,,,,,O-Sys
+55,2014-03-26T10:25:29,Q079,OSI010621,Martha,Martinez,Engineering Specialist,Oxy,martha_martinez@oxy.com,9600 Ming Ave,,Bakersfield,California,,93311,United States,661-412-5353,661-431-9879,,Warm,Email,O-Sys
+56,,,,,,,,,,,,,,,,,,,,,O-Sys
+57,2014-03-26T11:05:25,Q079,OSI011130,Laurent,Laporte,COO,IP Leanware,laurent.laporte@ipleanware.com,4 bd de la sous prefecture,,Issoire,Auvergne,,63500,France,33603678395,33603678395,,Cold,Email,O-Sys
+58,,,,,,,,,,,,,,,,,,,,,O-Sys
+59,2014-03-25T17:37:28,Q079,OSI010734,Junri,Ichikawa,Senior Engineer,"Hitachi Systems, Ltd.",junri.ichikawa.zc@hitachi.com,Hitachi Omori 2nd Bldg,"27-18, Minami Oi 6-chome",Shinagawa-ku,Tokyo,,1408572,Japan,+81-3-5471-2786,,,,Email,O-Sys
+60,,,,,,,,,,,,,,,,,,,,,O-Sys
+61,2014-03-25T13:42:59,Q079,OSI010998,Sergio,Barraza,Electrical Engineer,City oF San Francisco PUC,sbarraza@sfwater.org,750 Phelps St,,San Francisco,CA,,94124,United States,415-920-4916,,,Warm,Email,O-Sys
+62,,,,,,,,,,,,,,,,,,,,,O-Sys
+63,2014-03-25T15:29:04,Q079,OSI010114,James,Burr,Systems Engineer,Intermountain Power,james.burr@ipsc.com,850 W Brushwellman Road,,Delta,UT,,84624,United States,435-864-6454,,Yes,Warm,Email,O-Sys
+64,,,,,,,,,,,,,,,,,,,,,O-Sys
+65,2014-03-25T16:25:42,Q079,OSI010079,Rick,Howell,Automation Data Coordinator,Devon Energy,rick.howell@dvn.com,333 West Sheridan Ave,,Oklahoma City,OK,,73102,United States,405-228-3070,,,Hot,Email,O-Sys
+66,,,,,,,,,,,,,,,,,,,,,O-Sys
+67,2014-03-25T16:35:59,Q079,OSI010079,Rick,Howell,Automation Data Coordinator,Devon Energy,rick.howell@dvn.com,333 West Sheridan Ave,,Oklahoma City,OK,,73102,United States,405-228-3070,,,Warm,Email,O-Sys
+68,,,,,,,,,,,,,,,,,,,,,O-Sys
+69,2014-03-26T13:43:33,Q079,OSI010588,Uzma,Taj,Engineer,ComEd,Uzma.Taj@exeloncorp.com,5 Orly Ct,,West Windsor,NJ,,8550,United States,551-265-0214,,,Cold,Phone,O-Sys
+70,,,,,,,,,,,,,,,,,,,,,O-Sys
+71,2014-03-25T17:36:36,Q079,OSI010432,Robert,Lane,Software Engineer/Analyst/Developer,Washington River Protection Solutions (WRPS),Robert_A_Lane@rl.gov,2440 Stevens Center Place,"PO Box 850, MSIN R1-02",Richland,WA,,99354,United States,509-373-4748,208-818-6976,,,,O-Sys
+72,,,,,,,,,,,,,,,,,,,,,O-Sys
+73,2014-03-26T13:28:57,Q079,OSI010631,James,Li,Principle Engineer,Abbott Laboratories,Kuochu.Li@abbott.com,625 Cleveland Ave.,,Columbus,OH,,43215,United States,6146243016,6145355307,,Warm,Email,O-Sys
+74,,,,,,,,,,,,,,,,,,,,,O-Sys
+75,2014-03-26T08:14:08,Q079,OSI010702,Francisco,Ibarra,Business Consultant,CEMEX,franciscojavier.ibarrac@ext.cemex.com,Av. Constitución 444 Pte.,Col. Centro,Monterrey,Nuevo León,,64000,Mexico,(52) 81 8328 3000,8328057359,,Cold,Email,O-Sys
+76,,,,,,,,,,,,,,,,,,,,,O-Sys
+77,2014-03-25T16:19:09,Q079,OSI010836,Jon,Abbott,Systems Analyst Specialist,Dominion Virginia Power,jona063@dom.com,2400 grayland ave,,Richmond,va,,23220,United States,8042574925,,Yes,Warm,Email,O-Sys
+78,,,,,,,,,,,,,,,,,,,,,O-Sys
+79,2014-03-26T14:17:08,Q079,OSI010671,Seth,Whitworth,Senior Engineer,Xcel Energy,seth.whitworth@xcelenergy.com,970 CR 65,,Earth,TX,,79031,United States,806-257-7018,806-523-8529,,Warm,Email,O-Sys
+80,,,,,,,,,,,,,,,,,,,,,O-Sys
+81,2014-03-25T16:02:30,Q079,OSI010376,Mahalet,Sebhatu,Process Engineer ,Alcoa,mahalet.sebhatu@alcoa.com,710 Biltmore Way,,Evansville,IN,,47715,United States,865-335-5273,865-335-5273,,Warm,Email,O-Sys
+82,,,,,,,,,,,,,,,,,,,,,O-Sys
+83,2014-03-26T11:49:27,Q079,OSI010217,Dag,Reppen,Sr Engineer,Salt River Project,dag.reppen@srpnet.com,M/S: POB006,PO Box 52025,Phoenix,AZ,,85072-2025,United States,602-236-4395,,,Warm,Email,O-Sys
+84,,,,,,,,,,,,,,,,,,,,,O-Sys
+85,2014-03-26T13:40:54,Q079,OSI010391,Dilek,Alkaya,Senior Control Eng,Tesoro,Dilek.Alkaya@tsocorp.com,150 Solano Way,,Martinez,CA,,94553,United States,925 228 1220,,,Warm,Email,O-Sys
+86,,,,,,,,,,,,,,,,,,,,,O-Sys
+87,2014-03-26T09:13:02,Q079,OSI010314,Paul,Geoghegan,Business Improvement Manager,Evergreen Packaging,paul.geoghegan@everpack.com,34 Park Street,,Canton,NC,,28716,United States,828-713-7792,828-713-7792,,,Email,O-Sys
+88,,,,,,,,,,,,,,,,,,,,,O-Sys
+89,2014-03-26T10:47:01,Q079,OSI010563,Steven,Ho,Plant Engineer,Ecolab,steven.ho@nalco.com,PO Box 18181,,Sugar Land,Texas,,77496,United States,2812637983,,,Warm,Email,O-Sys

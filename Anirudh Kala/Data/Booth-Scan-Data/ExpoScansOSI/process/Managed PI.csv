@@ -1,0 +1,43 @@
+,Date/Time,Device ID,Badge ID,Name Badge First Name,Name Badge Last Name,Job Title,Company,Email Address,Address Line 1,Address Line 2,City,State/Province,US State,Zip (Postal Code),Country,Business Phone,Mobile Phone,Event
+0,214-3-25T14:34:13,Q75311,OSI1819,Frank,Seguin,IT Superintendent,Glencore Canada,frank.seguin@glencore-ca.com,"P.O. Bag 22, Stn Main",,Timmins,Ontario,,P4N 7K1,Canada,75-267-8777,75-266-4221,Managed PI
+1,214-3-26T12:47:24,Q75311,OSI192,Bertrand,Lasternas,Researcher,Carnegie Mellon University,Blastern@andrew.cmu.edu,58 Walnut Street,,Pittsburgh,PA,,15232,United States,41292594,,Managed PI
+2,214-3-25T14:22:18,Q75311,OSI154,Salla,Diop,Project Manager,Merck,salla_diop@merck.com,131 CHURCH ROAD Apt 1-A,,NORTH WALES,PA,,19454,United States,215652149,,Managed PI
+3,214-3-25T16:33:6,Q75311,OSI11119,Charlie,Mogannam,Lead EMS Power Technology Engineer,CAISO,cmogannam@caiso.com,25 Outcropping Way,,Folsom,CA,,9563,United States,(916) 351-2139,(916) 673-761,Managed PI
+4,214-3-26T11:48:46,Q75311,OSI133,Murat,Uludogan,Supervisor Applications Support,Peak Realiability,muludogan@peakrc.com,458 Hanhs Peak Drive,,Loveland,CO,,8538,United States,97 776 5578,81 664 141,Managed PI
+5,214-3-25T17:29:31,Q75311,OSI1493,Brenhan,Holm,System Analyst,Flowserve,bholm@flowserve.com,7796 Stacey drive ,,Southaven,MS,,38671,United States,662 44 6654,91 359 2556,Managed PI
+6,214-3-25T14:58:28,Q75311,OSI14,Rich,Colvin,"Region IT Mgr, Asia",Abbott Laboratories,richard.colvin@abbott.com,855 Stonechat Loop,,Dublin,OH,,4314,United States,312-246-3445,312-246-3445,Managed PI
+7,214-3-26T13:35:6,Q75311,OSI1613,John,Hume,Sr PI System Manager,Verso Paper Corporation,john.hume@versopaper.com,P.O. Box 2,,Jay,Me,,4239,United States,27-897-152,27-357-146,Managed PI
+8,214-3-26T9:18:37,Q75311,OSI1249,Jason,Cox,SCADA Administrator,Invenergy LLC,jcox@invenergyllc.com,192 Springer Drive,,Lombard,Illinois,,6148,United States,312582126,,Managed PI
+9,214-3-26T12:18:34,Q75311,OSI1194,Amrish,Macedo,CTO,echoMESH,amacedo@echomesh.com,791 Old State Road,,Berwyn,PA,,19312,United States,4842419356,4842419356,Managed PI
+10,214-3-25T17:59:12,Q75311,OSI1367,André,Trudel,Process control engineer,Rocktenn,atrudel@rocktenn.com,"1, chemin de l'usine",,La Tuque,Québec,,G9x 3P8,Canada,819-676-81,819-676-6812,Managed PI
+11,214-3-26T11:23:31,Q75311,OSI1258,Steve,Tran,Senior Project Engineer,Mera,nataliya.dvorak@meragroup.net,195-1 Research Drive,,Regina ,Saskatchewan,,S4S7J7,Canada,367993,367993,Managed PI
+12,214-3-26T1:5:3,Q75311,OSI1761,Marvin,Wong,Operations Analyst Engineer,Secure Energy Services,mwong@secure-energy.ca,"36, 25 5th Ave SW",,Calgary,AB,,T2P 2V7,Canada,437714861,,Managed PI
+13,214-3-26T11:48:42,Q75311,OSI132,Mark,Bowles,Sr. Applications Analyst,Peak Realiability,MBOWLES@PEAKRC.COM,"485 Hahns Peak Drive, Suite 12",,Loveland,CO,,8538,United States,977765753,,Managed PI
+14,214-3-25T8:6:31,Q75311,OSI11443,Tim,English,,OSIsoft,tenglish@osisoft.com,,,San Leandro,,,,United States,,,Managed PI
+15,214-3-25T16:19:11,Q75311,OSI15,Scott,Larson,IT Systems Analyst,SunCoke Energy,sdlarson@suncoke.com,111 Wrrenville Rd,Suite 6,Lisle,IL,,6532,United States,63-824-1721,63-432-3119,Managed PI
+16,214-3-25T17:23:26,Q75311,OSI1394,Tom,Luo,Lead Historians and Database,Suncor Energy,tluo@suncor.com,15-6th AVE SW,,Calgary,AB,,T2P3E3,Canada,43-296-5728,43-815-341,Managed PI
+17,214-3-25T13:22:53,Q75311,OSI132,Christine,Maul,Head of Process Automation,Bayer MaterialScience,christine.maul@bayer.com,85 West Bay Rd,,Baytown,Texas,,77523,United States,1 281 383 6932,1 713 2946297,Managed PI
+18,214-3-26T14:24:55,Q75311,OSI116,David,Soll,CTO,Omicron,dsoll@omicron.com,16 Union Street,,Medford,NJ,,855,United States,69-33-7147,69-33-7147,Managed PI
+19,214-3-26T14:2:48,Q75311,OSI11135,Vince,Noyes,Principal Operations Management Specialist,SMUD,vnoyes@smud.org,61 S Street,,Sacramento,California,,95819,United States,(916) 732 5233,(916) 212 591,Managed PI
+20,214-3-26T12:29:54,Q75311,OSI174,Zach,Birmingham,Staff Assistant II,Port of San diego,zbirming@portofsandiego.org,3165 Pacific Hwy,,San Diego ,CA,,9217,United States,(619) 686-644,(619) 45-7836,Managed PI
+21,214-3-26T13:48:28,Q75311,OSI184,Nick,Merolli,Project Manager,Arizona Chemical,nick.merolli@azchem.com,P.O. Box 2668,,Savannah,GA,,3142,United States,(912) 238-6358,(912) 38-1947,Managed PI
+22,214-3-26T8:52:14,Q75311,OSI1437,Mark,Hogan,Manufacturing Automation Engineer,Dow Corning Corporation,mark.hogan@dowcorning.com,Dow Corning Ltd,Cardiff Road,Barry,Wales,,CF63 2YL,United Kingdom,44 1446 723278,,Managed PI
+23,214-3-25T12:53:27,Q75311,OSI1213,Chris,Dumas,Manager,Industrial Evolution,chris.dumas@industrialevolution.com,"11 Greenway Plaza, Suite #11",,Houston,TX,,7746,United States,+1 (832) 76-3788,,Managed PI
+24,214-3-26T14:24:53,Q75311,OSI157,Reza,Esteki,Data Historian,Cargill,Reza_Esteki@cargill.com,14 Tamarack Ct.,,Sterling,VA,,2164,United States,5717625372,73919325,Managed PI
+25,214-3-26T14:19:55,Q75311,OSI11117,Jim,Hiebert,Senior EMS Power Technology Engineer,California ISO,jhiebert@caiso.com,25 Outcropping Way,,Folsom,CA,,9563,United States,(916) 68-1254,(916) 82-317,Managed PI
+26,214-3-26T14:2:56,Q75311,OSI11134,Eric,Mscichowski,Principal EMS Engineer,SMUD,eric.mscichowski@smud.org,61 S Street,,Sacramento,CA,,95817,United States,916-7326153,,Managed PI
+27,214-3-26T12:44:34,Q75311,OSI1323,Randy,Esposito,Sr. Industry Development Manager,Nalco Champion,wresposito@nalco.com,775 Highway 9-A,,Sugar Land,Texas,,77478,United States,716-912-4862,,Managed PI
+28,214-3-26T11:54:,Q75311,OSI135,Andrew,Esselman,Application Support Analyst (PI),Peak Reliability,aesselman@peakrc.com,"76 NE 41st Ave, Suite 21",,Vancouver,WA,,98662,United States,36-713-959,,Managed PI
+29,214-3-26T13:9:25,Q75311,OSI1471,Mike,Jackson,Senior Engineering Specialist,Nalco Champion,mkjackson@nalco.com,1132 Alima Terrace,,LaGrange Park,IL,,6526,United States,63 35 2137,63 8 6699,Managed PI
+30,214-3-25T14:22:12,Q75311,OSI1518,Rob,Gamber,Principal Engineer,Amgen Inc.,rgamber@amgen.com,4 Nelson Rd.,,Longmont,CO,,854,United States,33417183,,Managed PI
+31,214-3-26T11:23:28,Q75311,OSI1297,Niall,Wilson,Project Engineer,Mera,niall.wilson@meragroup.net,195-1 Research Drive,,Regina,Saskatchewan,,S4S 7J7,Canada,36-79-93,,Managed PI
+32,214-3-26T13:35:9,Q75311,OSI1726,Jack,Rao,Sr. Database Analyst,AvalonDev,j.rao@chevron.com,381 Ashe Rd,Apt 63,Bakersfield,CA,,9339,United States,661632148,7325138482,Managed PI
+33,214-3-26T8:52:17,Q75311,OSI1565,Bryan,Sower,Manufacturing Automation Consultant,Dow Corning Corporation,Bryan.Sower@DowCorning.Com,477 US Hwy 42E,,Carrollton,KY,,418,United States,52-732-2543,52-682-87,Managed PI
+34,214-3-25T13:44:37,Q75311,OSI149,Todd,Chumley,Programmer/Analyst,"Southwest Power Pool, Inc.",tchumley@spp.org,21 Worthen Drive,,Little Rock,Arkansas,,72223,United States,51-614-3294,51-351-4983,Managed PI
+35,214-3-25T17:2:59,Q75311,OSI175,Brad,Van Spanje,Plant Engineer,Wood Group,brad.vanspanje@woodgroup.com,po box 49,,Herald,CA,,95638,United States,29-748-5176,5339191,Managed PI
+36,214-3-25T15:53:12,Q75311,OSI1949,Hervé,Delesalle,IS Architect,TOTAL,herve.delesalle@total.com,Avenue Larribau,,PAU,Aquitaine,,6418,France,+33 559 83 68 51,+66 646 44 3 81,Managed PI
+37,214-3-26T8:57:27,Q75311,OSI1836,Jon,Abbott,Systems Analyst Specialist,Dominion Virginia Power,jona63@dom.com,24 grayland ave,,Richmond,va,,2322,United States,842574925,,Managed PI
+38,214-3-26T1:44:16,Q75311,OSI1796,Dave,Imming,Vice President - Product and Services Marketing,Emerson Process Management,dave.imming@emerson.com,"11 W. Louis Henna Blvd., Bldg. 1",,Round Rock,Texas,,78681,United States,5128347198,5127997198,Managed PI
+39,214-3-25T17:29:45,Q75311,OSI1168,Michael,Watzke,Research & development engineer,Siemens,michael.watzke@siemens.com,CT RTC BAM KMR-DE,Otto-Hahn-Ring 6,Munich,Bavaria,,81739,Germany,+49 (89) 636-5457, +49 (173) 7473251 ,Managed PI
+40,214-3-25T16:33:9,Q75311,OSI11747,Reyad,Hantash,EMS Engineer,California ISO,rabouhantash@caiso.com,25 Outcropping Way,,Folsom,CA,,9563,United States,916-3-993,,Managed PI
+41,214-3-26T13:13:42,Q75311,OSI11761,Gary,Grimes,Director of Technology,Paramount Petroleum,ggrimes@ppcla.com,147 Downey Ave,,Paramount,CA,,9723,United States,562-531-26,949-93-4112,Managed PI

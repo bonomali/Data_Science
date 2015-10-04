@@ -1,0 +1,60 @@
+,Date/Time,Device ID,Badge ID,Name Badge First Name,Name Badge Last Name,Job Title,Company,Email Address,Address Line 1,Address Line 2,City,State/Province,US State,Zip (Postal Code),Country,Business Phone,Mobile Phone,Custom Question,Lead Rank,Follow Up,Event
+0,214-3-26T13:35:23,Q169,OSI148,Amy,Konat,Business Analyst,Chevron,byih@chevron.com,9525 Camino Media,,Bakersfield,CA,,93311,United States,661-292-392,,,,,OSIsoft PI ProcessBook
+1,214-3-25T16:54:19,Q169,OSI1828,John,Ewald,Senior Engineer,DTE Energy,ewaldj@dteenergy.com,1 Energy Plaza,,Detroit,MI,,48226,United States,313-235-3541,,,,,OSIsoft PI ProcessBook
+2,214-3-25T17:15:48,Q169,OSI1528,Tero,Hakala,Development Manager,Metso Automation,tero.hakala@metso.com,Lentokentänkatu 11,,Tampere,Häme,,3311,Finland,+358248317,,,,,OSIsoft PI ProcessBook
+3,214-3-25T17:29:,Q169,OSI17,Tracy,Harper,Engineering Analyst,Exelon Corporation,tracy.l.harper@constellation.com,15 Brandon Shores Road,,Baltimore,MD,,21226-1746,United States,414737,,,,,OSIsoft PI ProcessBook
+4,214-3-26T14:15:13,Q169,OSI151,Manuela,Echavarria,Developer II,McCain Foods Ltd.,manuela.echavarria@mccain.ca,215 Lansdowne Rd,,Peel,New Brunswick,,E7L 4A7,Canada,56 392 4371,56 612 92,,,Email,OSIsoft PI ProcessBook
+5,214-3-25T17:1:55,Q169,OSI11126,Erik,Durocher,Partner Manager,EGD,erikdurocher@yahoo.com,473 Noyes St. ,# 45,San Diego,CA,,9219,United States,26 898-7758,,,,,OSIsoft PI ProcessBook
+6,214-3-25T14:25:39,Q169,OSI1515,Jeff,Edwards,Director,TSI Group/Triencon Services,jeff.edwards@triencon.com,1 Post and Paddock,Ste 2,Grand Prairie,TX,,755,United States,817-785-89,,,Warm,,OSIsoft PI ProcessBook
+7,214-3-26T1:21:35,Q169,OSI11392,Michael,Ferster,,OSIsoft,mferster@osisoft.com,,,Philadelphia,,,,United States,,717-395-249,,,,OSIsoft PI ProcessBook
+8,214-3-26T11:26:5,Q169,OSI11392,Michael,Ferster,,OSIsoft,mferster@osisoft.com,,,Philadelphia,,,,United States,,717-395-249,,,,OSIsoft PI ProcessBook
+9,214-3-25T15:36:11,Q169,OSI1542,Herb,Falk,Solutions Architect,SISCO,herb@sisconet.com,665 19-1/2 Mile Road,,Sterling Heights,MI,,48314,United States,+1-586-254-2,,,Hot,Phone,OSIsoft PI ProcessBook
+10,214-3-25T17:9:47,Q169,OSI1375,Doug,Tremblay,ICT,Irving Tissue Company,tremblay.doug@irvingpulp.com,PO Box 5666,,Saint John,NB,,E2L5B6,Canada,566353961,,,,,OSIsoft PI ProcessBook
+11,214-3-26T1:21:31,Q169,OSI11519,Craig,Torpey,,OSIsoft,ctorpey@osisoft.com,,,Philadelphia,,,,United States,,,,,,OSIsoft PI ProcessBook
+12,214-3-26T12:28:56,Q169,OSI1258,Steve,Tran,Senior Project Engineer,Mera,nataliya.dvorak@meragroup.net,195-1 Research Drive,,Regina ,Saskatchewan,,S4S7J7,Canada,367993,367993,,,,OSIsoft PI ProcessBook
+13,214-3-26T12:2:21,Q169,OSI177,Loyda,Zambrano,Business Analyst,Shell ,loyda.zambrano@shell.com,23 West Cedar PL SW,,Calgary,AB,,T3H5T9,Canada,143691294,143667955,,,,OSIsoft PI ProcessBook
+14,214-3-25T15:17:15,Q169,OSI126,Richard,Mueller,Supervising Engineer - Power Systems Technology,DTE Energy,muellerrj@dteenergy.com,1 Energy Plaza,42 SB,Detroit,MI,,48226,United States,1313235583,,,Warm,,OSIsoft PI ProcessBook
+15,214-3-26T8:25:38,Q169,OSI1453,Rick,Smith,Process Information Manager,International Paper,richard.smithjr@ipaper.com,6285 Tri-Ridge Blvd,,Loveland,Ohio,,4515,United States,513-248-6222,,,,,OSIsoft PI ProcessBook
+16,214-3-25T13:46:11,Q169,OSI15,Scott,Larson,IT Systems Analyst,SunCoke Energy,sdlarson@suncoke.com,111 Wrrenville Rd,Suite 6,Lisle,IL,,6532,United States,63-824-1721,63-432-3119,,Cold,,OSIsoft PI ProcessBook
+17,214-3-25T16:54:15,Q169,OSI1644,Tom,Albrecht,Scientist,Calera Corporation,talbrecht@calera.com,1 Albright Way,Suite A,Los Gatos,CA,,9532,United States,48-34-4681,,,,,OSIsoft PI ProcessBook
+18,214-3-26T13:53:22,Q169,OSI1353,Matthew,Bailey,EMS Systems Engineer,DOE - WAPA,mbailey@wapa.gov,5555 East Crossroads BLVD,,Loveland,Co,,8538,United States,974617546,,,,,OSIsoft PI ProcessBook
+19,214-3-25T16:54:16,Q169,OSI1743,Sumanth,Makunur,Supervisor Engineering,DTE Energy,makunurs@dteenergy.com,1 Energy Plaza,,Detroit,MI,,48226,United States,313 235 8713,,,,,OSIsoft PI ProcessBook
+20,214-3-26T11:18:58,Q169,OSI1296,Ian,Rivett,Project Engineer,Mera,ian.rivett@meragroup.net,195-1 Research Drive,,Regina,Saskatchewan,,S4S 7J7,Canada,36-79-93,,,,,OSIsoft PI ProcessBook
+21,214-3-25T16:31:43,Q169,OSI1167,Barbara,Lancaster,Sr Project Manager,Pacific Gas and Electric Company,bll2@pge.com,77 Beale St.,B16F,San Francisco,CA,,94117,United States,415-973-527,415-317-1862,,Warm,,OSIsoft PI ProcessBook
+22,214-3-26T12:31:29,Q169,OSI1299,Tim,Heck,Adv IT Systems Integrator,Marathon Petroleum,teheck@marathonpetroleum.com,539 S. Main Street,,Findlay,OH,,4584,United States,419-619-8115,,,,Phone,OSIsoft PI ProcessBook
+23,214-3-26T1:28:48,Q169,OSI1512,James,Wardlaw,Application Analyst,KapStone Paper,james.wardlaw@kapstonepaper.com,1 Gaston Road,,Roanoke Rapids,NC,,27822,United States,252-533-6212,252-532-173,,,,OSIsoft PI ProcessBook
+24,214-3-26T13:23:21,Q169,OSI1886,Dan,King,Process Control Engineer,United States Steel Corperation,DJKing1@uss.com,116 Reed St,,Irwin,PA,,15642,United States,4126755413,4124961487,,,,OSIsoft PI ProcessBook
+25,214-3-26T1:48:25,Q169,OSI1427,Brian,Heritage,Senior Consultant,Streamline Control Solutions,Brian.Heritage@streamlinecontrol.com,216 Queen Anne Place SE,,Calgary,Alberta,,T2J 4S3,Canada,43-651-7311,43-651-7311,,,,OSIsoft PI ProcessBook
+26,214-3-26T13:52:9,Q169,OSI1259,Christine,Frazier-Hollins,Operations Engineer,Chevron,CFrazierHollins@chevron.com,48 Fournace Place,,Bellaire,TX,,7741,United States,713-432-6127,713-257-762,,,,OSIsoft PI ProcessBook
+27,214-3-25T13:48:3,Q169,OSI1149,Ryan,McErlean,Tech Support Escalation Engineer,OSIsoft,rmcerlean@osisoft.com,,,Philadelphia,,,1913,United States,,856-34-2494,,Hot,Phone,OSIsoft PI ProcessBook
+28,214-3-26T1:21:39,Q169,OSI1149,Ryan,McErlean,Tech Support Escalation Engineer,OSIsoft,rmcerlean@osisoft.com,,,Philadelphia,,,1913,United States,,856-34-2494,,,,OSIsoft PI ProcessBook
+29,214-3-25T12:39:49,Q169,OSI11574,Julie,Fuchs,,OSIsoft,jfuchs@osisoft.com,,,Philadelphia,,,,United States,,,,Hot,,OSIsoft PI ProcessBook
+30,214-3-26T11:4:2,Q169,OSI1331,Asle,Frantzen,Sr. Software Engineer,Amitec,asle.frantzen@amitec.no,Kokstaddalen 4,,Kokstad,Hordaland,,5257,Norway,+4755527823,+4795859162,,,,OSIsoft PI ProcessBook
+31,214-3-25T16:32:1,Q169,OSI151,Mary,Bellinger,Project Systems Analyst,Sinclair Oil,mnbellinger@sinclairoil.com,119 Sycamore Commons Lane,,Bermuda Run,NC,,276,United States,336-941-3218,713-443-8538,,Warm,,OSIsoft PI ProcessBook
+32,214-3-25T15:22:16,Q169,OSI1975,Tim,Presar,Programmer/Analyst,Husky Lima Refinery,tim.presar@huskyenergy.com,115 S. Metcalf St.,,Lima,OH,,4584,United States,419-226-2584,419-231-328,,Cold,,OSIsoft PI ProcessBook
+33,214-3-25T16:57:23,Q169,OSI117,Billy,Bonner,Software Developer,Leidos,wbonner@entergy.com,291 Cypress St,,West Monroe,LA,,71291,United States,318338523,,,,,OSIsoft PI ProcessBook
+34,214-3-26T8:44:17,Q169,OSI117,Billy,Bonner,Software Developer,Leidos,wbonner@entergy.com,291 Cypress St,,West Monroe,LA,,71291,United States,318338523,,,,Email,OSIsoft PI ProcessBook
+35,214-3-25T12:58:15,Q169,OSI1159,Kevin,Geneva,Customer Support Engineer,OSIsoft,kgeneva@osisoft.com,17 Market Street,Suite 22,Philadelphia,,,1913,United States,21566791,2152646537,,,Phone,OSIsoft PI ProcessBook
+36,214-3-25T16:31:33,Q169,OSI1169,Aimin,Wang,Sr. Programmer,Pacific Gas and Electric Company,a1wc@pge.com,341 Crow Canyon Rd,,San Ramon,CA,,94588,United States,925-415-6354,,,Warm,,OSIsoft PI ProcessBook
+37,214-3-25T13:5:56,Q169,OSI1731,Syed,Mehdi,Application Development Manager,Microsoft,syedm@microsoft.com,4398 San Sebastian Place,,Fremont,CA,,94539,United States,4252146113,,,,,OSIsoft PI ProcessBook
+38,214-3-26T12:28:59,Q169,OSI1297,Niall,Wilson,Project Engineer,Mera,niall.wilson@meragroup.net,195-1 Research Drive,,Regina,Saskatchewan,,S4S 7J7,Canada,36-79-93,,,,,OSIsoft PI ProcessBook
+39,214-3-26T11:5:16,Q169,OSI1843,Kevin,Swain,Business Intelligence Analyst,First Wind,kswain@firstwind.com,179 Lincoln St,Suite 5,Boston,Massachusettes,,2111,United States,857-31-5312,,,,,OSIsoft PI ProcessBook
+40,214-3-25T13:39:6,Q169,OSI1454,Jason,Nunez,PI Development Engineer,EDF Renewable Energy,Jason.Nunez@edf-re.com,15445 Innovation Drive,,San Diego,CA,,92128,United States,858-521-3489,,,Hot,,OSIsoft PI ProcessBook
+41,214-3-25T13:54:8,Q169,OSI1595,Anh,Hoang,Process Control Engineer,NALCO Champion,anh.hoang@champ-tech.com,313 FM 521,,Fresno,Texas,,77545,United States,281-719-9312,,,,,OSIsoft PI ProcessBook
+42,214-3-25T13:59:45,Q169,OSI1595,Anh,Hoang,Process Control Engineer,NALCO Champion,anh.hoang@champ-tech.com,313 FM 521,,Fresno,Texas,,77545,United States,281-719-9312,,,Cold,,OSIsoft PI ProcessBook
+43,214-3-25T17:5:39,Q169,OSI1619,Bob,McIntyre,Sr Process Control Engineer,PotashCorp,bob.mcintyre@potashcorp.com,Suite 5,122-1st Ave S,Saskatoon,Sask,,S7K7G,Canada,36-933-8556,36-23-777,,,,OSIsoft PI ProcessBook
+44,214-3-26T13:53:28,Q169,OSI1354,Marci,Riddle,IT Specialist/Historian Administrator,Western Area Power Administration,riddlem@wapa.gov,5555 E. Crossroads Blvd.,,Loveland,CO,,8538,United States,(97)461-7422,,,,,OSIsoft PI ProcessBook
+45,214-3-26T1:52:22,Q169,OSI1356,Borre,Heggernes,CTO,Amitec,borre.heggernes@amitec.no,Estervegen 18,,TANANGER,Rogaland,,456,Norway,+4791395525,,,,,OSIsoft PI ProcessBook
+46,214-3-26T1:2:58,Q169,OSI1949,Hervé,Delesalle,IS Architect,TOTAL,herve.delesalle@total.com,Avenue Larribau,,PAU,Aquitaine,,6418,France,+33 559 83 68 51,+66 646 44 3 81,,,,OSIsoft PI ProcessBook
+47,214-3-26T12:2:18,Q169,OSI1477,Cyndi,Bourne,PI Center of Excellence,Shell,cyndi.bourne@shell.com,4 4th Avenue SW,,Calgary,Alberta,,T2P 2H5,Canada,+143691479,,,,,OSIsoft PI ProcessBook
+48,214-3-26T9:49:33,Q169,OSI1278,Kimlin,Pen,Information Architect,Spectra Energy,kpen@spectraenergy.com,"Suite 26, 425 1st Street SW",,Calgary,AB,,T2P3L8,Canada,43-699-187,,,,,OSIsoft PI ProcessBook
+49,214-3-25T12:28:33,Q169,OSI1145,Dave,Hollebeek,,OSIsoft,djhbeek@yahoo.com,,,King of Prussia,,,,United States,,61982632,,Cold,,OSIsoft PI ProcessBook
+50,214-3-25T12:4:35,Q169,OSI1145,Dave,Hollebeek,,OSIsoft,djhbeek@yahoo.com,,,King of Prussia,,,,United States,,61982632,Yes,,Phone,OSIsoft PI ProcessBook
+51,214-3-25T16:3:1,Q169,OSI15,Marisol,Ortega,Business Analyst,McCain Foods Ltd.,marisol.ortega@mccain.ca,886 Main Street,,Florenceville-Bristol,NB,,E7L 3G2,Canada,(56)3922997,,,Cold,,OSIsoft PI ProcessBook
+52,214-3-25T14:4:52,Q169,OSI11444,Dan,McGovern,,OSIsoft,dmcgovern@osisoft.com,,,Philadelphia,,,,United States,,2152842358,,,Phone,OSIsoft PI ProcessBook
+53,214-3-26T1:39:38,Q169,OSI11444,Dan,McGovern,,OSIsoft,dmcgovern@osisoft.com,,,Philadelphia,,,,United States,,2152842358,,,,OSIsoft PI ProcessBook
+54,214-3-26T11:34:5,Q169,OSI11497,Eric,Lang,,OSIsoft,elang@osisoft.com,,,Philadelphia,,,,United States,,,,,,OSIsoft PI ProcessBook
+55,214-3-25T17:39:55,Q169,OSI115,Joe,Couchara,Software Test Engineer,OSIsoft,jcouchara@osisoft.com,17 Market St,Suite 221,Philadelphia,,,1913,United States,215-66-641,,,,Phone,OSIsoft PI ProcessBook
+56,214-3-25T17:33:4,Q169,OSI158,Philipp,Sutter,Owner,OctaveSoft GmbH,philipp.sutter@octavesoft.ch,Malzgasse 15,,Basel,BS,,452,Switzerland,+41 61 271 8283,,,,,OSIsoft PI ProcessBook
+57,214-3-25T14:56:56,Q169,OSI11771,Nader,Riad,Engineer,Baxter Healthcare,nader_riad@baxter.com,17 rancho conejo,,thousand oaks,CA,,9132,United States,8541514,8541514,,Warm,,OSIsoft PI ProcessBook
+58,214-3-26T9:51:46,Q169,OSI333,Dararith,Long,,OSIsoft,dlong@osisoft.com,,,,,,,,,,,,,OSIsoft PI ProcessBook

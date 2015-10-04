@@ -1,0 +1,990 @@
+,Badge ID,Name,Business Phone,Mobile Phone,Email Address,Zip (Postal Code),Address Line,City,State/Province,Country,Company,Job Title,Date/Time,Event
+0,OSI1285,Dennis Lawless,21-626-6478,,dennis.a.lawless@tsocorp.com,78259,191 Ridgewood Parkwaynan,San Antonio,TX,United States,Tesoro,Consulting Business Analyst,214-3-25T15:14:14,AF (OSIsoft)
+1,OSI154,Salla Diop,215652149,,salla_diop@merck.com,19454,131 CHURCH ROAD Apt 1-Anan,NORTH WALES,PA,United States,Merck,Project Manager,214-3-25T14:36:23,AF (OSIsoft)
+2,OSI154,Salla Diop,215652149,,salla_diop@merck.com,19454,131 CHURCH ROAD Apt 1-Anan,NORTH WALES,PA,United States,Merck,Project Manager,214-3-26T14:3:2,AF (OSIsoft)
+3,OSI1484,Pinal Patel,85-48-2573,,pinal_patel@baxter.com,9132,17 Rancho Conejo Blvdnan,Thousand Oaks,CA,United States,Baxter Healthcare,Sr. Engineer,214-3-25T13:58:39,AF (OSIsoft)
+4,OSI11411,Paul Kaiser,,62-99-937,pkaiser@osisoft.com,,nannan,Phoenix,,United States,OSIsoft,Software Engineering Group Leader,214-3-25T12:37:22,AF (OSIsoft)
+5,OSI155,Chris Smelker,86275552,866268282,smelkca@cpchem.com,797,Spur 119 Eastnan,Borger,Texas,United States,Chevron/Phillips Chemical Company LLP,Control Engineer,214-3-26T8:4:57,AF (OSIsoft)
+6,OSI1586,Chuck Alonge,518-356-6248,,calonge@nyiso.com,12144,1 Krey Boulevardnan,Rensselaer,NY,United States,NYISO,Senior Software Developer,214-3-25T16:58:2,AF (OSIsoft)
+7,OSI167,Keith Lehman,617-834-2863,,klehman@intercap-e.com,2421,4 Hudson Rdnan,Lexington,MA,United States,"Intercap Energy Systems, LLC",Chief Architect,214-3-25T15::14,AF (OSIsoft)
+8,OSI11,Sergio Ceriani,712-277-7465,712-253-758,sdceriani@midamerican.com,5114,4738 Country Club Blvdnan,Sioux City,IA,United States,MidAmerican Energy,Sr Software Engineer,214-3-26T11:2:9,AF (OSIsoft)
+9,OSI199,Eddie Habibi,281-286-6565,,eddie@pas.com,7762,1655 Space Center Blvd.Suite 6,Houston,Texas,United States,PAS,CEO,214-3-26T9:31:45,AF (OSIsoft)
+10,OSI128,Derek Hernandez,719-668-914,,dchernandez@csu.org,891,PO Box 113nan,Colorado Springs,CO,United States,Colorado Springs Utilities,Systems and Database Sr,214-3-25T15:18:36,AF (OSIsoft)
+11,OSI1682,Paul Yaroshak,829-345-9572,829-345-9572,pyaroshak@barrick.com,,"Novo - Centro, Piso 16, Avenida Lope de Vega No. 29. Ensanche Naco",Santo Domingo,Santo Domingo,Dominican Republic,Barrick Gold Corporation,Senior Process Systems Engineer,214-3-25T16:18:25,AF (OSIsoft)
+12,OSI188,Tom Nobis,713-656-8547,,tom.j.nobis@exxonmobil.com,772,P.O. Box 9#219E,Houston,TX,United States,ExxonMobil,Application Engineer,214-3-25T14:53:25,AF (OSIsoft)
+13,OSI1758,Denis Means,213719337,,denim@microsoft.com,78254,515 Rogers Rdnan,San Antonio,TX,United States,Microsoft,Critical Environment Instrumentation Project Manager,214-3-26T13:7:22,AF (OSIsoft)
+14,OSI1628,Alex Donchev,63-691-4738,,alexander.donchev@comed.com,6148-1452,alexander.donchev@comed.comnan,Lombard,IL,United States,ComEd,Sr IT Analyst,214-3-26T1:58:8,AF (OSIsoft)
+15,OSI1995,Rick Willett,281-286-6565,,rwillett@pas.com,7762,1655 Space Center Blvd.Suite 6,Houston,Texas,United States,PAS,Director of Technology,214-3-26T13:58:5,AF (OSIsoft)
+16,OSI169,Joe Milton,8328545644,,jmilton@chevron.com,772,15 Louisiananan,Houston,TX,United States,Chevron,Principal Engineer,214-3-25T14:12:24,AF (OSIsoft)
+17,OSI121,Donald Beverly,514 598-3256,,dbeverly@gazmetro.com,H2K 2X3,1717 du Havre Streetnan,Montreal,Quebec,Canada,Gaz Métro,Senior Advisor Renewable Energy,214-3-26T8:35:37,AF (OSIsoft)
+18,OSI1131,Steve Kwan,,775-79-5631,skwan@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,Product Manager,214-3-25T12:37:48,AF (OSIsoft)
+19,OSI1141,David Rosinski,76-796-557,76-836-3866,david.rosinski@ipaper.com,396-9784,4278 Mike Padgett Hwynan,Augusta,GA,United States,International Paper,IT Analysis,214-3-26T8:32:15,AF (OSIsoft)
+20,OSI11635,Yuan Xu,,,yxu@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,,214-3-25T13:7:52,AF (OSIsoft)
+21,OSI11635,Yuan Xu,,,yxu@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,,214-3-25T13:7:54,AF (OSIsoft)
+22,OSI1394,Tom Luo,43-296-5728,43-815-341,tluo@suncor.com,T2P3E3,15-6th AVE SWnan,Calgary,AB,Canada,Suncor Energy,Lead Historians and Database,214-3-25T17:53:35,AF (OSIsoft)
+23,OSI1936,Roland Esquivel,714-837-6696,,resquivel@amway.com,9621,56 beach blvdnan,buena Park,california,United States,Amway,Manufacturing Systems Analyst,214-3-26T11:16:14,AF (OSIsoft)
+24,OSI1142,Joe Gantz,,423-946-3763,jgantz@osisoft.com,,nannan,Johnson City,,United States,OSIsoft,Sr. Software Developer,214-3-25T14:19:25,AF (OSIsoft)
+25,OSI158,Jason Guu,818 574562,,guuj@baxter.com,91745,16454 Gregorio Drnan,Hacienda Heights,ca,United States,Baxter Healthcare,Tech Consultant,214-3-25T13:51:8,AF (OSIsoft)
+26,OSI1231,Leisa Gary,932376753,,ldgary@eastman.com,7567-7444,PO Box 7444nan,Longview,TX,United States,Eastman Chemical Company,Operations Computer Specialist,214-3-26T1:23:58,AF (OSIsoft)
+27,OSI11675,Eddy Kuwana,,,ekuwana@osisoft.com,94577,nannan,San Leandro,,United States,OSIsoft,Software Developer,214-3-25T12:27:6,AF (OSIsoft)
+28,OSI1294,Lana Dean,87-541-3799,,lana.dean@everpack.com,7161,521 Fairfield Rdnan,Pine Bluff,AR,United States,Evergreen Packaging,Process Control Manager,214-3-26T1:18:3,AF (OSIsoft)
+29,OSI114,David Hearn,,423-557-4667,dhearn@osisoft.com,,nannan,Johnson City,,United States,OSIsoft,Principal Software Developer,214-3-25T12:1:37,AF (OSIsoft)
+30,OSI1275,Nick Alexiades,58-271-9816,21-446-815,nicholas.alexiades@genzyme.com,155,4 Compass Circlenan,Boylston,MA,United States,Genzyme,Process Engineer,214-3-26T11:41:47,AF (OSIsoft)
+31,OSI167,Roger Boisse,63-929-3235,,rboisse@wm.com,3842,4 Liberty Lane Westnan,Hampton,NH,United States,Wheelabrator Technologies Inc.,Senior Manager,214-3-25T15:16:1,AF (OSIsoft)
+32,OSI1331,Asle Frantzen,4755527823,4795859162,asle.frantzen@amitec.no,5257,Kokstaddalen 4nan,Kokstad,Hordaland,Norway,Amitec,Sr. Software Engineer,214-3-25T13:44:5,AF (OSIsoft)
+33,OSI11242,Satyam Godasi,,,sgodasi@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,,214-3-26T14:33:2,AF (OSIsoft)
+34,OSI11644,Megan Vining,51-219-856,,mfox@osisoft.com,1239,1592 Union St.nan,Schenectady,,United States,OSIsoft,Sr. Field Service Engineer,214-3-25T15:33:14,AF (OSIsoft)
+35,OSI11644,Megan Vining,51-219-856,,mfox@osisoft.com,1239,1592 Union St.nan,Schenectady,,United States,OSIsoft,Sr. Field Service Engineer,214-3-25T17:7:57,AF (OSIsoft)
+36,OSI159,Tripti Somani,78-792-389,78-799-3832,tsomani@suncor.com,T9H A8,"885 Memorial Drive, PO Box 415nan",Fort McMurray,AB,Canada,Suncor Energy,Apps & Infratstructure Manager,214-3-25T17:53:42,AF (OSIsoft)
+37,OSI117,Billy Bonner,318338523,,wbonner@entergy.com,71291,291 Cypress Stnan,West Monroe,LA,United States,Leidos,Software Developer,214-3-25T17:3:8,AF (OSIsoft)
+38,OSI11127,Geoff Mueller,678-231-7275,678-231-7275,geoff.mueller@clorox.com,3144,1 Cobb Place Blvd.Bldg 1,Kennesaw,GA,United States,Clorox,Continuous Improvement Systems Manager,214-3-25T14:47:,AF (OSIsoft)
+39,OSI143,Bruce Gordon,86-275-567,86-64-4624,gordobw@cpchem.com,797-968,Box 968 Philtex/Ryton PlantPrairie Street,Borger,Texas,United States,Chevron/Phillips Chemical Company LLP,Senior Process Control Specialist,214-3-25T14:53:39,AF (OSIsoft)
+40,OSI11394,Jim Johnson,,423366578,jmjohnson@osisoft.com,,nannan,Johnson City,,United States,OSIsoft,,214-3-25T12:29:37,AF (OSIsoft)
+41,OSI11394,Jim Johnson,,423366578,jmjohnson@osisoft.com,,nannan,Johnson City,,United States,OSIsoft,,214-3-25T13:7:42,AF (OSIsoft)
+42,OSI11394,Jim Johnson,,423366578,jmjohnson@osisoft.com,,nannan,Johnson City,,United States,OSIsoft,,214-3-25T13:7:44,AF (OSIsoft)
+43,OSI11394,Jim Johnson,,423366578,jmjohnson@osisoft.com,,nannan,Johnson City,,United States,OSIsoft,,214-3-25T15:29:12,AF (OSIsoft)
+44,OSI11394,Jim Johnson,,423366578,jmjohnson@osisoft.com,,nannan,Johnson City,,United States,OSIsoft,,214-3-25T15:29:15,AF (OSIsoft)
+45,OSI11495,Ryan Gilbert,628963716,,rgilbert@osisoft.com,8527,2261 N 19th AvenueSuite 1,Phoenix,,United States,OSIsoft,Senior Software Developer,214-3-25T12:3:31,AF (OSIsoft)
+46,OSI11495,Ryan Gilbert,628963716,,rgilbert@osisoft.com,8527,2261 N 19th AvenueSuite 1,Phoenix,,United States,OSIsoft,Senior Software Developer,214-3-25T13:21:42,AF (OSIsoft)
+47,OSI139,Susan Stoner,42-563-5446,42-91-4545,skstone@nppd.com,6862-499,1414 15th St.PO BOX 499,Columbus,Nebraska,United States,Nebraska Public Power District,Distribution Planning Engineer,214-3-26T8:31:27,AF (OSIsoft)
+48,OSI11562,Richard Najarian,,925-699-189,RNajarian@osisoft.com,,nannan,"San Leandro, CA",,United States,OSIsoft,"Director, Quality Systems",214-3-25T13:2:2,AF (OSIsoft)
+49,OSI1114,James Burr,435-864-6454,,james.burr@ipsc.com,84624,85 W Brushwellman Roadnan,Delta,UT,United States,Intermountain Power,Systems Engineer,214-3-25T17:6:57,AF (OSIsoft)
+50,OSI11674,Jason King,,,jking@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,Sr. Software Developer,214-3-25T12:7:21,AF (OSIsoft)
+51,OSI11674,Jason King,,,jking@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,Sr. Software Developer,214-3-26T14:33:1,AF (OSIsoft)
+52,OSI1566,Clark Sanford,51-242-4864,,wcsa@chevron.com,9482,841 Chevron Waynan,Richmond,CA,United States,Chevron,Business Analyst,214-3-25T16:23:41,AF (OSIsoft)
+53,OSI11379,Barry James,,2158376337,bjames@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,,214-3-25T12:22:56,AF (OSIsoft)
+54,OSI112,Tony Watkins,832-858-3166,,Tony.Watkins@Optimate.net.au,776,321 Louisiana St #1325nan,Houston,tx,United States,Optimate International,Solutions Architect - Operational Managent Solutions,214-3-25T15:19:,AF (OSIsoft)
+55,OSI1631,James Li,614624316,614535537,Kuochu.Li@abbott.com,43215,625 Cleveland Ave.nan,Columbus,OH,United States,Abbott Laboratories,Principle Engineer,214-3-25T15:54:45,AF (OSIsoft)
+56,OSI149,Todd Chumley,51-614-3294,51-351-4983,tchumley@spp.org,72223,21 Worthen Drivenan,Little Rock,Arkansas,United States,"Southwest Power Pool, Inc.",Programmer/Analyst,214-3-25T15:33:49,AF (OSIsoft)
+57,OSI11731,Sean Hsu,,,shsu@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,Development Lead,214-3-25T13:53:3,AF (OSIsoft)
+58,OSI1232,Robby Bridges,93-237-3637,,rbridges@eastman.com,7567,PO Box 7444Bldg 14,Longview,TX,United States,Eastman Chemical Company,Systems Technician,214-3-26T1:23:56,AF (OSIsoft)
+59,OSI1684,Tim Sells,(919) 518-3585,(919) 518-3585,tsells@manganinc.com,91362,2455 Vista Wood Cir Apt 28nan,Thousand Oaks,CA,United States,Mangan Inc.,Director of Automation Technology,214-3-25T13:58:26,AF (OSIsoft)
+60,OSI15,Marisol Ortega,(56)3922997,,marisol.ortega@mccain.ca,E7L 3G2,886 Main Streetnan,Florenceville-Bristol,NB,Canada,McCain Foods Ltd.,Business Analyst,214-3-25T16:7:6,AF (OSIsoft)
+61,OSI172,Marion Hernandez,719-668-8979,,rkurkowski@csu.org,8817,6598 Ray Nixon Rd nan,Fountain,CO,United States,Colorado Springs Utilities,Project Manager,214-3-25T15:18:38,AF (OSIsoft)
+62,OSI131,Chuck Wormus,97-474-561,97-322-8312,cwormus@alaska.edu,99775,82 Alumni DrBox 75742,Fairbanks,AK,United States,University of Alaska Fairbanks,Instrument Mechanic,214-3-26T14:9:1,AF (OSIsoft)
+63,OSI131,Chuck Wormus,97-474-561,97-322-8312,cwormus@alaska.edu,99775,82 Alumni DrBox 75742,Fairbanks,AK,United States,University of Alaska Fairbanks,Instrument Mechanic,214-3-26T14:9:12,AF (OSIsoft)
+64,OSI131,Chuck Wormus,97-474-561,97-322-8312,cwormus@alaska.edu,99775,82 Alumni DrBox 75742,Fairbanks,AK,United States,University of Alaska Fairbanks,Instrument Mechanic,214-3-26T14:9:13,AF (OSIsoft)
+65,OSI131,Chuck Wormus,97-474-561,97-322-8312,cwormus@alaska.edu,99775,82 Alumni DrBox 75742,Fairbanks,AK,United States,University of Alaska Fairbanks,Instrument Mechanic,214-3-26T14:9:14,AF (OSIsoft)
+66,OSI1166,Lingfung Mok,,51-388-215,ling@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,,214-3-25T12:42:3,AF (OSIsoft)
+67,OSI11156,Ernesto Bedrina,3462542196,3462542196,ebedrina@grupoceteck.com,46138,"La Farola, 3nan",Rafelbuñol,VALENCIA,Spain,Grupo Ceteck (RETES),Director General,214-3-25T15:9:43,AF (OSIsoft)
+68,OSI1563,Steven Ho,2812637983,,steven.ho@nalco.com,77496,PO Box 18181nan,Sugar Land,Texas,United States,Ecolab,Plant Engineer,214-3-26T14:21:51,AF (OSIsoft)
+69,OSI335,David Moler,,,dmoler@osisoft.com,,nannan,,,USA,OSIsoft,,214-3-26T13:19:35,AF (OSIsoft)
+70,OSI11771,Nader Riad,8541514,8541514,nader_riad@baxter.com,9132,17 rancho conejonan,thousand oaks,CA,United States,Baxter Healthcare,Engineer,214-3-25T13:58:1,AF (OSIsoft)
+71,OSI1132,Kevin Douglas,616-617-228,,kevin.douglas.jr@amway.com,984,3785 E. 11th St. Apt. 23nan,Long Beach,CA,United States,Amway,Supply Chain Process Improv. Spec.,214-3-26T9:3:2,Analytics (OSIsoft)
+72,OSI1285,Dennis Lawless,21-626-6478,,dennis.a.lawless@tsocorp.com,78259,191 Ridgewood Parkwaynan,San Antonio,TX,United States,Tesoro,Consulting Business Analyst,214-3-25T14:28:42,Analytics (OSIsoft)
+73,OSI1284,Chris Garza,94 33-3121,,cgarza@rocktenn.com,32216,"166 Prudential Drive, Suite 22nan",Jacksonville,FL,United States,RockTenn,System Analyst,214-3-25T15:18:56,Analytics (OSIsoft)
+74,OSI1554,Murrel Pereira,9148477856,,murrel.pereira@regeneron.com,116,165 E 35th St Apt. 15Bnan,New York,NY,United States,Regeneron Pharmaceuticals,Process Development Associate,214-3-26T14:4:56,Analytics (OSIsoft)
+75,OSI17,Tracy Harper,414737,,tracy.l.harper@constellation.com,21226-1746,15 Brandon Shores Roadnan,Baltimore,MD,United States,Exelon Corporation,Engineering Analyst,214-3-25T15:25:21,Analytics (OSIsoft)
+76,OSI1476,Carlos Prieto,787-78-374,787-63-3213,cprieto@ltapr.com,927,PMB 41 #89 Ave De DiegoSuite 15,San Juan,PR,Puerto Rico,LT Automation,IT Specialist,214-3-25T17:3:6,Analytics (OSIsoft)
+77,OSI151,Manuela Echavarria,56 392 4371,56 612 92,manuela.echavarria@mccain.ca,E7L 4A7,215 Lansdowne Rdnan,Peel,New Brunswick,Canada,McCain Foods Ltd.,Developer II,214-3-26T14:6:53,Analytics (OSIsoft)
+78,OSI1176,Michael Larimer,2166945311,2166945311,michael.larimer@cliffsnr.com,44144,2 Public Squarenan,Cleveland,Ohio,United States,"Cliffs Natural Resources, Inc.",Sr. IT/OT Operational Analyst/Developer,214-3-26T8:44:27,Analytics (OSIsoft)
+79,OSI1613,John Hume,27-897-152,27-357-146,john.hume@versopaper.com,4239,P.O. Box 2nan,Jay,Me,United States,Verso Paper Corporation,Sr PI System Manager,214-3-25T13:51:16,Analytics (OSIsoft)
+80,OSI1164,Bill Maulsby,97-292-2881,97-214-2893,bill.maulsby@woodgroup.com,8538,591 West 66th Stnan,Loveland,CO,United States,Wood Group,Sr. Infrastructure Engineer,214-3-25T13:3:37,Analytics (OSIsoft)
+81,OSI1164,Bill Maulsby,97-292-2881,97-214-2893,bill.maulsby@woodgroup.com,8538,591 West 66th Stnan,Loveland,CO,United States,Wood Group,Sr. Infrastructure Engineer,214-3-26T8:34:25,Analytics (OSIsoft)
+82,OSI138,Amelia Millan,281-263-7478,281-435-7581,amillan@nalco.com,77478,775 Highway 9-Anan,Sugar Land,TX,United States,Nalco Champion,Industry Technical Consultant,214-3-25T14:18:35,Analytics (OSIsoft)
+83,OSI121,Donald Beverly,514 598-3256,,dbeverly@gazmetro.com,H2K 2X3,1717 du Havre Streetnan,Montreal,Quebec,Canada,Gaz Métro,Senior Advisor Renewable Energy,214-3-26T8:59:48,Analytics (OSIsoft)
+84,OSI1328,David Barker,+64 9 282 4231,+64 21 522 591,david@dimensionsoftware.co.nz,1542,PO Box 1159Ellerslie,Auckland,Auckland,New Zealand,Dimension Software,Managing Director,214-3-25T13:43:57,Analytics (OSIsoft)
+85,OSI133,Anton Meyer,(775) 748-1111,(775) 777-568,ameyer@barrick.com,8981,95 West Main Streetnan,Elko,NV,United States,Barrick Gold Corporation,Senior Systems Engineer,214-3-25T16:4:8,Analytics (OSIsoft)
+86,OSI1737,Luis Yacher,562 2279,,lyacher@contac.cl,775,Americo Vespucio Sur 315nan,Santiago,Metropolitana,Chile,CONTAC,Manager,214-3-26T9:13:4,Analytics (OSIsoft)
+87,OSI126,Richard Mueller,1313235583,,muellerrj@dteenergy.com,48226,1 Energy Plaza42 SB,Detroit,MI,United States,DTE Energy,Supervising Engineer - Power Systems Technology,214-3-25T14:18:45,Analytics (OSIsoft)
+88,OSI1748,Eric Schaefer,636-256-7666,314-616-1165,eschaefer@stonetek.com,635,55 Spirit of St. Louis Blvdnan,Chesterfield,MO,United States,Stone Technologies,Vice-President,214-3-25T15:45:31,Analytics (OSIsoft)
+89,OSI1742,Scott King,23-926-454,23-361-8996,scott.king@uinet.com,6477,1 Marsh Hill Roadnan,Orange,CT,United States,United Illuminating Company,SCADA Engineer,214-3-25T13:55:46,Analytics (OSIsoft)
+90,OSI1581,Ron Yuen,916-781-4258,916-67-114,ronald.yuen@ncpa.com,95678,651 Commerce Drivenan,Roseville,CA,United States,Northern California Power Agency,Engineer,214-3-25T15:28:4,Analytics (OSIsoft)
+91,OSI1311,David Farrell,633352955,633352955,dscr22@yahoo.com,6532,442 Basswood Drivenan,Lisle,Illinois,United States,SmartSignal,Product Manager,214-3-26T13:37:4,Analytics (OSIsoft)
+92,OSI1786,Chandra Gannavarapu,713 39 7688,,chandrasekhar.gannavarapu@lyondellbasell.com,771,1221 McKinneynan,Houston,Texas,United States,LyondellBasell Industries,Optimization Business Solutions Lead,214-3-25T17:31:36,Analytics (OSIsoft)
+93,OSI184,Nick Merolli,(912) 238-6358,(912) 38-1947,nick.merolli@azchem.com,3142,P.O. Box 2668nan,Savannah,GA,United States,Arizona Chemical,Project Manager,214-3-26T14:21:9,Analytics (OSIsoft)
+94,OSI1165,Jeff McMahon,51988811,51988811,jeff.mcmahon@patterndiscovery.com,N2L 5Z4,554 Parkside Dr - Pattern Discoverynan,Waterloo,ON,Canada,Pattern Discovery Technologies,"Director, R&D",214-3-26T8::34,Analytics (OSIsoft)
+95,OSI1496,Thony Valbrun,732-227-7736,,anthony.valbrun@bms.com,893,1 Squibb DriveB15-146,New Brunswick,NJ,United States,Bristol-Myers Squibb,Principal Business Capability Analyst,214-3-25T14:7:11,Analytics (OSIsoft)
+96,OSI151,Mary Bellinger,336-941-3218,713-443-8538,mnbellinger@sinclairoil.com,276,119 Sycamore Commons Lanenan,Bermuda Run,NC,United States,Sinclair Oil,Project Systems Analyst,214-3-26T11:17:36,Analytics (OSIsoft)
+97,OSI159,Tripti Somani,78-792-389,78-799-3832,tsomani@suncor.com,T9H A8,"885 Memorial Drive, PO Box 415nan",Fort McMurray,AB,Canada,Suncor Energy,Apps & Infratstructure Manager,214-3-25T17:19:9,Analytics (OSIsoft)
+98,OSI1229,Tom Hart,337-266-4679,337-849-481,thart@nisource.com,758,21 Energy ParkwaySuite 1,Lafayette,Louisiana,United States,Columbia Pipeline Group,Lead Engineer,214-3-26T8:4:9,Analytics (OSIsoft)
+99,OSI1169,Aimin Wang,925-415-6354,,a1wc@pge.com,94588,341 Crow Canyon Rdnan,San Ramon,CA,United States,Pacific Gas and Electric Company,Sr. Programmer,214-3-25T15:9:58,Analytics (OSIsoft)
+100,OSI1941,Pierre Boutin,418-286-5231,418-284-3643,pierre.boutin@alcoa.com,G1W 3P9,"166, route de l'églisenan",Québec,Québec,Canada,Alcoa,"Program manager, GPM MES systems",214-3-25T16:8:9,Analytics (OSIsoft)
+101,OSI11471,Beth McNeill,,512953684,bmcneill@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,Engineering Group Lead,214-3-25T12:6:49,Analytics (OSIsoft)
+102,OSI11471,Beth McNeill,,512953684,bmcneill@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,Engineering Group Lead,214-3-26T8::3,Analytics (OSIsoft)
+103,OSI1588,Uzma Taj,551-265-214,,Uzma.Taj@exeloncorp.com,855,5 Orly Ctnan,West Windsor,NJ,United States,ComEd,Engineer,214-3-25T15:4:1,Analytics (OSIsoft)
+104,OSI1595,Anh Hoang,281-719-9312,,anh.hoang@champ-tech.com,77545,313 FM 521nan,Fresno,Texas,United States,NALCO Champion,Process Control Engineer,214-3-25T13:47:29,Analytics (OSIsoft)
+105,OSI1726,Jack Rao,661632148,7325138482,j.rao@chevron.com,9339,381 Ashe RdApt 63,Bakersfield,CA,United States,AvalonDev,Sr. Database Analyst,214-3-26T13:11:51,Analytics (OSIsoft)
+106,OSI1148,Beth Zelasky,,215-275-8592,bzelasky@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,,214-3-25T15:4:23,Analytics (OSIsoft)
+107,OSI112,Tony Watkins,832-858-3166,,Tony.Watkins@Optimate.net.au,776,321 Louisiana St #1325nan,Houston,tx,United States,Optimate International,Solutions Architect - Operational Managent Solutions,214-3-25T17:19:13,Analytics (OSIsoft)
+108,OSI149,Todd Chumley,51-614-3294,51-351-4983,tchumley@spp.org,72223,21 Worthen Drivenan,Little Rock,Arkansas,United States,"Southwest Power Pool, Inc.",Programmer/Analyst,214-3-25T15:8:23,Analytics (OSIsoft)
+109,OSI1474,Manuel Mendendez,78778374,787366754,mmenendez@ltapr.com,927,PMB 41 89 AVE DE DIEGOSUITE 15,SAN JUAN,PR,Puerto Rico,LT Automation,ENGINEERING DIRECTOR,214-3-25T17:3:2,Analytics (OSIsoft)
+110,OSI1278,Kimlin Pen,43-699-187,,kpen@spectraenergy.com,T2P3L8,"Suite 26, 425 1st Street SWnan",Calgary,AB,Canada,Spectra Energy,Information Architect,214-3-25T15:21:43,Analytics (OSIsoft)
+111,OSI1492,James Liu,972443672,2147964933,jamliu@flowserve.com,7539,5215 N. O'Connor BlvdSuite 23,Irving,Texas,United States,Flowserve,Business Analyst,214-3-25T17:5:4,Analytics (OSIsoft)
+112,OSI1799,Matt Darrah,77-453-3554,,mdarrah@its.jnj.com,95688,7 Eubanks Drivenan,Vacaville,CA,United States,Janssen Pharmaceutical Companies,Equipment Engineer,214-3-25T17:9:8,Analytics (OSIsoft)
+113,OSI1792,Jonathan Fox,775-552-3116,,jonathan.fox@metrixvibration.com,89423,"2243 Park Place, Suite Anan",Minden,NV,United States,Metrix Instruments,Senior Software Engineer,214-3-26T9:26:55,Analytics (OSIsoft)
+114,OSI1598,Peter Wise,654671574,,petewise@gene.com,948,1 DNA Waynan,South San Francisco,CA,United States,Genentech,Automation Engineer,214-3-25T14:51:44,Analytics (OSIsoft)
+115,OSI1842,Kiernan Salmon,53-752-3437,,kmsalmon@ad3.ucdavis.edu,95616,One Shields Avenuenan,Davis,CA,United States,UC Davis ,,214-3-25T13:49:51,Analytics (OSIsoft)
+116,OSI1875,George Paterson,319-335-5139,319-33-4578,george-r-paterson@uiowa.edu,52242,1 W. Prentiss St.nan,Iowa City,IA,United States,University of Iowa,Senior Utility Systems Specialist,214-3-26T12:24:55,Analytics (OSIsoft)
+117,OSI1181,Roy Li,925-229-7311,,rli@centralsan.org,94553,519 Imhoff Placenan,Martinez,CA,United States,Central Contra Costa Sanitary District,Information Technology Administrator,214-3-25T16:14:59,Analytics (OSIsoft)
+118,OSI1168,Michael Watzke,+49 (89) 636-5457, +49 (173) 7473251 ,michael.watzke@siemens.com,81739,CT RTC BAM KMR-DEOtto-Hahn-Ring 6,Munich,Bavaria,Germany,Siemens,Research & development engineer,214-3-25T16:49:35,Analytics (OSIsoft)
+119,OSI1479,Elvin Pagan,787-78-374,,epagan@ltapr.com,927,PMB 41 #89 Ave De DiegoSuite 15,San Juan,PR,Puerto Rico,LT Automation,President,214-3-25T17:3:8,Analytics (OSIsoft)
+120,OSI161,Daniel Gougeon,514 642-9251,514 947-9251,dgougeon@rocktenn.com,H1A 3S2,154 Sherbrooke Eastnan,Montreal,Quebec,Canada,RockTenn,Process & Development Superintendant,214-3-25T15:18:57,Analytics (OSIsoft)
+121,OSI1646,Eric Wiseman,98 373 3613,98 722 575,eric.wiseman@duke-energy.com,28285,4 S. TryonMC ST 1134,Charlotte,NC,United States,Duke Energy,Lead IT Applications Analyst,214-3-25T16:14:56,Analytics (OSIsoft)
+122,OSI11761,Gary Grimes,562-531-26,949-93-4112,ggrimes@ppcla.com,9723,147 Downey Avenan,Paramount,CA,United States,Paramount Petroleum,Director of Technology,214-3-26T13:48:49,Analytics (OSIsoft)
+123,OSI148,Amy Konat,661-292-392,,byih@chevron.com,93311,9525 Camino Medianan,Bakersfield,CA,United States,Chevron,Business Analyst,214-3-26T13:49:4,BI (OSIsoft)
+124,OSI1199,Sandy Fliderman,954-889-37,917-731-6161,sfliderman@veedims.com,33312,3846 SW 3th Avenan,Fort Lauderdale,FL,United States,VEEDIMS,CIO,214-3-26T12:3:12,BI (OSIsoft)
+125,OSI1828,John Ewald,313-235-3541,,ewaldj@dteenergy.com,48226,1 Energy Plazanan,Detroit,MI,United States,DTE Energy,Senior Engineer,214-3-26T12:2:51,BI (OSIsoft)
+126,OSI116,Rob Farris,(469) 221-287,,rfarris@hitachiconsulting.com,75254,14643 Dallas ParkwaySuite 9,Dallas,TX,United States,Hitachi Consulting,Vice President,214-3-26T12:8:49,BI (OSIsoft)
+127,OSI1151,Ming Feng,,+886-932146255,myau@osisoft.com,,nannan,Taipei,,Taiwan,OSIsoft,APAC Power Generation Industry Pricipals,214-3-25T14:38:52,BI (OSIsoft)
+128,OSI197,Wes Dyk,(33)228-426,,wdyk@nobleenergyinc.com,822,1625 BroadwaySTE 22,Denver,CO,United States,Noble Energy Inc.,Production Systems Administrator,214-3-26T12:17:47,BI (OSIsoft)
+129,OSI1185,Khalid Alzahrani,966888518,,khalid.zahrani.2@aramco.com,31311,P.O.Box 1914nan,Ras Tanura,Eastern,Saudi Arabia,Saudi Aramco,Supervisor,214-3-26T8:33:,BI (OSIsoft)
+130,OSI1546,Marcy Tafoya,33-228-4139,33-912-271,mtafoya@nobleenergyinc.com,822,"1625 Broadway, Suite 22nan",Denver,CO,United States,Noble Energy Inc.,Operations Applications Director,214-3-26T14:11:7,BI (OSIsoft)
+131,OSI11218,Curt Hertler,,44-463-4425,curt@osisoft.com,,nannan,Mayfield Heights,,United States,OSIsoft,,214-3-25T13:47:5,BI (OSIsoft)
+132,OSI11482,Jie Chou,215762116,215762116,jchou@osisoft.com,7779,1471 St. Mary's LaneSuite 6,Houston,,United States,OSIsoft,Field Service Engineer,214-3-25T13:47:13,BI (OSIsoft)
+133,OSI168,Leanne Fang,72-876-7269,,leanne.fang@swgas.com,8915,5241 Spring Mountain Road nan,Las Vegas,NV,United States,Southwest Gas,Sr. System analyst,214-3-26T11:3:59,BI (OSIsoft)
+134,OSI1332,Brian Corcoran,353214973319,,bcorcor2@its.jnj.com,na,"Janssen BiologicsBarnahely, Ringaskiddy",Cork,na,Ireland,Janssen Pharmaceutical Companies,Manufacturing Systems Manager,214-3-26T8:34:7,BI (OSIsoft)
+135,OSI1556,Anthony DeBiase,914847338,914847338,anthony.debiase@regeneron.com,1591,777 Old Saw Mill River Roadnan,Tarrytown,New York,United States,Regeneron Pharmaceuticals Inc,Process Development Engineer,214-3-25T17:55:53,BI (OSIsoft)
+136,OSI126,Richard Mueller,1313235583,,muellerrj@dteenergy.com,48226,1 Energy Plaza42 SB,Detroit,MI,United States,DTE Energy,Supervising Engineer - Power Systems Technology,214-3-25T14:2:5,BI (OSIsoft)
+137,OSI1574,Calista Bruce,33626275,33626275,CBruce@nobleenergyinc.com,8123,3789 W Arrowhead Rdnan,Littleton,CO,United States,Noble Energy Inc.,Analyst,214-3-26T14:11:12,BI (OSIsoft)
+138,OSI1761,Marvin Wong,437714861,,mwong@secure-energy.ca,T2P 2V7,"36, 25 5th Ave SWnan",Calgary,AB,Canada,Secure Energy Services,Operations Analyst Engineer,214-3-25T17:6:19,BI (OSIsoft)
+139,OSI1761,Marvin Wong,437714861,,mwong@secure-energy.ca,T2P 2V7,"36, 25 5th Ave SWnan",Calgary,AB,Canada,Secure Energy Services,Operations Analyst Engineer,214-3-25T17:11:43,BI (OSIsoft)
+140,OSI1495,Bruno Longchamps,418 284-33,,bruno.longchamps@alcoa.com,G3H A4,3 Rue Du Geraniumnan,Pont-Rouge,Québec,Canada,Alcoa,SMART Manufacturing Program Manager,214-3-26T9:12:57,BI (OSIsoft)
+141,OSI11515,Bill Fabens,44-72-3679,216-246-4866,bfabens@osisoft.com,44118-4246,264 Exeter Rdnan,Cleveland Heights,,United States,OSIsoft,Group Lead Northern Americas,214-3-25T14:25:36,BI (OSIsoft)
+142,OSI168,Brad Hunt,217-451-6328,217-412-259,Brad.Hunt@adm.com,62526,4666 Faries Parkwaynan,Decatur,IL,United States,Archer Daniels Midland,Sr Process Engineer,214-3-25T16:51:38,BI (OSIsoft)
+143,OSI195,Bob Vonck,92 438-2915,,Robert.Vonck@gapac.com,5434,1919 S. Broadway Stnan,Green Bay ,WI,United States,Georgia-Pacific,Senior Director - IT,214-3-25T15:37:11,BI (OSIsoft)
+144,OSI1141,Charles Davis,(56) 635-5697,(56) 647-5781,davis.charles@jdirving.com,E2L3V6,3 Union Street4th Floor,Saint John,New Brunswick,Canada,"J.D. Irving, Limited - I.T. Division","Director,Transportation Group",214-3-26T1:58:32,BI (OSIsoft)
+145,OSI1557,Mike Maguire,33228476,,mmaguire@nobleenergyinc.com,822,1625 Broadway Ste 22nan,Denver,CO,United States,Noble Energy Inc.,Global Mgr - Production Analysis and Optimization,214-3-26T12:17:37,BI (OSIsoft)
+146,OSI12,Tom Richardson,954-889-37,832-33-722,trichardson@veedims.com,33312,3846 SW 3th Avenan,Fort Lauderdale,FL,United States,VEEDIMS,VP Sales & Mktg,214-3-26T12:3:14,BI (OSIsoft)
+147,OSI152,John Wohlleber,33-228-4245,,jwohlleber@nobleenergyinc.com,822,"1625 broadway, suite 22nan",Denver,CO,United States,Noble Energy Inc.,"Manager, Operations Systems",214-3-26T12:17:41,BI (OSIsoft)
+148,OSI148,Richard D'Souza,146764257,7866568216,richard@terrasol.co.uk,AB51 5JR,Anvil CottageBurnhervie,Inverurie,Aberdeenshire,United Kingdom,TerraSol Limited,Director,214-3-26T1:37:1,BI (OSIsoft)
+149,OSI1388,Jim Horton,72-587-2372,72-334-92,jhorton@nobleenergyinc.com,822,1625 BroadwaySuite 1756,Denver,CO,United States,Noble Energy Inc.,Business Analyst,214-3-26T12:17:44,BI (OSIsoft)
+150,OSI1388,Jim Horton,72-587-2372,72-334-92,jhorton@nobleenergyinc.com,822,1625 BroadwaySuite 1756,Denver,CO,United States,Noble Energy Inc.,Business Analyst,214-3-26T14:11:4,BI (OSIsoft)
+151,OSI1845,Liz Shigetoshi,53-753-3437,,eashigetoshi@ucdavis.edu,95616,One Shields Avenuenan,Davis,CA,United States,UC Davis,,214-3-26T12:44:31,BI (OSIsoft)
+152,OSI158,Jason Guu,818 574562,,guuj@baxter.com,91745,16454 Gregorio Drnan,Hacienda Heights,ca,United States,Baxter Healthcare,Tech Consultant,214-3-25T14:2:45,BI (OSIsoft)
+153,OSI1275,Nick Alexiades,58-271-9816,21-446-815,nicholas.alexiades@genzyme.com,155,4 Compass Circlenan,Boylston,MA,United States,Genzyme,Process Engineer,214-3-26T11:9:34,BI (OSIsoft)
+154,OSI155,Richard Tremblay,5148762855,514 833 863,richard.tremblay@keops.com,H3B 3A7,1155 University Suite 11nan,Montreal,quebec,Canada,Keops Technologies,Director,214-3-26T14:23:7,BI (OSIsoft)
+155,OSI1978,Huy Dao,415-92-45,,hdao@sfwater.org,94124,75 Phelps Street nan,San Francisco,CA,United States,SFPUC,DCS Engineer,214-3-26T11:22:42,BI (OSIsoft)
+156,OSI165,Steve Spurlock,728767394,,steve.spurlock@swgas.com,8915,5241 Spring Mountain Rdnan,Las Vegas,NV,United States,Southwest Gas,SCADA Administrator,214-3-26T11:3:57,BI (OSIsoft)
+157,OSI1572,Cassie Murillo,914-847-384,67-342-2524,cassandra.murillo@regeneron.com,1591,777 Old Saw Mill River Roadnan,Tarrytown,NY,United States,Regeneron Pharmaceuticals,Process Development Engineer II,214-3-25T17:55:5,BI (OSIsoft)
+158,OSI1722,Kelly Janssen,(92) 438-256,(92) 544-625,michael.janssen@gapac.com,5434-1919,1919 S Broadway Stnan,Green Bay,WI,United States,Georgia-Pacific,Lead Analyst,214-3-25T15:37:13,BI (OSIsoft)
+159,OSI11611,Chris Lonsberry,,44-865-35,clonsberry@osisoft.com,,nannan,Cleveland,,United States,OSIsoft,Systems Engineer,214-3-25T12:59:29,BI (OSIsoft)
+160,OSI1298,Charles Chen,886-3-5995899,886-926-251716,charleschen@unimicron.com,34,"No.29, Chung-Lun Village, Hsin-Feng, Hsinchunan",Hsinchu,Taiwan,Taiwan,Unimicron Technology Gorp.,Information Technology Senior Assistant Manager,214-3-25T14:38:46,BI (OSIsoft)
+161,OSI11127,Geoff Mueller,678-231-7275,678-231-7275,geoff.mueller@clorox.com,3144,1 Cobb Place Blvd.Bldg 1,Kennesaw,GA,United States,Clorox,Continuous Improvement Systems Manager,214-3-25T15:38:44,BI (OSIsoft)
+162,OSI1372,Joe Hill,338883677,338883677,jhill@nobleenergyinc.com,853,7968 Liley Ctnan,Frederick,Colorado,United States,Noble Energy Inc.,Sr. Analyst Enterprise Systems,214-3-26T11:17:42,BI (OSIsoft)
+163,OSI1545,Alain Lecours,5148762855,,alain.lecours@keops.com,H3B3A7,"1155 University, suite 11nan",Montréal,Québec,Canada,Keops Technologies,Project Lead,214-3-26T14:23:12,BI (OSIsoft)
+164,OSI1253,Anny Chang,886223452366221,8869171691,anny_chang@provision.com.tw,11,"4F, No.56, Sec.4, Jhongsiao E. RDnan",TAIPEI,TAIPEI,Taiwan,"Provision Information Co., Ltd",Sales Manager,214-3-25T14:38:49,BI (OSIsoft)
+165,OSI1267,Nate Chang,51-529-1298,51-529-1298,nyc1@pge.com,93583,34 Crow Canyon RoadRoom 151,San Ramon,CA,United States,Pacific Gas & Electric Company,Product Manager,214-3-25T17:46:19,BI (OSIsoft)
+166,OSI149,Todd Chumley,51-614-3294,51-351-4983,tchumley@spp.org,72223,21 Worthen Drivenan,Little Rock,Arkansas,United States,"Southwest Power Pool, Inc.",Programmer/Analyst,214-3-25T14:16:18,BI (OSIsoft)
+167,OSI1836,Jon Abbott,842574925,,jona63@dom.com,2322,24 grayland avenan,Richmond,va,United States,Dominion Virginia Power,Systems Analyst Specialist,214-3-25T15:19:15,BI (OSIsoft)
+168,OSI1842,Kiernan Salmon,53-752-3437,,kmsalmon@ad3.ucdavis.edu,95616,One Shields Avenuenan,Davis,CA,United States,UC Davis ,,214-3-26T12:44:29,BI (OSIsoft)
+169,OSI1134,Mike Farrow,919-993-1478,,michael.farrow@biogenidec.com,2779-4627,5 Davis DriveP.O. Box 14627,Research Triangle Park,NC,United States,Biogen Idec,"Engineer II, Manufacturing Sciences",214-3-26T13:4:11,BI (OSIsoft)
+170,OSI132,Dave Hopkins,58272232,,dave.hopkins@genzyme.com,242,25 Fuller Rd.nan,Lexington,MA,United States,Genzyme,Principal Engineer,214-3-26T8:4:49,BI (OSIsoft)
+171,OSI1115,Jonathan Weinberger,954-77-2391,,jweinberger@veedims.com,33312,3846 SW 3TH AVEnan,FORT LAUDERDALE,FL,United States,VEEDIMS,Director,214-3-26T12:3:1,BI (OSIsoft)
+172,OSI1721,Steve Savoie,92 438-2736,92 265-93,steve.savoie@gapac.com,5434,1919 N Broadwaynan,Green Bay,WI,United States,Georgia-Pacific,Manufacturing Systems Analyst,214-3-25T17:33:41,BI (OSIsoft)
+173,OSI1374,Darin Molone,45-727-1587,,darin.molone@accessmidstream.com,7315,525 Central Park Drivenan,Oklahoma City,OK,United States,Access Midstream,"Manager, SCADA",214-3-26T14:27:18,BI (OSIsoft)
+174,OSI1685,David Selway,+44 787 24413,+44 7878 24413,David.selway@o-sys.com,BS34 7QE,PO Box 3Fulton,Bristol,South Glous,United Kingdom,Optimized Systems and Solutions,Vice President Business Development,214-3-26T13:41:46,BI (OSIsoft)
+175,OSI11761,Gary Grimes,562-531-26,949-93-4112,ggrimes@ppcla.com,9723,147 Downey Avenan,Paramount,CA,United States,Paramount Petroleum,Director of Technology,214-3-26T13:25:28,BI (OSIsoft)
+176,OSI11771,Nader Riad,8541514,8541514,nader_riad@baxter.com,9132,17 rancho conejonan,thousand oaks,CA,United States,Baxter Healthcare,Engineer,214-3-25T14:56:2,BI (OSIsoft)
+177,OSI1285,Dennis Lawless,21-626-6478,,dennis.a.lawless@tsocorp.com,78259,191 Ridgewood Parkwaynan,San Antonio,TX,United States,Tesoro,Consulting Business Analyst,214-3-25T16:25:46,Cloud Connect (OSIsoft)
+178,OSI1749,David Trombly,537527385,,dmtrombly@ucdavis.edu,95616,One Shields AveUtilities Division,Davis,CA,United States,UC Davis,,214-3-26T12:3:51,Cloud Connect (OSIsoft)
+179,OSI1969,Greg Dumas,48-835-3794,,gdumas@dstcontrols.com,9451,651 Stone Roadnan,Benicia,CA,United States,DST Controls,Chief Technical Officer,214-3-26T12:29:33,Cloud Connect (OSIsoft)
+180,OSI154,Salla Diop,215652149,,salla_diop@merck.com,19454,131 CHURCH ROAD Apt 1-Anan,NORTH WALES,PA,United States,Merck,Project Manager,214-3-25T14:8:5,Cloud Connect (OSIsoft)
+181,OSI1989,Brandon Lake,53-423-279,537894965,brandon.lake@iberdrolaren.com,97211,112 NW Couch St.Suite 625,Portland,OR,United States,Iberdrola Renewables,PI Systems Analyst,214-3-25T16:17:39,Cloud Connect (OSIsoft)
+182,OSI1151,Ming Feng,,+886-932146255,myau@osisoft.com,,nannan,Taipei,,Taiwan,OSIsoft,APAC Power Generation Industry Pricipals,214-3-25T14:22:59,Cloud Connect (OSIsoft)
+183,OSI1379,Kaarthi Govindaraju,4127786568,412667267,Kaarthi.govindaraju@bayer.com,1518,1 Bayer Roadnan,Pittsburgh,PA,United States,Bayer Technology Services,Sr MES Analyst,214-3-25T14:39:3,Cloud Connect (OSIsoft)
+184,OSI1185,Khalid Alzahrani,966888518,,khalid.zahrani.2@aramco.com,31311,P.O.Box 1914nan,Ras Tanura,Eastern,Saudi Arabia,Saudi Aramco,Supervisor,214-3-26T8:35:24,Cloud Connect (OSIsoft)
+185,OSI1515,Jeff Edwards,817-785-89,,jeff.edwards@triencon.com,755,1 Post and PaddockSte 2,Grand Prairie,TX,United States,TSI Group/Triencon Services,Director,214-3-25T14:16:17,Cloud Connect (OSIsoft)
+186,OSI1164,Bill Maulsby,97-292-2881,97-214-2893,bill.maulsby@woodgroup.com,8538,591 West 66th Stnan,Loveland,CO,United States,Wood Group,Sr. Infrastructure Engineer,214-3-26T8:25:42,Cloud Connect (OSIsoft)
+187,OSI1122,Steve Nye,,+1 51 599-5835,steven@osisoft.com,,nannan,San Francisco,,United States,OSIsoft,,214-3-25T16:17:4,Cloud Connect (OSIsoft)
+188,OSI11429,Valli Kamakodu,,,vkamakodu@osisoft.com,94577,nannan,San Leandro,,United States,OSIsoft,Engineer,214-3-25T13:33:5,Cloud Connect (OSIsoft)
+189,OSI11429,Valli Kamakodu,,,vkamakodu@osisoft.com,94577,nannan,San Leandro,,United States,OSIsoft,Engineer,214-3-26T9:45:31,Cloud Connect (OSIsoft)
+190,OSI1332,Brian Corcoran,353214973319,,bcorcor2@its.jnj.com,na,"Janssen BiologicsBarnahely, Ringaskiddy",Cork,na,Ireland,Janssen Pharmaceutical Companies,Manufacturing Systems Manager,214-3-26T8:43:43,Cloud Connect (OSIsoft)
+191,OSI133,Anton Meyer,(775) 748-1111,(775) 777-568,ameyer@barrick.com,8981,95 West Main Streetnan,Elko,NV,United States,Barrick Gold Corporation,Senior Systems Engineer,214-3-25T15:2:15,Cloud Connect (OSIsoft)
+192,OSI11612,Charlie Henze,,,cahenze@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,,214-3-26T9:43:5,Cloud Connect (OSIsoft)
+193,OSI11251,Laurent Garrigues,,+1 514 994 2884,lgarrigues@osisoft.com,,nannan,Montreal,,Canada,OSIsoft,,214-3-25T12:34:36,Cloud Connect (OSIsoft)
+194,OSI11251,Laurent Garrigues,,+1 514 994 2884,lgarrigues@osisoft.com,,nannan,Montreal,,Canada,OSIsoft,,214-3-25T13:3:34,Cloud Connect (OSIsoft)
+195,OSI15,Scott Larson,63-824-1721,63-432-3119,sdlarson@suncoke.com,6532,111 Wrrenville RdSuite 6,Lisle,IL,United States,SunCoke Energy,IT Systems Analyst,214-3-26T8:38:12,Cloud Connect (OSIsoft)
+196,OSI1181,Mickie Hodges,84-444-752,434-264-414,mickie.hodges@mwv.com,23219,51 South 5th Streetnan,Richmond,Virginia,United States,MeadWestvaco,COE Manufacturing Solutions,214-3-26T8:57:49,Cloud Connect (OSIsoft)
+197,OSI1966,Aaron Candib,719-466-7597,719-466-7597,aaron.candib@thestructuregroup.com,8918,4695 Montebello Drnan,Colorado Springs,CO,United States,The Structure Group,Manager,214-3-26T13:5:16,Cloud Connect (OSIsoft)
+198,OSI1141,Charles Davis,(56) 635-5697,(56) 647-5781,davis.charles@jdirving.com,E2L3V6,3 Union Street4th Floor,Saint John,New Brunswick,Canada,"J.D. Irving, Limited - I.T. Division","Director,Transportation Group",214-3-25T13:57:29,Cloud Connect (OSIsoft)
+199,OSI187,Billy Pellum,832-854-6188,,bpellum@chevron.com,7793,15 Louisiananan,Houston,Texas,United States,Chevron,M,214-3-25T17:21:53,Cloud Connect (OSIsoft)
+200,OSI1549,Glenn Johnson,74-382-7633,,Glenn.Johnson@duke-energy.com,2837,182 Caroline Ctnan,Denver,NC,United States,Duke Energy,Lead IT Applications Analyst,214-3-26T1:44:19,Cloud Connect (OSIsoft)
+201,OSI1651,Roberto Linares,281929196,2812213984,roberto.linares@pimsoftinc.com,7779,1471 St. Marys Ln. Suite 175,Houston,TX,United States,Pimsoft Inc.,Vice President,214-3-26T1:6:27,Cloud Connect (OSIsoft)
+202,OSI1167,Barbara Lancaster,415-973-527,415-317-1862,bll2@pge.com,94117,77 Beale St.B16F,San Francisco,CA,United States,Pacific Gas and Electric Company,Sr Project Manager,214-3-25T16:8:24,Cloud Connect (OSIsoft)
+203,OSI1385,Mike Read,713-296-3137,,moread@marathonoil.com,7756,5555 San FelipeRoom 289,Houston,TX,United States,Marathon Oil,SCADA Supervisor,214-3-26T7:42:35,Cloud Connect (OSIsoft)
+204,OSI1327,Ian Jefferson,67-974-4334,,jeffersonig@corning.com,14831,Corning IncorporporatedHP-ME-3,Corning,NY,United States,Corning Incorporated,Manager Manufacturing Software Solutions,214-3-26T1:3:35,Cloud Connect (OSIsoft)
+205,OSI1693,Sekti Setiono,832854295,281975964,ssetion@chevron.com,772,15 Louisiana Street Floor 38thnan,Houston,Texas,United States,Chevron,Engineer,214-3-26T14:1:46,Cloud Connect (OSIsoft)
+206,OSI1157,Dave Oda,,,dcoda@osisoft.com,94577695,nannan,SAN LEANDRO,,United States,OSIsoft,Software Developer,214-3-25T13:33:42,Cloud Connect (OSIsoft)
+207,OSI1496,Thony Valbrun,732-227-7736,,anthony.valbrun@bms.com,893,1 Squibb DriveB15-146,New Brunswick,NJ,United States,Bristol-Myers Squibb,Principal Business Capability Analyst,214-3-26T14:33:25,Cloud Connect (OSIsoft)
+208,OSI1975,Tim Presar,419-226-2584,419-231-328,tim.presar@huskyenergy.com,4584,115 S. Metcalf St.nan,Lima,OH,United States,Husky Lima Refinery,Programmer/Analyst,214-3-26T8:31:1,Cloud Connect (OSIsoft)
+209,OSI1298,Charles Chen,886-3-5995899,886-926-251716,charleschen@unimicron.com,34,"No.29, Chung-Lun Village, Hsin-Feng, Hsinchunan",Hsinchu,Taiwan,Taiwan,Unimicron Technology Gorp.,Information Technology Senior Assistant Manager,214-3-25T14:22:57,Cloud Connect (OSIsoft)
+210,OSI1169,Aimin Wang,925-415-6354,,a1wc@pge.com,94588,341 Crow Canyon Rdnan,San Ramon,CA,United States,Pacific Gas and Electric Company,Sr. Programmer,214-3-25T15:59:23,Cloud Connect (OSIsoft)
+211,OSI1784,Carlos Quintana,281 92-9196,832 247-9938,carlos.quintana@pimsoftinc.com,7779,1471 St Marys LaneSuite 175,Houston,Texas,United States,Pimsoft Inc.,Engineering Manager,214-3-26T11:2:44,Cloud Connect (OSIsoft)
+212,OSI1941,Pierre Boutin,418-286-5231,418-284-3643,pierre.boutin@alcoa.com,G1W 3P9,"166, route de l'églisenan",Québec,Québec,Canada,Alcoa,"Program manager, GPM MES systems",214-3-25T17:36:15,Cloud Connect (OSIsoft)
+213,OSI11562,Richard Najarian,,925-699-189,RNajarian@osisoft.com,,nannan,"San Leandro, CA",,United States,OSIsoft,"Director, Quality Systems",214-3-26T1:9:51,Cloud Connect (OSIsoft)
+214,OSI1253,Anny Chang,886223452366221,8869171691,anny_chang@provision.com.tw,11,"4F, No.56, Sec.4, Jhongsiao E. RDnan",TAIPEI,TAIPEI,Taiwan,"Provision Information Co., Ltd",Sales Manager,214-3-25T14:23:4,Cloud Connect (OSIsoft)
+215,OSI1588,Uzma Taj,551-265-214,,Uzma.Taj@exeloncorp.com,855,5 Orly Ctnan,West Windsor,NJ,United States,ComEd,Engineer,214-3-26T14:14:28,Cloud Connect (OSIsoft)
+216,OSI1591,Jonathan Moretti,1-217-451-4683,,Jonathan.Moretti@adm.com,62526,4666 Faries Parkwaynan,Decatur,IL,United States,Archer Daniels Midland,Process Information Administrator,214-3-26T11:43:19,Cloud Connect (OSIsoft)
+217,OSI183,Tao Xia,(84)257-4851,,Tao.Xia@dom.com,2322,24 Grayland Avenuenan,Richmond,VA,United States,Dominion Virginia Power,Engineer,214-3-25T15:29:48,Cloud Connect (OSIsoft)
+218,OSI11548,Ronan de Hooge,,15122181,rdehooge@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,Software Development Group Lead,214-3-26T9:43:17,Cloud Connect (OSIsoft)
+219,OSI1414,Itoro Meshioye,7132134349,7132134349,itoro.meshioye@hp.com,77429,17923 harbour bridge point drnan,cypress,TX,United States,Hewlett-Packard,Data Center Engineer,214-3-25T15:25:9,Cloud Connect (OSIsoft)
+220,OSI1376,Mahalet Sebhatu,865-335-5273,865-335-5273,mahalet.sebhatu@alcoa.com,47715,71 Biltmore Waynan,Evansville,IN,United States,Alcoa,Process Engineer ,214-3-26T9:44:33,Cloud Connect (OSIsoft)
+221,OSI1468,Joe Gonot,412-777-3479,412-335-365,joseph.gonot@bayer.com,1525,1 Bayer Rdnan,Pittsburgh,PA,United States,Bayer Technology Services,Senior Engineer,214-3-25T14:4:39,Cloud Connect (OSIsoft)
+222,OSI11172,Brent Boozer,925-79-4345,925-89-8478,brentboozer@chevron.com,94583,611 Bollinger Canyon RoadRoom 217,San Ramon,CA,United States,Chevron,Shipping IT,214-3-26T14:13:43,Cloud Connect (OSIsoft)
+223,OSI1421,Carl Van Laer,32146473,3247455949,cvlaer1@its.jnj.com,B-234,Turnhoutseweg 3nan,Beerse,Antwerp,Belgium,Janssen Pharmaceutical Companies,IT Manager Manufacturing Systems,214-3-26T8:18:,Cloud Connect (OSIsoft)
+224,OSI11427,Chad Chisholm,,48294527,chad@osisoft.com,,nannan,Phoenix,,United States,OSIsoft,Development Lead,214-3-25T15::2,Cloud Connect (OSIsoft)
+225,OSI1954,Tony Anderson,(832)357-3267,(713)858-9295,Tony.Anderson@nrgenergy.com,772,1 Main St.23G,Houston,TX,United States,NRG Energy,Systems Analyst III,214-3-25T17:22:,Cloud Connect (OSIsoft)
+226,OSI142,Scott Johnson,65-965-2297,65-261-8589,scott.johnson@poet.com,5714,4615 N Lewis Avenan,Sioux Falls,SD,United States,POET,Data Systems Administrator,214-3-26T11:1:26,Cloud Connect (OSIsoft)
+227,OSI1646,Eric Wiseman,98 373 3613,98 722 575,eric.wiseman@duke-energy.com,28285,4 S. TryonMC ST 1134,Charlotte,NC,United States,Duke Energy,Lead IT Applications Analyst,214-3-25T16:43:49,Cloud Connect (OSIsoft)
+228,OSI11761,Gary Grimes,562-531-26,949-93-4112,ggrimes@ppcla.com,9723,147 Downey Avenan,Paramount,CA,United States,Paramount Petroleum,Director of Technology,214-3-26T13:2:3,Cloud Connect (OSIsoft)
+229,OSI1115,Barry Abella,415 25 6854,,babella@bmrn.com,94545,2485 Cobblestone Drivenan,Hayward,CA,United States,BioMarin Pharmaceutical,"Manager, Manufacturing Applications",214-3-25T18:26:48,Data Archive (OSIsoft)
+230,OSI1158,Denis Vacher,,513755997,dvacher@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,Development Group Leader,214-3-25T12:28:4,Data Archive (OSIsoft)
+231,OSI1484,Pinal Patel,85-48-2573,,pinal_patel@baxter.com,9132,17 Rancho Conejo Blvdnan,Thousand Oaks,CA,United States,Baxter Healthcare,Sr. Engineer,214-3-25T14:48:14,Data Archive (OSIsoft)
+232,OSI133,Murat Uludogan,97 776 5578,81 664 141,muludogan@peakrc.com,8538,458 Hanhs Peak Drivenan,Loveland,CO,United States,Peak Realiability,Supervisor Applications Support,214-3-26T1:51:5,Data Archive (OSIsoft)
+233,OSI167,Keith Lehman,617-834-2863,,klehman@intercap-e.com,2421,4 Hudson Rdnan,Lexington,MA,United States,"Intercap Energy Systems, LLC",Chief Architect,214-3-25T15:42:16,Data Archive (OSIsoft)
+234,OSI1932,Jerry Smieszny,6176794332,8579989337,jerry.smieszny@biogenidec.com,2142,14 Cambridge Centernan,Cambridge,MA,United States,Biogen Idec,Sr. Automation Engineer,214-3-26T8:46:2,Data Archive (OSIsoft)
+235,OSI1869,Ron Baldus,36-619-51,36-921-731,rbaldus@capstonetechnology.com,9867,"143 SE 1st Street, Suite 2nan",Camas,Wa,United States,Capstone Technology,President,214-3-26T8:4:57,Data Archive (OSIsoft)
+236,OSI1194,Amrish Macedo,4842419356,4842419356,amacedo@echomesh.com,19312,791 Old State Roadnan,Berwyn,PA,United States,echoMESH,CTO,214-3-26T12:37:4,Data Archive (OSIsoft)
+237,OSI11432,Anthony Tang,,,atang@osisoft.com,94577,nannan,"San Leandro, Ca",,United States,OSIsoft,Software Developer,214-3-26T11:6:5,Data Archive (OSIsoft)
+238,OSI11432,Anthony Tang,,,atang@osisoft.com,94577,nannan,"San Leandro, Ca",,United States,OSIsoft,Software Developer,214-3-26T14:34:6,Data Archive (OSIsoft)
+239,OSI1328,David Barker,+64 9 282 4231,+64 21 522 591,david@dimensionsoftware.co.nz,1542,PO Box 1159Ellerslie,Auckland,Auckland,New Zealand,Dimension Software,Managing Director,214-3-25T17:28:3,Data Archive (OSIsoft)
+240,OSI114,Hongjun Cho,82-2-521-196,82-1-2345-2111,hongjun.cho@aidcorp.com,137-872,1546-3Seocho-Dong,Seocho-Gu,Seoul,South Korea,AID Corporation,Director,214-3-25T15:7:5,Data Archive (OSIsoft)
+241,OSI1245,Dave Monsibais,661-615-4613,,dfmonsibais@sycamore.com,9338,P.O. Box 8598nan,Bakersfield,CA,United States,Sycamore Cogeneration,PI Systems Administrator,214-3-26T8:53:35,Data Archive (OSIsoft)
+242,OSI1894,Orlando Acevedo,415-713-554,415-713-554,oacevedo@sunpowercorp.com,9484,1414 Harbor Way Southnan,Richmond,CA,United States,SunPower,Software Engineer,214-3-25T15:53:7,Data Archive (OSIsoft)
+243,OSI132,Mark Bowles,977765753,,MBOWLES@PEAKRC.COM,8538,"485 Hahns Peak Drive, Suite 12nan",Loveland,CO,United States,Peak Realiability,Sr. Applications Analyst,214-3-26T1:51:52,Data Archive (OSIsoft)
+244,OSI139,Don Carter,7132419339,,don.carter@shell.com,772,One Shell Plaza9 Louisiana 4th Floor,Houston,TX,United States,Shell,Architect,214-3-26T1:49:37,Data Archive (OSIsoft)
+245,OSI1394,Tom Luo,43-296-5728,43-815-341,tluo@suncor.com,T2P3E3,15-6th AVE SWnan,Calgary,AB,Canada,Suncor Energy,Lead Historians and Database,214-3-26T1:35:38,Data Archive (OSIsoft)
+246,OSI1966,Aaron Candib,719-466-7597,719-466-7597,aaron.candib@thestructuregroup.com,8918,4695 Montebello Drnan,Colorado Springs,CO,United States,The Structure Group,Manager,214-3-25T18:4:11,Data Archive (OSIsoft)
+247,OSI1296,Ian Rivett,36-79-93,,ian.rivett@meragroup.net,S4S 7J7,195-1 Research Drivenan,Regina,Saskatchewan,Canada,Mera,Project Engineer,214-3-26T8:24:16,Data Archive (OSIsoft)
+248,OSI158,Jason Guu,818 574562,,guuj@baxter.com,91745,16454 Gregorio Drnan,Hacienda Heights,ca,United States,Baxter Healthcare,Tech Consultant,214-3-25T17:33:43,Data Archive (OSIsoft)
+249,OSI11698,Vivian Li,,513782388,vli@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,Escalation Engineer,214-3-25T15:21:9,Data Archive (OSIsoft)
+250,OSI11182,Bartt Emerson,415-973-4824,,bxe1@pge.com,94177,"P.O. Box 77, Mail Code N19Knan",San Francisco,CA,United States,Pacific Gas and Electric Company,Operational Data Specialist,214-3-26T11:1:6,Data Archive (OSIsoft)
+251,OSI155,Richard Tremblay,5148762855,514 833 863,richard.tremblay@keops.com,H3B 3A7,1155 University Suite 11nan,Montreal,quebec,Canada,Keops Technologies,Director,214-3-26T1:49:56,Data Archive (OSIsoft)
+252,OSI1496,Thony Valbrun,732-227-7736,,anthony.valbrun@bms.com,893,1 Squibb DriveB15-146,New Brunswick,NJ,United States,Bristol-Myers Squibb,Principal Business Capability Analyst,214-3-26T14:1:57,Data Archive (OSIsoft)
+253,OSI151,Mary Bellinger,336-941-3218,713-443-8538,mnbellinger@sinclairoil.com,276,119 Sycamore Commons Lanenan,Bermuda Run,NC,United States,Sinclair Oil,Project Systems Analyst,214-3-26T11:4:43,Data Archive (OSIsoft)
+254,OSI151,Mary Bellinger,336-941-3218,713-443-8538,mnbellinger@sinclairoil.com,276,119 Sycamore Commons Lanenan,Bermuda Run,NC,United States,Sinclair Oil,Project Systems Analyst,214-3-26T11:49:46,Data Archive (OSIsoft)
+255,OSI11242,Satyam Godasi,,,sgodasi@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,,214-3-25T12:24:59,Data Archive (OSIsoft)
+256,OSI159,Tripti Somani,78-792-389,78-799-3832,tsomani@suncor.com,T9H A8,"885 Memorial Drive, PO Box 415nan",Fort McMurray,AB,Canada,Suncor Energy,Apps & Infratstructure Manager,214-3-26T1:35:4,Data Archive (OSIsoft)
+257,OSI192,Michael Saucier,925-218-6983,62-315-413,michael@transpara.com,8586,3825 W Anthem WayUnit 311,Phoenix,AZ,United States,Transpara,CEO,214-3-26T12:53:14,Data Archive (OSIsoft)
+258,OSI1545,Alain Lecours,5148762855,,alain.lecours@keops.com,H3B3A7,"1155 University, suite 11nan",Montréal,Québec,Canada,Keops Technologies,Project Lead,214-3-26T1:49:53,Data Archive (OSIsoft)
+259,OSI1454,Jason Nunez,858-521-3489,,Jason.Nunez@edf-re.com,92128,15445 Innovation Drivenan,San Diego,CA,United States,EDF Renewable Energy,PI Development Engineer,214-3-26T1:18:44,Data Archive (OSIsoft)
+260,OSI1726,Jack Rao,661632148,7325138482,j.rao@chevron.com,9339,381 Ashe RdApt 63,Bakersfield,CA,United States,AvalonDev,Sr. Database Analyst,214-3-25T17:4:33,Data Archive (OSIsoft)
+261,OSI1619,Bob McIntyre,36-933-8556,36-23-777,bob.mcintyre@potashcorp.com,S7K7G,Suite 5122-1st Ave S,Saskatoon,Sask,Canada,PotashCorp,Sr Process Control Engineer,214-3-25T18:23:47,Data Archive (OSIsoft)
+262,OSI1566,Clark Sanford,51-242-4864,,wcsa@chevron.com,9482,841 Chevron Waynan,Richmond,CA,United States,Chevron,Business Analyst,214-3-26T1:59:8,Data Archive (OSIsoft)
+263,OSI1356,Borre Heggernes,4791395525,,borre.heggernes@amitec.no,456,Estervegen 18nan,TANANGER,Rogaland,Norway,Amitec,CTO,214-3-26T13:52:5,Data Archive (OSIsoft)
+264,OSI1432,Robert Lane,59-373-4748,28-818-6976,Robert_A_Lane@rl.gov,99354,"244 Stevens Center PlacePO Box 85, MSIN R1-2",Richland,WA,United States,Washington River Protection Solutions (WRPS),Software Engineer/Analyst/Developer,214-3-26T8:53:26,Data Archive (OSIsoft)
+265,OSI112,Tony Watkins,832-858-3166,,Tony.Watkins@Optimate.net.au,776,321 Louisiana St #1325nan,Houston,tx,United States,Optimate International,Solutions Architect - Operational Managent Solutions,214-3-25T16::1,Data Archive (OSIsoft)
+266,OSI149,Todd Chumley,51-614-3294,51-351-4983,tchumley@spp.org,72223,21 Worthen Drivenan,Little Rock,Arkansas,United States,"Southwest Power Pool, Inc.",Programmer/Analyst,214-3-25T15:11:59,Data Archive (OSIsoft)
+267,OSI1278,Kimlin Pen,43-699-187,,kpen@spectraenergy.com,T2P3L8,"Suite 26, 425 1st Street SWnan",Calgary,AB,Canada,Spectra Energy,Information Architect,214-3-26T12:14:28,Data Archive (OSIsoft)
+268,OSI1246,Jackie Bell,661-615-4756,,jrbell@sycamore.com,9338,P.O. Box 8598nan,Bakersfield,CA,United States,Sycamore Cogeneration,Developer,214-3-26T8:53:33,Data Archive (OSIsoft)
+269,OSI1684,Tim Sells,(919) 518-3585,(919) 518-3585,tsells@manganinc.com,91362,2455 Vista Wood Cir Apt 28nan,Thousand Oaks,CA,United States,Mangan Inc.,Director of Automation Technology,214-3-25T14:48:17,Data Archive (OSIsoft)
+270,OSI1217,Dag Reppen,62-236-4395,,dag.reppen@srpnet.com,8572-225,M/S: POB6PO Box 5225,Phoenix,AZ,United States,Salt River Project,Sr Engineer,214-3-26T14:16:6,Data Archive (OSIsoft)
+271,OSI1889,Rhys Kirk,782477846,782477846,rhys.kirk@accenture.com,CH36RA,31 Nightingale Closenan,Chester,Cheshire,United Kingdom,Accenture,Manager,214-3-25T15:26:5,Data Archive (OSIsoft)
+272,OSI1285,Dennis Lawless,21-626-6478,,dennis.a.lawless@tsocorp.com,78259,191 Ridgewood Parkwaynan,San Antonio,TX,United States,Tesoro,Consulting Business Analyst,214-3-25T14:14:35,ESRI (OSIsoft)
+273,OSI197,Wes Dyk,(33)228-426,,wdyk@nobleenergyinc.com,822,1625 BroadwaySTE 22,Denver,CO,United States,Noble Energy Inc.,Production Systems Administrator,214-3-26T12:26:41,ESRI (OSIsoft)
+274,OSI1976,Alex Junk,319-384-3629,,alexander-junk@uiowa.edu,52242,1 W Prentiss St22 USB,Iowa City,Iowa,United States,University of Iowa,Senior Systems Administrator,214-3-25T15:56:55,ESRI (OSIsoft)
+275,OSI1176,Michael Larimer,2166945311,2166945311,michael.larimer@cliffsnr.com,44144,2 Public Squarenan,Cleveland,Ohio,United States,"Cliffs Natural Resources, Inc.",Sr. IT/OT Operational Analyst/Developer,214-3-26T14:5:48,ESRI (OSIsoft)
+276,OSI1515,Jeff Edwards,817-785-89,,jeff.edwards@triencon.com,755,1 Post and PaddockSte 2,Grand Prairie,TX,United States,TSI Group/Triencon Services,Director,214-3-25T15:3:56,ESRI (OSIsoft)
+277,OSI168,Leanne Fang,72-876-7269,,leanne.fang@swgas.com,8915,5241 Spring Mountain Road nan,Las Vegas,NV,United States,Southwest Gas,Sr. System analyst,214-3-25T13:55:34,ESRI (OSIsoft)
+278,OSI168,Leanne Fang,72-876-7269,,leanne.fang@swgas.com,8915,5241 Spring Mountain Road nan,Las Vegas,NV,United States,Southwest Gas,Sr. System analyst,214-3-25T13:55:36,ESRI (OSIsoft)
+279,OSI1542,Herb Falk,+1-586-254-2,,herb@sisconet.com,48314,665 19-1/2 Mile Roadnan,Sterling Heights,MI,United States,SISCO,Solutions Architect,214-3-25T15:57:7,ESRI (OSIsoft)
+280,OSI1367,André Trudel,819-676-81,819-676-6812,atrudel@rocktenn.com,G9x 3P8,"1, chemin de l'usinenan",La Tuque,Québec,Canada,Rocktenn,Process control engineer,214-3-26T11:15:33,ESRI (OSIsoft)
+281,OSI1328,David Barker,+64 9 282 4231,+64 21 522 591,david@dimensionsoftware.co.nz,1542,PO Box 1159Ellerslie,Auckland,Auckland,New Zealand,Dimension Software,Managing Director,214-3-25T13:4:22,ESRI (OSIsoft)
+282,OSI14,Peter Wright,78-232-3955,,peter.wright@dexcent.com,T6M2G2,1851253A Avenue NW,Edmonton,Alberta,Canada,Dexcent,Industrial Informaiton Practice Lead,214-3-25T15:41:25,ESRI (OSIsoft)
+283,OSI1761,Marvin Wong,437714861,,mwong@secure-energy.ca,T2P 2V7,"36, 25 5th Ave SWnan",Calgary,AB,Canada,Secure Energy Services,Operations Analyst Engineer,214-3-26T8:52:46,ESRI (OSIsoft)
+284,OSI1761,Marvin Wong,437714861,,mwong@secure-energy.ca,T2P 2V7,"36, 25 5th Ave SWnan",Calgary,AB,Canada,Secure Energy Services,Operations Analyst Engineer,214-3-26T9:9:3,ESRI (OSIsoft)
+285,OSI1394,Tom Luo,43-296-5728,43-815-341,tluo@suncor.com,T2P3E3,15-6th AVE SWnan,Calgary,AB,Canada,Suncor Energy,Lead Historians and Database,214-3-25T13:57:33,ESRI (OSIsoft)
+286,OSI1727,Steve Buster,394947538,,s_buster@cat.com,61448,87 Swedenberg Roadnan,Knoxville,IL,United States,Caterpillar Inc.,Solutions Architect,214-3-26T9:53:16,ESRI (OSIsoft)
+287,OSI11582,Janelle Minich,,4259858683,janelle@osisoft.com,,nannan,Snoqualmie,,United States,OSIsoft,"Manager, North American System Engineering",214-3-26T11:35:44,ESRI (OSIsoft)
+288,OSI1181,Mickie Hodges,84-444-752,434-264-414,mickie.hodges@mwv.com,23219,51 South 5th Streetnan,Richmond,Virginia,United States,MeadWestvaco,COE Manufacturing Solutions,214-3-25T14:5:8,ESRI (OSIsoft)
+289,OSI1557,Mike Maguire,33228476,,mmaguire@nobleenergyinc.com,822,1625 Broadway Ste 22nan,Denver,CO,United States,Noble Energy Inc.,Global Mgr - Production Analysis and Optimization,214-3-26T12:26:38,ESRI (OSIsoft)
+290,OSI11673,Dan Lopez,,573-239-969,dlopez@osisoft.com,94577,nannan,San Leandro,,United States,OSIsoft,Customer Support Engineer,214-3-25T12:39:51,ESRI (OSIsoft)
+291,OSI1699,Justin Studer,335628688,,justin.studer@rovisys.com,4422,1455 Danner Drivenan,Aurora,OH,United States,Rovisys,Lead Software Engineer,214-3-25T14:9:51,ESRI (OSIsoft)
+292,OSI1693,Sekti Setiono,832854295,281975964,ssetion@chevron.com,772,15 Louisiana Street Floor 38thnan,Houston,Texas,United States,Chevron,Engineer,214-3-26T12:59:35,ESRI (OSIsoft)
+293,OSI11329,Michelle Kuiee,,+1 925 998-9766,michelle@osisoft.com,,nannan,Newark,,United States,OSIsoft,Product Manager,214-3-25T12:27:46,ESRI (OSIsoft)
+294,OSI11329,Michelle Kuiee,,+1 925 998-9766,michelle@osisoft.com,,nannan,Newark,,United States,OSIsoft,Product Manager,214-3-25T13:4:54,ESRI (OSIsoft)
+295,OSI1963,Crazy Pete,33-273-4838,33-91-3662,Peter.D.Gimeno@XcelEnergy.com,8231,1821 W. 1th Ave.nan,Golden,CO,United States,Xcel Energy,Programmer,214-3-26T12:21:5,ESRI (OSIsoft)
+296,OSI1331,Asle Frantzen,4755527823,4795859162,asle.frantzen@amitec.no,5257,Kokstaddalen 4nan,Kokstad,Hordaland,Norway,Amitec,Sr. Software Engineer,214-3-25T14:35:3,ESRI (OSIsoft)
+297,OSI165,Steve Spurlock,728767394,,steve.spurlock@swgas.com,8915,5241 Spring Mountain Rdnan,Las Vegas,NV,United States,Southwest Gas,SCADA Administrator,214-3-26T11:4:52,ESRI (OSIsoft)
+298,OSI151,Mary Bellinger,336-941-3218,713-443-8538,mnbellinger@sinclairoil.com,276,119 Sycamore Commons Lanenan,Bermuda Run,NC,United States,Sinclair Oil,Project Systems Analyst,214-3-25T13:44:17,ESRI (OSIsoft)
+299,OSI126,Mark Mays,343573282,,mmays@nisource.com,25314,17 MacCorkle Ave SEnan,Charleston,WV,United States,Columbia Pipeline Group,Sr Engineer,214-3-25T18:8:44,ESRI (OSIsoft)
+300,OSI125,Patrick Mechenbier,33 995 8118,,patrick.mechenbier@rovisys.com,4422,1455 Danner Dr.nan,Aurora,Ohio,United States,RoviSys,Software Developer,214-3-26T9:34:56,ESRI (OSIsoft)
+301,OSI1169,Aimin Wang,925-415-6354,,a1wc@pge.com,94588,341 Crow Canyon Rdnan,San Ramon,CA,United States,Pacific Gas and Electric Company,Sr. Programmer,214-3-26T14:23:46,ESRI (OSIsoft)
+302,OSI1146,Bruno Bachiega,,+1 (42) 57-146,bbachiega@osisoft.com,,nannan,Miami,,United States,OSIsoft,Center of excellence engineer,214-3-25T16:23:11,ESRI (OSIsoft)
+303,OSI11534,Michael Van der Veeken,,31616724777,mvanderveeken@osisoft.com,173RZ,nannan,Heerhugowaard,,Netherlands,OSIsoft,Senior Developer,214-3-25T12:39:16,ESRI (OSIsoft)
+304,OSI1538,Uche Ejiogu,43-513-848,,uej@statoil.com,T2X 3B7,"36,38-4th ave SWnan",Calgary,Alberta,Canada,Statoil,Petroleum Technologist,214-3-25T14:27:49,ESRI (OSIsoft)
+305,OSI183,Tao Xia,(84)257-4851,,Tao.Xia@dom.com,2322,24 Grayland Avenuenan,Richmond,VA,United States,Dominion Virginia Power,Engineer,214-3-26T12:28:31,ESRI (OSIsoft)
+306,OSI1725,Bryan Toich,33-995-8155,,bryan.toich@rovisys.com,4422,1455 Danner Drivenan,Aurora,OH,United States,RoviSys,Software Engineer,214-3-25T14:9:47,ESRI (OSIsoft)
+307,OSI1933,Rich Frow,39-494-3948,39-363-698,rich.frow@cat.com,61614,1 NE Adams Stnan,Peoria,IL,United States,Caterpillar Inc.,IT Manager,214-3-26T9:53:19,ESRI (OSIsoft)
+308,OSI1184,Jim Finch,36-66-2123,,jfinch@bridgeenergygroup.com,9711,6283 E Mountain Country Lanenan,Brightwood,OR,United States,BRIDGE Energy Group,Sr Consultant / Project Manager,214-3-26T8:2:1,ESRI (OSIsoft)
+309,OSI154,Li Luo,324544392,,li.luo@pepcoholdings.com,19714,PO Box 923979NC35,Newark,DE,United States,"Pepco Holdings, Inc",Sr. Systems Architect,214-3-26T1:18:51,ESRI (OSIsoft)
+310,OSI18,James Butler,479-871-5292,,james.butler@rovisys.com,97214,3955 SE Main St.Apt. #2,Portland,OR,United States,RoviSys,Project Engineer I,214-3-26T9:35:6,ESRI (OSIsoft)
+311,OSI171,Alan Calder,435-781-5719,,acalder@deseretpower.com,8478,125 East 255 Southnan,Vernal,Utah,United States,Deseret Power,Electrical Engineer,214-3-25T14:4:17,ESRI (OSIsoft)
+312,OSI1646,Eric Wiseman,98 373 3613,98 722 575,eric.wiseman@duke-energy.com,28285,4 S. TryonMC ST 1134,Charlotte,NC,United States,Duke Energy,Lead IT Applications Analyst,214-3-26T12:39:27,ESRI (OSIsoft)
+313,OSI1199,Sandy Fliderman,954-889-37,917-731-6161,sfliderman@veedims.com,33312,3846 SW 3th Avenan,Fort Lauderdale,FL,United States,VEEDIMS,CIO,214-3-26T11:5:11,Interfaces (OSIsoft)
+314,OSI1493,Brenhan Holm,662 44 6654,91 359 2556,bholm@flowserve.com,38671,7796 Stacey drive nan,Southaven,MS,United States,Flowserve,System Analyst,214-3-25T14:37:4,Interfaces (OSIsoft)
+315,OSI11682,Paul Novak,,,pnovak@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,Software Developer,214-3-25T18:5:4,Interfaces (OSIsoft)
+316,OSI11188,Ameen Hamdon,43278885,48-272-755,hamdon@subnet.com,T2G4B3,4639 Manhattan Road SEnan,Calgary,Alberta,Canada,SUBNET Solutions Inc.,President,214-3-26T11:8:,Interfaces (OSIsoft)
+317,OSI11566,David Lee,,,dlee@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,,214-3-25T11:57:45,Interfaces (OSIsoft)
+318,OSI114,Tony Fenn,617324781,617324781,antony.fenn@makehistori.com,2155,126 Sagamore Avenan,Medford,MA,United States,MakeHistori LLC,Owner,214-3-26T13:54:25,Interfaces (OSIsoft)
+319,OSI1133,Curtis Chapin,517788814,5172624117,wcchapin@cmsenergy.com,4922,1945 W Parnall RdP1-213,Jackson,MI,United States,Consumers Energy,SCADA Analyst,214-3-26T13:13:57,Interfaces (OSIsoft)
+320,OSI1196,Ken Shelton,+1 (78) 423-93,,ken.shelton@industrialevolution.com,AB T5J 1V9,"18 Jasper Ave, Suite #111nan",Edmonton,AB,Canada,Industrial Evolution,Manager,214-3-26T1:28:36,Interfaces (OSIsoft)
+321,OSI188,Tom Nobis,713-656-8547,,tom.j.nobis@exxonmobil.com,772,P.O. Box 9#219E,Houston,TX,United States,ExxonMobil,Application Engineer,214-3-26T8:31:17,Interfaces (OSIsoft)
+322,OSI188,Tom Nobis,713-656-8547,,tom.j.nobis@exxonmobil.com,772,P.O. Box 9#219E,Houston,TX,United States,ExxonMobil,Application Engineer,214-3-26T12:1:53,Interfaces (OSIsoft)
+323,OSI1164,Bill Maulsby,97-292-2881,97-214-2893,bill.maulsby@woodgroup.com,8538,591 West 66th Stnan,Loveland,CO,United States,Wood Group,Sr. Infrastructure Engineer,214-3-26T11:5:19,Interfaces (OSIsoft)
+324,OSI1628,Alex Donchev,63-691-4738,,alexander.donchev@comed.com,6148-1452,alexander.donchev@comed.comnan,Lombard,IL,United States,ComEd,Sr IT Analyst,214-3-26T1:53:21,Interfaces (OSIsoft)
+325,OSI1363,Christian Cuevas,78776637,,ccuevas@its.jnj.com,674,PO Box 463nan,Manati,PR,United States,Johnson & Johnson,IT/Automation Manager,214-3-25T15:56:35,Interfaces (OSIsoft)
+326,OSI11125,Edmund Campion,942232289,9425797,edmund.campion@aprenergy.com,32224,3814 Biggin Church Rd. W.nan,Jacksonville,Fl,United States,APR Energy,Director R&D,214-3-25T17:19:,Interfaces (OSIsoft)
+327,OSI1367,André Trudel,819-676-81,819-676-6812,atrudel@rocktenn.com,G9x 3P8,"1, chemin de l'usinenan",La Tuque,Québec,Canada,Rocktenn,Process control engineer,214-3-26T11:8:33,Interfaces (OSIsoft)
+328,OSI1761,Marvin Wong,437714861,,mwong@secure-energy.ca,T2P 2V7,"36, 25 5th Ave SWnan",Calgary,AB,Canada,Secure Energy Services,Operations Analyst Engineer,214-3-25T17:24:21,Interfaces (OSIsoft)
+329,OSI1662,David Rodriguez,787-733-1,787-49-5174,drodrig8@its.jnj.com,771,183 Road Km. 19.8Bo. Montones,Las Piedras,Puerto Rico,Puerto Rico,Johnson & Johnson,IT Lead,214-3-25T15:56:25,Interfaces (OSIsoft)
+330,OSI1394,Tom Luo,43-296-5728,43-815-341,tluo@suncor.com,T2P3E3,15-6th AVE SWnan,Calgary,AB,Canada,Suncor Energy,Lead Historians and Database,214-3-26T1:34:21,Interfaces (OSIsoft)
+331,OSI1644,Tom Albrecht,48-34-4681,,talbrecht@calera.com,9532,1 Albright WaySuite A,Los Gatos,CA,United States,Calera Corporation,Scientist,214-3-25T16:53:14,Interfaces (OSIsoft)
+332,OSI1181,Mickie Hodges,84-444-752,434-264-414,mickie.hodges@mwv.com,23219,51 South 5th Streetnan,Richmond,Virginia,United States,MeadWestvaco,COE Manufacturing Solutions,214-3-25T16:39:6,Interfaces (OSIsoft)
+333,OSI1813,Bob Maleckar,843-398-335,843-229-3531,Bob.Maleckar@gapac.com,29532,126 A Avenuenan,Darlington,SC,United States,Georgia-Pacific,Senior Technical Analyst,214-3-26T1:55:7,Interfaces (OSIsoft)
+334,OSI1879,Bryan Couch,843-662313,,bryanc8@comcast.net,2951,732 mill rdnan,florence,sc,United States,RockTenn,Process Control Engineer,214-3-26T8:48:54,Interfaces (OSIsoft)
+335,OSI187,Billy Pellum,832-854-6188,,bpellum@chevron.com,7793,15 Louisiananan,Houston,Texas,United States,Chevron,M,214-3-25T16:18:51,Interfaces (OSIsoft)
+336,OSI11723,Landry Khounlavong,,,lkhounlavong@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,Technical Support Engineer,214-3-25T12:1:27,Interfaces (OSIsoft)
+337,OSI1767,Sergey Chernov,2196475375,,schernov@nisource.com,4641,81 E 86 Avenan,Merrillville,IN,United States,NiSource,"Director, Enterprise Architecture",214-3-26T11:14:42,Interfaces (OSIsoft)
+338,OSI11434,Rob Reeves,,,rreeves@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,,214-3-26T9:45:6,Interfaces (OSIsoft)
+339,OSI1427,Brian Heritage,43-651-7311,43-651-7311,Brian.Heritage@streamlinecontrol.com,T2J 4S3,216 Queen Anne Place SEnan,Calgary,Alberta,Canada,Streamline Control Solutions,Senior Consultant,214-3-25T15:15:3,Interfaces (OSIsoft)
+340,OSI142,Francois Ruel,713-372-544,832-763-8266,fruel@chevron.com,772,14 Smith avenan,Houston,Texas,United States,Chevron,Control System Engineer,214-3-25T16:41:53,Interfaces (OSIsoft)
+341,OSI142,Francois Ruel,713-372-544,832-763-8266,fruel@chevron.com,772,14 Smith avenan,Houston,Texas,United States,Chevron,Control System Engineer,214-3-25T16:41:55,Interfaces (OSIsoft)
+342,OSI142,Francois Ruel,713-372-544,832-763-8266,fruel@chevron.com,772,14 Smith avenan,Houston,Texas,United States,Chevron,Control System Engineer,214-3-26T9:22:33,Interfaces (OSIsoft)
+343,OSI11438,Enrico (Rico) Paolino,,215 639363,epaolino@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,Development Lead,214-3-25T12:23:5,Interfaces (OSIsoft)
+344,OSI1437,Mark Hogan,44 1446 723278,,mark.hogan@dowcorning.com,CF63 2YL,Dow Corning LtdCardiff Road,Barry,Wales,United Kingdom,Dow Corning Corporation,Manufacturing Automation Engineer,214-3-26T11:13:59,Interfaces (OSIsoft)
+345,OSI1213,Chris Dumas,+1 (832) 76-3788,,chris.dumas@industrialevolution.com,7746,"11 Greenway Plaza, Suite #11nan",Houston,TX,United States,Industrial Evolution,Manager,214-3-26T1:5:33,Interfaces (OSIsoft)
+346,OSI1668,Juan Vicens,787-385-5178,,juan.vicens@principiapr.com,693,Tártago # 379Estancias de Tortuguero,Vega Baja,Puerto Rico,Puerto Rico,"PRINCIPIA, INC.",President,214-3-25T15:56:28,Interfaces (OSIsoft)
+347,OSI1531,Wesley Smith,55-598-7676,51-449-9321,wesley.smith@pnm.com,87421,CR 68 NorthPNM,Waterflow,New Mexico,United States,Public Service Company of New Mexico,Controls Technician,214-3-25T15:54:22,Interfaces (OSIsoft)
+348,OSI151,Mary Bellinger,336-941-3218,713-443-8538,mnbellinger@sinclairoil.com,276,119 Sycamore Commons Lanenan,Bermuda Run,NC,United States,Sinclair Oil,Project Systems Analyst,214-3-25T13:54:15,Interfaces (OSIsoft)
+349,OSI126,Mark Mays,343573282,,mmays@nisource.com,25314,17 MacCorkle Ave SEnan,Charleston,WV,United States,Columbia Pipeline Group,Sr Engineer,214-3-25T17:5:47,Interfaces (OSIsoft)
+350,OSI159,Tripti Somani,78-792-389,78-799-3832,tsomani@suncor.com,T9H A8,"885 Memorial Drive, PO Box 415nan",Fort McMurray,AB,Canada,Suncor Energy,Apps & Infratstructure Manager,214-3-26T1:34:23,Interfaces (OSIsoft)
+351,OSI1169,Aimin Wang,925-415-6354,,a1wc@pge.com,94588,341 Crow Canyon Rdnan,San Ramon,CA,United States,Pacific Gas and Electric Company,Sr. Programmer,214-3-26T14::5,Interfaces (OSIsoft)
+352,OSI1518,Rob Gamber,33417183,,rgamber@amgen.com,854,4 Nelson Rd.nan,Longmont,CO,United States,Amgen Inc.,Principal Engineer,214-3-25T14:25:6,Interfaces (OSIsoft)
+353,OSI143,Bruce Gordon,86-275-567,86-64-4624,gordobw@cpchem.com,797-968,Box 968 Philtex/Ryton PlantPrairie Street,Borger,Texas,United States,Chevron/Phillips Chemical Company LLP,Senior Process Control Specialist,214-3-26T1:41:5,Interfaces (OSIsoft)
+354,OSI1595,Anh Hoang,281-719-9312,,anh.hoang@champ-tech.com,77545,313 FM 521nan,Fresno,Texas,United States,NALCO Champion,Process Control Engineer,214-3-25T14:35:22,Interfaces (OSIsoft)
+355,OSI1726,Jack Rao,661632148,7325138482,j.rao@chevron.com,9339,381 Ashe RdApt 63,Bakersfield,CA,United States,AvalonDev,Sr. Database Analyst,214-3-26T14:12:1,Interfaces (OSIsoft)
+356,OSI1565,Bryan Sower,52-732-2543,52-682-87,Bryan.Sower@DowCorning.Com,418,477 US Hwy 42Enan,Carrollton,KY,United States,Dow Corning Corporation,Manufacturing Automation Consultant,214-3-26T11:13:56,Interfaces (OSIsoft)
+357,OSI1619,Bob McIntyre,36-933-8556,36-23-777,bob.mcintyre@potashcorp.com,S7K7G,Suite 5122-1st Ave S,Saskatoon,Sask,Canada,PotashCorp,Sr Process Control Engineer,214-3-26T8:58:46,Interfaces (OSIsoft)
+358,OSI183,Tao Xia,(84)257-4851,,Tao.Xia@dom.com,2322,24 Grayland Avenuenan,Richmond,VA,United States,Dominion Virginia Power,Engineer,214-3-26T12:35:17,Interfaces (OSIsoft)
+359,OSI1631,James Li,614624316,614535537,Kuochu.Li@abbott.com,43215,625 Cleveland Ave.nan,Columbus,OH,United States,Abbott Laboratories,Principle Engineer,214-3-26T14:25:12,Interfaces (OSIsoft)
+360,OSI1836,Jon Abbott,842574925,,jona63@dom.com,2322,24 grayland avenan,Richmond,va,United States,Dominion Virginia Power,Systems Analyst Specialist,214-3-25T15:21:54,Interfaces (OSIsoft)
+361,OSI1945,Brandon Curless,86-64-638,,brandon.a.curless@xcelenergy.com,7919,686 SW 48thnan,Amarillo,TX,United States,XCEL Energy,Programmer II,214-3-26T11:26:18,Interfaces (OSIsoft)
+362,OSI1187,Marco Ascazubi,34762111,,mascazubi@gmail.com,11385,831 Cypress Ave.nan,Ridgewood,NY,United States,CUNY Building Performance Lab,Technical Project Lead,214-3-25T17:51:6,Interfaces (OSIsoft)
+363,OSI1875,George Paterson,319-335-5139,319-33-4578,george-r-paterson@uiowa.edu,52242,1 W. Prentiss St.nan,Iowa City,IA,United States,University of Iowa,Senior Utility Systems Specialist,214-3-26T12:17:47,Interfaces (OSIsoft)
+364,OSI172,Marion Hernandez,719-668-8979,,rkurkowski@csu.org,8817,6598 Ray Nixon Rd nan,Fountain,CO,United States,Colorado Springs Utilities,Project Manager,214-3-26T1:31:56,Interfaces (OSIsoft)
+365,OSI1349,Jenny Moceri,414-248-1114,,jmmoceri@ra.rockwell.com,53235,121 S. Second St.nan,Saint Francis,WI,United States,Rockwell Automation,Commercial Engineer,214-3-26T8:36:46,Interfaces (OSIsoft)
+366,OSI1954,Tony Anderson,(832)357-3267,(713)858-9295,Tony.Anderson@nrgenergy.com,772,1 Main St.23G,Houston,TX,United States,NRG Energy,Systems Analyst III,214-3-25T16:18:57,Interfaces (OSIsoft)
+367,OSI1721,Steve Savoie,92 438-2736,92 265-93,steve.savoie@gapac.com,5434,1919 N Broadwaynan,Green Bay,WI,United States,Georgia-Pacific,Manufacturing Systems Analyst,214-3-25T17:41:2,Interfaces (OSIsoft)
+368,OSI1819,Frank Seguin,75-267-8777,75-266-4221,frank.seguin@glencore-ca.com,P4N 7K1,"P.O. Bag 22, Stn Mainnan",Timmins,Ontario,Canada,Glencore Canada,IT Superintendent,214-3-25T14:34:13,Managed PI
+369,OSI192,Bertrand Lasternas,41292594,,Blastern@andrew.cmu.edu,15232,58 Walnut Streetnan,Pittsburgh,PA,United States,Carnegie Mellon University,Researcher,214-3-26T12:47:24,Managed PI
+370,OSI154,Salla Diop,215652149,,salla_diop@merck.com,19454,131 CHURCH ROAD Apt 1-Anan,NORTH WALES,PA,United States,Merck,Project Manager,214-3-25T14:22:18,Managed PI
+371,OSI11119,Charlie Mogannam,(916) 351-2139,(916) 673-761,cmogannam@caiso.com,9563,25 Outcropping Waynan,Folsom,CA,United States,CAISO,Lead EMS Power Technology Engineer,214-3-25T16:33:6,Managed PI
+372,OSI133,Murat Uludogan,97 776 5578,81 664 141,muludogan@peakrc.com,8538,458 Hanhs Peak Drivenan,Loveland,CO,United States,Peak Realiability,Supervisor Applications Support,214-3-26T11:48:46,Managed PI
+373,OSI1493,Brenhan Holm,662 44 6654,91 359 2556,bholm@flowserve.com,38671,7796 Stacey drive nan,Southaven,MS,United States,Flowserve,System Analyst,214-3-25T17:29:31,Managed PI
+374,OSI14,Rich Colvin,312-246-3445,312-246-3445,richard.colvin@abbott.com,4314,855 Stonechat Loopnan,Dublin,OH,United States,Abbott Laboratories,"Region IT Mgr, Asia",214-3-25T14:58:28,Managed PI
+375,OSI1613,John Hume,27-897-152,27-357-146,john.hume@versopaper.com,4239,P.O. Box 2nan,Jay,Me,United States,Verso Paper Corporation,Sr PI System Manager,214-3-26T13:35:6,Managed PI
+376,OSI1249,Jason Cox,312582126,,jcox@invenergyllc.com,6148,192 Springer Drivenan,Lombard,Illinois,United States,Invenergy LLC,SCADA Administrator,214-3-26T9:18:37,Managed PI
+377,OSI1194,Amrish Macedo,4842419356,4842419356,amacedo@echomesh.com,19312,791 Old State Roadnan,Berwyn,PA,United States,echoMESH,CTO,214-3-26T12:18:34,Managed PI
+378,OSI1367,André Trudel,819-676-81,819-676-6812,atrudel@rocktenn.com,G9x 3P8,"1, chemin de l'usinenan",La Tuque,Québec,Canada,Rocktenn,Process control engineer,214-3-25T17:59:12,Managed PI
+379,OSI1258,Steve Tran,367993,367993,nataliya.dvorak@meragroup.net,S4S7J7,195-1 Research Drivenan,Regina ,Saskatchewan,Canada,Mera,Senior Project Engineer,214-3-26T11:23:31,Managed PI
+380,OSI1761,Marvin Wong,437714861,,mwong@secure-energy.ca,T2P 2V7,"36, 25 5th Ave SWnan",Calgary,AB,Canada,Secure Energy Services,Operations Analyst Engineer,214-3-26T1:5:3,Managed PI
+381,OSI132,Mark Bowles,977765753,,MBOWLES@PEAKRC.COM,8538,"485 Hahns Peak Drive, Suite 12nan",Loveland,CO,United States,Peak Realiability,Sr. Applications Analyst,214-3-26T11:48:42,Managed PI
+382,OSI11443,Tim English,,,tenglish@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,,214-3-25T8:6:31,Managed PI
+383,OSI15,Scott Larson,63-824-1721,63-432-3119,sdlarson@suncoke.com,6532,111 Wrrenville RdSuite 6,Lisle,IL,United States,SunCoke Energy,IT Systems Analyst,214-3-25T16:19:11,Managed PI
+384,OSI1394,Tom Luo,43-296-5728,43-815-341,tluo@suncor.com,T2P3E3,15-6th AVE SWnan,Calgary,AB,Canada,Suncor Energy,Lead Historians and Database,214-3-25T17:23:26,Managed PI
+385,OSI132,Christine Maul,1 281 383 6932,1 713 2946297,christine.maul@bayer.com,77523,85 West Bay Rdnan,Baytown,Texas,United States,Bayer MaterialScience,Head of Process Automation,214-3-25T13:22:53,Managed PI
+386,OSI116,David Soll,69-33-7147,69-33-7147,dsoll@omicron.com,855,16 Union Streetnan,Medford,NJ,United States,Omicron,CTO,214-3-26T14:24:55,Managed PI
+387,OSI11135,Vince Noyes,(916) 732 5233,(916) 212 591,vnoyes@smud.org,95819,61 S Streetnan,Sacramento,California,United States,SMUD,Principal Operations Management Specialist,214-3-26T14:2:48,Managed PI
+388,OSI174,Zach Birmingham,(619) 686-644,(619) 45-7836,zbirming@portofsandiego.org,9217,3165 Pacific Hwynan,San Diego ,CA,United States,Port of San diego,Staff Assistant II,214-3-26T12:29:54,Managed PI
+389,OSI184,Nick Merolli,(912) 238-6358,(912) 38-1947,nick.merolli@azchem.com,3142,P.O. Box 2668nan,Savannah,GA,United States,Arizona Chemical,Project Manager,214-3-26T13:48:28,Managed PI
+390,OSI1437,Mark Hogan,44 1446 723278,,mark.hogan@dowcorning.com,CF63 2YL,Dow Corning LtdCardiff Road,Barry,Wales,United Kingdom,Dow Corning Corporation,Manufacturing Automation Engineer,214-3-26T8:52:14,Managed PI
+391,OSI1213,Chris Dumas,+1 (832) 76-3788,,chris.dumas@industrialevolution.com,7746,"11 Greenway Plaza, Suite #11nan",Houston,TX,United States,Industrial Evolution,Manager,214-3-25T12:53:27,Managed PI
+392,OSI157,Reza Esteki,5717625372,73919325,Reza_Esteki@cargill.com,2164,14 Tamarack Ct.nan,Sterling,VA,United States,Cargill,Data Historian,214-3-26T14:24:53,Managed PI
+393,OSI11117,Jim Hiebert,(916) 68-1254,(916) 82-317,jhiebert@caiso.com,9563,25 Outcropping Waynan,Folsom,CA,United States,California ISO,Senior EMS Power Technology Engineer,214-3-26T14:19:55,Managed PI
+394,OSI11134,Eric Mscichowski,916-7326153,,eric.mscichowski@smud.org,95817,61 S Streetnan,Sacramento,CA,United States,SMUD,Principal EMS Engineer,214-3-26T14:2:56,Managed PI
+395,OSI1323,Randy Esposito,716-912-4862,,wresposito@nalco.com,77478,775 Highway 9-Anan,Sugar Land,Texas,United States,Nalco Champion,Sr. Industry Development Manager,214-3-26T12:44:34,Managed PI
+396,OSI135,Andrew Esselman,36-713-959,,aesselman@peakrc.com,98662,"76 NE 41st Ave, Suite 21nan",Vancouver,WA,United States,Peak Reliability,Application Support Analyst (PI),214-3-26T11:54:,Managed PI
+397,OSI1471,Mike Jackson,63 35 2137,63 8 6699,mkjackson@nalco.com,6526,1132 Alima Terracenan,LaGrange Park,IL,United States,Nalco Champion,Senior Engineering Specialist,214-3-26T13:9:25,Managed PI
+398,OSI1518,Rob Gamber,33417183,,rgamber@amgen.com,854,4 Nelson Rd.nan,Longmont,CO,United States,Amgen Inc.,Principal Engineer,214-3-25T14:22:12,Managed PI
+399,OSI1297,Niall Wilson,36-79-93,,niall.wilson@meragroup.net,S4S 7J7,195-1 Research Drivenan,Regina,Saskatchewan,Canada,Mera,Project Engineer,214-3-26T11:23:28,Managed PI
+400,OSI1726,Jack Rao,661632148,7325138482,j.rao@chevron.com,9339,381 Ashe RdApt 63,Bakersfield,CA,United States,AvalonDev,Sr. Database Analyst,214-3-26T13:35:9,Managed PI
+401,OSI1565,Bryan Sower,52-732-2543,52-682-87,Bryan.Sower@DowCorning.Com,418,477 US Hwy 42Enan,Carrollton,KY,United States,Dow Corning Corporation,Manufacturing Automation Consultant,214-3-26T8:52:17,Managed PI
+402,OSI149,Todd Chumley,51-614-3294,51-351-4983,tchumley@spp.org,72223,21 Worthen Drivenan,Little Rock,Arkansas,United States,"Southwest Power Pool, Inc.",Programmer/Analyst,214-3-25T13:44:37,Managed PI
+403,OSI175,Brad Van Spanje,29-748-5176,5339191,brad.vanspanje@woodgroup.com,95638,po box 49nan,Herald,CA,United States,Wood Group,Plant Engineer,214-3-25T17:2:59,Managed PI
+404,OSI1949,Hervé Delesalle,+33 559 83 68 51,+66 646 44 3 81,herve.delesalle@total.com,6418,Avenue Larribaunan,PAU,Aquitaine,France,TOTAL,IS Architect,214-3-25T15:53:12,Managed PI
+405,OSI1836,Jon Abbott,842574925,,jona63@dom.com,2322,24 grayland avenan,Richmond,va,United States,Dominion Virginia Power,Systems Analyst Specialist,214-3-26T8:57:27,Managed PI
+406,OSI1796,Dave Imming,5128347198,5127997198,dave.imming@emerson.com,78681,"11 W. Louis Henna Blvd., Bldg. 1nan",Round Rock,Texas,United States,Emerson Process Management,Vice President - Product and Services Marketing,214-3-26T1:44:16,Managed PI
+407,OSI1168,Michael Watzke,+49 (89) 636-5457, +49 (173) 7473251 ,michael.watzke@siemens.com,81739,CT RTC BAM KMR-DEOtto-Hahn-Ring 6,Munich,Bavaria,Germany,Siemens,Research & development engineer,214-3-25T17:29:45,Managed PI
+408,OSI11747,Reyad Hantash,916-3-993,,rabouhantash@caiso.com,9563,25 Outcropping Waynan,Folsom,CA,United States,California ISO,EMS Engineer,214-3-25T16:33:9,Managed PI
+409,OSI11761,Gary Grimes,562-531-26,949-93-4112,ggrimes@ppcla.com,9723,147 Downey Avenan,Paramount,CA,United States,Paramount Petroleum,Director of Technology,214-3-26T13:13:42,Managed PI
+410,OSI1122,Vincent Devine,97-266-8551,,jvdevine@process-innovations.net,8526,2519 S Shields St #166nan,Fort Collins,CO,United States,Process Plugins Inc,Application Engineer,214-3-26T11:27:2,Odata & SQL (OSIsoft)
+411,OSI1122,Vincent Devine,97-266-8551,,jvdevine@process-innovations.net,8526,2519 S Shields St #166nan,Fort Collins,CO,United States,Process Plugins Inc,Application Engineer,214-3-26T11:27:23,Odata & SQL (OSIsoft)
+412,OSI133,Murat Uludogan,97 776 5578,81 664 141,muludogan@peakrc.com,8538,458 Hanhs Peak Drivenan,Loveland,CO,United States,Peak Realiability,Supervisor Applications Support,214-3-26T11:39:18,Odata & SQL (OSIsoft)
+413,OSI1639,Mark Pelosi,7329838351,,mark.pelosi@essentialpowerllc.com,854,15 College Rd WestSuite 3,Princeton,NJ,United States,"Essential Power, LLC","Manager, Reliability Engineering",214-3-26T8:47:49,Odata & SQL (OSIsoft)
+414,OSI191,Lorraine Mathis,58-688-351,,lorraine.mathis@abbvie.com,165,1 Research Drnan,Worcester,Massachusetts,United States,AbbVie,Process Control Engineer,214-3-26T8:57:49,Odata & SQL (OSIsoft)
+415,OSI1493,Brenhan Holm,662 44 6654,91 359 2556,bholm@flowserve.com,38671,7796 Stacey drive nan,Southaven,MS,United States,Flowserve,System Analyst,214-3-25T17:34:59,Odata & SQL (OSIsoft)
+416,OSI1586,Chuck Alonge,518-356-6248,,calonge@nyiso.com,12144,1 Krey Boulevardnan,Rensselaer,NY,United States,NYISO,Senior Software Developer,214-3-26T14:11:3,Odata & SQL (OSIsoft)
+417,OSI1724,Stephane Paquin,45-78-44,,stephane.paquin@riotinto.com,J3R 1M6,1625 Marie-Victorinnan,Sorel-Tracy,Quebec,Canada,Rio Tinto Fer et Titane,Industrial IT Manager,214-3-26T1:58:6,Odata & SQL (OSIsoft)
+418,OSI1773,Daqing Hou,315-2687675,,dhou@clarkson.edu,13699,8 Clarkson Avenan,Potsdam,NY,United States,Clarkson University,Professor,214-3-26T13:41:24,Odata & SQL (OSIsoft)
+419,OSI1515,Jeff Edwards,817-785-89,,jeff.edwards@triencon.com,755,1 Post and PaddockSte 2,Grand Prairie,TX,United States,TSI Group/Triencon Services,Director,214-3-25T15:22:54,Odata & SQL (OSIsoft)
+420,OSI1369,Bob Grinde,612254249,612829424,bgrinde@bssinc.us,7594-435,12 East FM 544 Ste 72PMB 212,Murphy,TX,United States,Blu-Sphere Systems Inc.,Solutions Architect,214-3-26T12:24:24,Odata & SQL (OSIsoft)
+421,OSI1682,Paul Yaroshak,829-345-9572,829-345-9572,pyaroshak@barrick.com,,"Novo - Centro, Piso 16, Avenida Lope de Vega No. 29. Ensanche Naco",Santo Domingo,Santo Domingo,Dominican Republic,Barrick Gold Corporation,Senior Process Systems Engineer,214-3-26T11:58:44,Odata & SQL (OSIsoft)
+422,OSI11111,Guilherme Ferreira,5531355554,553184894553,guilherme.ferreira@tsaengeneharia.com.br,32158,"4324, Barão Homem de Melo AvenueEstoril",Belo Horizonte,Minas GErais,Brazil,TSA,Automation Engineer,214-3-26T11:2:13,Odata & SQL (OSIsoft)
+423,OSI1571,Linda Stevens,324544554,,Linda.Stevens@pepcoholdings.com,19714-9239,P.O Box 9239nan,Newark,De,United States,"Pepco Holdings, Inc","Supervisor, Control System Software",214-3-26T12:43:49,Odata & SQL (OSIsoft)
+424,OSI1839,Parag Paleja,281-788-967,,parag.paleja@bp.com,7779,14781 Memorial Dr.nan,Houston,TX,United States,BP Wind Energy,Project Manager,214-3-26T11:8:14,Odata & SQL (OSIsoft)
+425,OSI1328,David Barker,+64 9 282 4231,+64 21 522 591,david@dimensionsoftware.co.nz,1542,PO Box 1159Ellerslie,Auckland,Auckland,New Zealand,Dimension Software,Managing Director,214-3-25T18:6:44,Odata & SQL (OSIsoft)
+426,OSI132,Mark Bowles,977765753,,MBOWLES@PEAKRC.COM,8538,"485 Hahns Peak Drive, Suite 12nan",Loveland,CO,United States,Peak Realiability,Sr. Applications Analyst,214-3-26T11:33:28,Odata & SQL (OSIsoft)
+427,OSI1394,Tom Luo,43-296-5728,43-815-341,tluo@suncor.com,T2P3E3,15-6th AVE SWnan,Calgary,AB,Canada,Suncor Energy,Lead Historians and Database,214-3-25T14:8:18,Odata & SQL (OSIsoft)
+428,OSI11476,Michael Hesselbach,,,michaelh@osisoft.com,6486,nannan,Frankfurt,,Germany,OSIsoft,Senior Software Developer,214-3-25T12:3:56,Odata & SQL (OSIsoft)
+429,OSI11,Randy Silverman,48-352-4279,,randy.silverman@am.sony.com,95136,173 N First Stnan,San Jose,CA,United States,Sony Electronics,Soluions Integration Manage,214-3-25T13:5:36,Odata & SQL (OSIsoft)
+430,OSI174,Zach Birmingham,(619) 686-644,(619) 45-7836,zbirming@portofsandiego.org,9217,3165 Pacific Hwynan,San Diego ,CA,United States,Port of San diego,Staff Assistant II,214-3-26T14:23:38,Odata & SQL (OSIsoft)
+431,OSI158,Jason Guu,818 574562,,guuj@baxter.com,91745,16454 Gregorio Drnan,Hacienda Heights,ca,United States,Baxter Healthcare,Tech Consultant,214-3-25T17:17:5,Odata & SQL (OSIsoft)
+432,OSI1994,Patrick Moore,2678276,26476535,patrick@integralgis.com,9811,"189 7th Ave., Suite 16nan",Seattle,WA,United States,"Integral GIS, Inc.",President,214-3-26T12:59:6,Odata & SQL (OSIsoft)
+433,OSI173,Robert Fallejo,925-422-9164,,fallejo2@llnl.gov,9455,7 East AveL-478,Livermore,CA,United States,Lawrence Livermore National Lab,Software Developer,214-3-26T13:21:35,Odata & SQL (OSIsoft)
+434,OSI1165,Jeff McMahon,51988811,51988811,jeff.mcmahon@patterndiscovery.com,N2L 5Z4,554 Parkside Dr - Pattern Discoverynan,Waterloo,ON,Canada,Pattern Discovery Technologies,"Director, R&D",214-3-26T8:16:38,Odata & SQL (OSIsoft)
+435,OSI155,Richard Tremblay,5148762855,514 833 863,richard.tremblay@keops.com,H3B 3A7,1155 University Suite 11nan,Montreal,quebec,Canada,Keops Technologies,Director,214-3-25T16:52:19,Odata & SQL (OSIsoft)
+436,OSI155,Richard Tremblay,5148762855,514 833 863,richard.tremblay@keops.com,H3B 3A7,1155 University Suite 11nan,Montreal,quebec,Canada,Keops Technologies,Director,214-3-26T13:31:31,Odata & SQL (OSIsoft)
+437,OSI165,Steve Spurlock,728767394,,steve.spurlock@swgas.com,8915,5241 Spring Mountain Rdnan,Las Vegas,NV,United States,Southwest Gas,SCADA Administrator,214-3-25T15:2:7,Odata & SQL (OSIsoft)
+438,OSI1722,Kelly Janssen,(92) 438-256,(92) 544-625,michael.janssen@gapac.com,5434-1919,1919 S Broadway Stnan,Green Bay,WI,United States,Georgia-Pacific,Lead Analyst,214-3-26T1:54:1,Odata & SQL (OSIsoft)
+439,OSI1323,Randy Esposito,716-912-4862,,wresposito@nalco.com,77478,775 Highway 9-Anan,Sugar Land,Texas,United States,Nalco Champion,Sr. Industry Development Manager,214-3-26T14:11:57,Odata & SQL (OSIsoft)
+440,OSI11389,Oleksandr Popivshchyi,,,opopivshchyi@osisoft.com,,nannan,Frydek-Mistek,,Czech Republic,OSIsoft,,214-3-25T12:4:3,Odata & SQL (OSIsoft)
+441,OSI1169,Aimin Wang,925-415-6354,,a1wc@pge.com,94588,341 Crow Canyon Rdnan,San Ramon,CA,United States,Pacific Gas and Electric Company,Sr. Programmer,214-3-26T11:15:2,Odata & SQL (OSIsoft)
+442,OSI1216,Bryan Kilian,513-248-624,513-519-973,Bryan.Kilian@ipaper.com,4514,6287 Tri-Ridge Blvdnan,Loveland,OH,United States,International Paper,MEAS Team Lead,214-3-26T8:26:2,Odata & SQL (OSIsoft)
+443,OSI1545,Alain Lecours,5148762855,,alain.lecours@keops.com,H3B3A7,"1155 University, suite 11nan",Montréal,Québec,Canada,Keops Technologies,Project Lead,214-3-26T13:31:29,Odata & SQL (OSIsoft)
+444,OSI179,Rick Howell,45-228-37,,rick.howell@dvn.com,7312,333 West Sheridan Avenan,Oklahoma City,OK,United States,Devon Energy,Automation Data Coordinator,214-3-25T17:29:8,Odata & SQL (OSIsoft)
+445,OSI179,Rick Howell,45-228-37,,rick.howell@dvn.com,7312,333 West Sheridan Avenan,Oklahoma City,OK,United States,Devon Energy,Automation Data Coordinator,214-3-25T17:29:1,Odata & SQL (OSIsoft)
+446,OSI1588,Uzma Taj,551-265-214,,Uzma.Taj@exeloncorp.com,855,5 Orly Ctnan,West Windsor,NJ,United States,ComEd,Engineer,214-3-26T13:53:1,Odata & SQL (OSIsoft)
+447,OSI1434,Brandon Pham,51284648,48429652,brandon.pham@boehringer-ingelheim.com,94555,671 Kaiser Drivenan,Fremont,CA,United States,Boehringer Ingelheim,Senior Business Analyst,214-3-26T14:5:56,Odata & SQL (OSIsoft)
+448,OSI1631,James Li,614624316,614535537,Kuochu.Li@abbott.com,43215,625 Cleveland Ave.nan,Columbus,OH,United States,Abbott Laboratories,Principle Engineer,214-3-26T13:58:2,Odata & SQL (OSIsoft)
+449,OSI1836,Jon Abbott,842574925,,jona63@dom.com,2322,24 grayland avenan,Richmond,va,United States,Dominion Virginia Power,Systems Analyst Specialist,214-3-26T8:41:11,Odata & SQL (OSIsoft)
+450,OSI1187,Marco Ascazubi,34762111,,mascazubi@gmail.com,11385,831 Cypress Ave.nan,Ridgewood,NY,United States,CUNY Building Performance Lab,Technical Project Lead,214-3-25T17:26:42,Odata & SQL (OSIsoft)
+451,OSI1433,Jack Chan,51-284-6129,,jack.chan@boehringer-ingelheim.com,94555,671 Kaiser Drivenan,Fremont,CA,United States,Boehringer Ingelheim,Business Analyst,214-3-26T14:17:27,Odata & SQL (OSIsoft)
+452,OSI154,Li Luo,324544392,,li.luo@pepcoholdings.com,19714,PO Box 923979NC35,Newark,DE,United States,"Pepco Holdings, Inc",Sr. Systems Architect,214-3-26T11:33:25,Odata & SQL (OSIsoft)
+453,OSI154,Li Luo,324544392,,li.luo@pepcoholdings.com,19714,PO Box 923979NC35,Newark,DE,United States,"Pepco Holdings, Inc",Sr. Systems Architect,214-3-26T12:43:51,Odata & SQL (OSIsoft)
+454,OSI132,Dave Hopkins,58272232,,dave.hopkins@genzyme.com,242,25 Fuller Rd.nan,Lexington,MA,United States,Genzyme,Principal Engineer,214-3-26T8:42:22,Odata & SQL (OSIsoft)
+455,OSI167,Tom Pardue,423-229-2938,423-3841896,tpardue@eastman.com,3766,B-2841 Eastman Road,Kingsport ,Tennessee ,United States,Eastman Chemical Company,Systems Analyst,214-3-25T16:1:55,Odata & SQL (OSIsoft)
+456,OSI1646,Eric Wiseman,98 373 3613,98 722 575,eric.wiseman@duke-energy.com,28285,4 S. TryonMC ST 1134,Charlotte,NC,United States,Duke Energy,Lead IT Applications Analyst,214-3-25T16:1:14,Odata & SQL (OSIsoft)
+457,OSI158,Philipp Sutter,+41 61 271 8283,,philipp.sutter@octavesoft.ch,452,Malzgasse 15nan,Basel,BS,Switzerland,OctaveSoft GmbH,Owner,214-3-25T17:11:51,Odata & SQL (OSIsoft)
+458,OSI11761,Gary Grimes,562-531-26,949-93-4112,ggrimes@ppcla.com,9723,147 Downey Avenan,Paramount,CA,United States,Paramount Petroleum,Director of Technology,214-3-26T13:58:27,Odata & SQL (OSIsoft)
+459,OSI1744,James Simonetti,31484269,,jsimonetti@pepco.com,2817,1611 Westlake Drivenan,Bethesda,Md,United States,"Pepco Holdings, Inc",Systems Architect,214-3-25T16:26:,Online Services (OSIsoft)
+460,OSI1163,Mark Warren,9185736476,,mark.p.warren@williams.com,74172,One Williams CenterWRC2,Tulsa,OK,United States,Williams,Engineer,214-3-25T16:56:1,Online Services (OSIsoft)
+461,OSI1271,Patrick Harding,563-459-121,563-676-8925,patrick.harding@alcoa.com,52722,4879 State Streetnan,Bettendorf,Iowa,United States,Alcoa,Data Integration Project Leader,214-3-26T12:13:12,Online Services (OSIsoft)
+462,OSI11638,Avi Singh,,314637632,asingh@osisoft.com,94577,nannan,San Leandro,,United States,OSIsoft,Interaction Designer,214-3-25T14:1:5,Online Services (OSIsoft)
+463,OSI1743,Sumanth Makunur,313 235 8713,,makunurs@dteenergy.com,48226,1 Energy Plazanan,Detroit,MI,United States,DTE Energy,Supervisor Engineering,214-3-26T12:41:28,Online Services (OSIsoft)
+464,OSI11599,Christine Siska,,(775) 762-6354,csiska@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,,214-3-25T11:45:4,Online Services (OSIsoft)
+465,OSI1151,Roland Wedgwood,,61551523,rwedgwood@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,,214-3-26T7:31:24,Online Services (OSIsoft)
+466,OSI1151,Roland Wedgwood,,61551523,rwedgwood@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,,214-3-26T8:52:55,Online Services (OSIsoft)
+467,OSI1151,Roland Wedgwood,,61551523,rwedgwood@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,,214-3-26T1:26:34,Online Services (OSIsoft)
+468,OSI158,Jason Guu,818 574562,,guuj@baxter.com,91745,16454 Gregorio Drnan,Hacienda Heights,ca,United States,Baxter Healthcare,Tech Consultant,214-3-25T17:4:3,Online Services (OSIsoft)
+469,OSI11433,Xiaomin Wei,,4125763276,xwei@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,,214-3-25T13:52:58,Online Services (OSIsoft)
+470,OSI143,Bruce Gordon,86-275-567,86-64-4624,gordobw@cpchem.com,797-968,Box 968 Philtex/Ryton PlantPrairie Street,Borger,Texas,United States,Chevron/Phillips Chemical Company LLP,Senior Process Control Specialist,214-3-25T17:32:39,Online Services (OSIsoft)
+471,OSI11585,Si Youn Cho,,48-348-2921,scho@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,,214-3-26T11:48:8,Online Services (OSIsoft)
+472,OSI175,Brad Van Spanje,29-748-5176,5339191,brad.vanspanje@woodgroup.com,95638,po box 49nan,Herald,CA,United States,Wood Group,Plant Engineer,214-3-25T16:46:29,Online Services (OSIsoft)
+473,OSI1836,Jon Abbott,842574925,,jona63@dom.com,2322,24 grayland avenan,Richmond,va,United States,Dominion Virginia Power,Systems Analyst Specialist,214-3-26T8:42:57,Online Services (OSIsoft)
+474,OSI1671,Seth Whitworth,86-257-718,86-523-8529,seth.whitworth@xcelenergy.com,7931,97 CR 65nan,Earth,TX,United States,Xcel Energy,Senior Engineer,214-3-25T15:53:2,Online Services (OSIsoft)
+475,OSI154,Li Luo,324544392,,li.luo@pepcoholdings.com,19714,PO Box 923979NC35,Newark,DE,United States,"Pepco Holdings, Inc",Sr. Systems Architect,214-3-26T11:42:5,Online Services (OSIsoft)
+476,OSI1181,Roy Li,925-229-7311,,rli@centralsan.org,94553,519 Imhoff Placenan,Martinez,CA,United States,Central Contra Costa Sanitary District,Information Technology Administrator,214-3-25T15:47:35,Online Services (OSIsoft)
+477,OSI1132,Kevin Douglas,616-617-228,,kevin.douglas.jr@amway.com,984,3785 E. 11th St. Apt. 23nan,Long Beach,CA,United States,Amway,Supply Chain Process Improv. Spec.,214-3-26T8:58:44,OSI soft Event Frames
+478,OSI1115,Barry Abella,415 25 6854,,babella@bmrn.com,94545,2485 Cobblestone Drivenan,Hayward,CA,United States,BioMarin Pharmaceutical,"Manager, Manufacturing Applications",214-3-25T16:12:5,OSI soft Event Frames
+479,OSI154,Salla Diop,215652149,,salla_diop@merck.com,19454,131 CHURCH ROAD Apt 1-Anan,NORTH WALES,PA,United States,Merck,Project Manager,214-3-25T14:41:52,OSI soft Event Frames
+480,OSI154,Salla Diop,215652149,,salla_diop@merck.com,19454,131 CHURCH ROAD Apt 1-Anan,NORTH WALES,PA,United States,Merck,Project Manager,214-3-26T14:3:46,OSI soft Event Frames
+481,OSI1554,Murrel Pereira,9148477856,,murrel.pereira@regeneron.com,116,165 E 35th St Apt. 15Bnan,New York,NY,United States,Regeneron Pharmaceuticals,Process Development Associate,214-3-26T13:4:19,OSI soft Event Frames
+482,OSI155,Chris Smelker,86275552,866268282,smelkca@cpchem.com,797,Spur 119 Eastnan,Borger,Texas,United States,Chevron/Phillips Chemical Company LLP,Control Engineer,214-3-26T8:28:29,OSI soft Event Frames
+483,OSI1586,Chuck Alonge,518-356-6248,,calonge@nyiso.com,12144,1 Krey Boulevardnan,Rensselaer,NY,United States,NYISO,Senior Software Developer,214-3-26T1:51:8,OSI soft Event Frames
+484,OSI17,Tracy Harper,414737,,tracy.l.harper@constellation.com,21226-1746,15 Brandon Shores Roadnan,Baltimore,MD,United States,Exelon Corporation,Engineering Analyst,214-3-25T15:3:19,OSI soft Event Frames
+485,OSI1364,Tim Wheeler,618-26-5832,,tim.wheeler@dynegy.com,62269,64 Pierce Boulevardnan,O'Fallon,Illinois,United States,Dynegy,Manager - Engineering Programs,214-3-25T14:42:4,OSI soft Event Frames
+486,OSI112,David Bell,859985686,,david.bell@novelis.com,443,32 Mayde Rd.nan,Berea,KY,United States,Novelis,Engineering Leader,214-3-26T13:59:3,OSI soft Event Frames
+487,OSI1176,Michael Larimer,2166945311,2166945311,michael.larimer@cliffsnr.com,44144,2 Public Squarenan,Cleveland,Ohio,United States,"Cliffs Natural Resources, Inc.",Sr. IT/OT Operational Analyst/Developer,214-3-25T18:17:16,OSI soft Event Frames
+488,OSI1176,Michael Larimer,2166945311,2166945311,michael.larimer@cliffsnr.com,44144,2 Public Squarenan,Cleveland,Ohio,United States,"Cliffs Natural Resources, Inc.",Sr. IT/OT Operational Analyst/Developer,214-3-26T9:26:1,OSI soft Event Frames
+489,OSI189,Rick Ney,319-384-2184,319-43-1793,richard-ney@uiowa.edu,52242,1 West Prentiss Streetnan,Iowa City,IA,United States,University of Iowa,"Associate Director, Energy Management",214-3-26T1:54:4,OSI soft Event Frames
+490,OSI1488,Dominique Colle,33688631385,33688631385,dominique.colle@reichhold.com,5788,"37, chemin des corbeauxnan",Ham Sous Varsberg,Moselle,France,Reichhold,Engineer Control System,214-3-26T11:47:44,OSI soft Event Frames
+491,OSI1613,John Hume,27-897-152,27-357-146,john.hume@versopaper.com,4239,P.O. Box 2nan,Jay,Me,United States,Verso Paper Corporation,Sr PI System Manager,214-3-25T13:56:28,OSI soft Event Frames
+492,OSI1369,Bob Grinde,612254249,612829424,bgrinde@bssinc.us,7594-435,12 East FM 544 Ste 72PMB 212,Murphy,TX,United States,Blu-Sphere Systems Inc.,Solutions Architect,214-3-26T1:48:55,OSI soft Event Frames
+493,OSI1682,Paul Yaroshak,829-345-9572,829-345-9572,pyaroshak@barrick.com,,"Novo - Centro, Piso 16, Avenida Lope de Vega No. 29. Ensanche Naco",Santo Domingo,Santo Domingo,Dominican Republic,Barrick Gold Corporation,Senior Process Systems Engineer,214-3-25T17:37:5,OSI soft Event Frames
+494,OSI168,Leanne Fang,72-876-7269,,leanne.fang@swgas.com,8915,5241 Spring Mountain Road nan,Las Vegas,NV,United States,Southwest Gas,Sr. System analyst,214-3-26T11:18:42,OSI soft Event Frames
+495,OSI1885,Trent Boudreaux,337231418,3372889492,trent.boudreaux@cse-icon.com,751,1 Central StreetSuite 1,Lafayette,Louisiana,United States,CSE ICON,Technical Authority,214-3-26T13:59:22,OSI soft Event Frames
+496,OSI1186,Bill Selzer,616-787-5735,,bill.selzer@amway.com,49355,7575 Fulton St Enan,Ada,MI,United States,Amway,Systems Analyst,214-3-26T8:58:47,OSI soft Event Frames
+497,OSI126,Richard Mueller,1313235583,,muellerrj@dteenergy.com,48226,1 Energy Plaza42 SB,Detroit,MI,United States,DTE Energy,Supervising Engineer - Power Systems Technology,214-3-26T13:38:16,OSI soft Event Frames
+498,OSI133,Kiko Castillo,6329813378,6329813378,francisco.castillo@mayniladwater.com.ph,115,"MWSS Compound, Katipunan Ave., BalaraMaynilad Water Services, in",Quezon City,M.Manila,Philippines,"Maynilad Water Services, inc.",SVP-CIO,214-3-25T17:35:16,OSI soft Event Frames
+499,OSI14,Peter Wright,78-232-3955,,peter.wright@dexcent.com,T6M2G2,1851253A Avenue NW,Edmonton,Alberta,Canada,Dexcent,Industrial Informaiton Practice Lead,214-3-25T13:22:3,OSI soft Event Frames
+500,OSI1146,Hoon Chew Toh,832 571 629,,hoon_chew@w-industries.com,77381,2645 Technology Forest Blvdnan,Spring,TX,United States,CSE ICON,Business Development Director,214-3-26T13:59:25,OSI soft Event Frames
+501,OSI1315,Jodee Philo,419-421-413,,jlphilo@marathonpetroleum.com,4584,539 S Main Stnan,Findlay,OH,United States,Marathon Petroleum,Advisor Analyst,214-3-25T15:3:17,OSI soft Event Frames
+502,OSI1394,Tom Luo,43-296-5728,43-815-341,tluo@suncor.com,T2P3E3,15-6th AVE SWnan,Calgary,AB,Canada,Suncor Energy,Lead Historians and Database,214-3-26T11:9:9,OSI soft Event Frames
+503,OSI1674,Timi Sangsnit,595453289,53838165,timisangsnit@boiseinc.com,99363,31831 West Highway 12nan,Wallula,WA,United States,"Boise Paper, a Packaging Corporation of America Company",Technology Resources Manager,214-3-26T1:22:28,OSI soft Event Frames
+504,OSI1936,Roland Esquivel,714-837-6696,,resquivel@amway.com,9621,56 beach blvdnan,buena Park,california,United States,Amway,Manufacturing Systems Analyst,214-3-26T11:32:53,OSI soft Event Frames
+505,OSI1644,Tom Albrecht,48-34-4681,,talbrecht@calera.com,9532,1 Albright WaySuite A,Los Gatos,CA,United States,Calera Corporation,Scientist,214-3-25T16:43:15,OSI soft Event Frames
+506,OSI1181,Mickie Hodges,84-444-752,434-264-414,mickie.hodges@mwv.com,23219,51 South 5th Streetnan,Richmond,Virginia,United States,MeadWestvaco,COE Manufacturing Solutions,214-3-26T11:48:3,OSI soft Event Frames
+507,OSI176,Robert Catron,623668388,,Robert_catron@fmi.com,8531,333 N Central Avenan,Glendale,AZ,United States,"Freeport-McMoRan, Inc.",Project Manager,214-3-25T17:34:4,OSI soft Event Frames
+508,OSI1562,Ken Odenweller,979-239-5865,979-79-3795,kodenweller@nalco.com,77541,2322 County Rd 229nan,Freeport,TX,United States,Nalco Champion,Sr Process Engineer,214-3-26T1:18:38,OSI soft Event Frames
+509,OSI1168,Zubin Najmi,65 898 4138,,zubin.najmi@novartis.com,9468,456 Horton Streetnan,Emeryville,CA,United States,Grifols,Automation Engineer,214-3-26T14:22:23,OSI soft Event Frames
+510,OSI1168,Zubin Najmi,65 898 4138,,zubin.najmi@novartis.com,9468,456 Horton Streetnan,Emeryville,CA,United States,Grifols,Automation Engineer,214-3-26T14:32:,OSI soft Event Frames
+511,OSI1112,Corbin Thomas,281-297-3636,,cthomas2783@gmail.com,77384,22 Teakwood Plnan,Conroe,TX,United States,Leidos,System Administration / Developer,214-3-26T1:37:28,OSI soft Event Frames
+512,OSI1112,Corbin Thomas,281-297-3636,,cthomas2783@gmail.com,77384,22 Teakwood Plnan,Conroe,TX,United States,Leidos,System Administration / Developer,214-3-26T1:52:47,OSI soft Event Frames
+513,OSI1427,Brian Heritage,43-651-7311,43-651-7311,Brian.Heritage@streamlinecontrol.com,T2J 4S3,216 Queen Anne Place SEnan,Calgary,Alberta,Canada,Streamline Control Solutions,Senior Consultant,214-3-26T11:12:35,OSI soft Event Frames
+514,OSI11438,Enrico (Rico) Paolino,,215 639363,epaolino@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,Development Lead,214-3-25T12:1:13,OSI soft Event Frames
+515,OSI131,Brent Punt,57 957 5623,57 216 6116,brent.punt@sanofi.com,18411,1 Discovery Drnan,Swiftwater,PA,United States,Sanofi Pasteur,Swiftwater Site Head for Industrial,214-3-25T13:46:1,OSI soft Event Frames
+516,OSI165,Steve Spurlock,728767394,,steve.spurlock@swgas.com,8915,5241 Spring Mountain Rdnan,Las Vegas,NV,United States,Southwest Gas,SCADA Administrator,214-3-26T11:18:37,OSI soft Event Frames
+517,OSI1874,Steve Lyon,58-849-2854,,stephen.lyon@abbvie.com,165,1 Research Drivenan,Worcester,MA,United States,AbbVie,Principal Engineer,214-3-25T14:14:59,OSI soft Event Frames
+518,OSI1233,Rick Kubin,415-973-4725,,richard.kubin@pge.com,9415,77 Beale Stnan,San Francisco,CA,United States,Pacific Gas and Electric Company,Information Architect,214-3-26T14:6:51,OSI soft Event Frames
+519,OSI151,Mary Bellinger,336-941-3218,713-443-8538,mnbellinger@sinclairoil.com,276,119 Sycamore Commons Lanenan,Bermuda Run,NC,United States,Sinclair Oil,Project Systems Analyst,214-3-26T11:39:42,OSI soft Event Frames
+520,OSI1975,Tim Presar,419-226-2584,419-231-328,tim.presar@huskyenergy.com,4584,115 S. Metcalf St.nan,Lima,OH,United States,Husky Lima Refinery,Programmer/Analyst,214-3-25T15:56:14,OSI soft Event Frames
+521,OSI148,Roja Challa,81594246,8158788212,Roja.Challa@Reichhold.Com,645,635 E. COLLINS ROADnan,Morris,IL,United States,Reichhold Inc,PROCESS CONTROL SYSTEMS SUPPORT,214-3-26T11:47:36,OSI soft Event Frames
+522,OSI159,Tripti Somani,78-792-389,78-799-3832,tsomani@suncor.com,T9H A8,"885 Memorial Drive, PO Box 415nan",Fort McMurray,AB,Canada,Suncor Energy,Apps & Infratstructure Manager,214-3-26T11:9:3,OSI soft Event Frames
+523,OSI1867,Daryl Meche,337-491-4851,337-34-227,daryl.d.meche@p66.com,7611,22 Old Spanish Trailnan,Moss Bluff,La,United States,Phillips 66,Business Anaylyst,214-3-26T14:1:8,OSI soft Event Frames
+524,OSI125,Patrick Mechenbier,33 995 8118,,patrick.mechenbier@rovisys.com,4422,1455 Danner Dr.nan,Aurora,Ohio,United States,RoviSys,Software Developer,214-3-25T17:22:9,OSI soft Event Frames
+525,OSI117,Billy Bonner,318338523,,wbonner@entergy.com,71291,291 Cypress Stnan,West Monroe,LA,United States,Leidos,Software Developer,214-3-25T16:55:24,OSI soft Event Frames
+526,OSI1471,Mike Jackson,63 35 2137,63 8 6699,mkjackson@nalco.com,6526,1132 Alima Terracenan,LaGrange Park,IL,United States,Nalco Champion,Senior Engineering Specialist,214-3-25T14:59:36,OSI soft Event Frames
+527,OSI1471,Mike Jackson,63 35 2137,63 8 6699,mkjackson@nalco.com,6526,1132 Alima Terracenan,LaGrange Park,IL,United States,Nalco Champion,Senior Engineering Specialist,214-3-26T1:18:36,OSI soft Event Frames
+528,OSI143,Bruce Gordon,86-275-567,86-64-4624,gordobw@cpchem.com,797-968,Box 968 Philtex/Ryton PlantPrairie Street,Borger,Texas,United States,Chevron/Phillips Chemical Company LLP,Senior Process Control Specialist,214-3-26T8:27:27,OSI soft Event Frames
+529,OSI1926,Anthony Kaunehowen,48-257-349,48-257-349,akauenhowen@mhi.ca,R3P 1A3,211 Commerce Drivenan,Winnipeg,MB,Canada,Manitoba Hydro International,System Operations Specialist,214-3-26T14:1:1,OSI soft Event Frames
+530,OSI1454,Jason Nunez,858-521-3489,,Jason.Nunez@edf-re.com,92128,15445 Innovation Drivenan,San Diego,CA,United States,EDF Renewable Energy,PI Development Engineer,214-3-25T14:6:28,OSI soft Event Frames
+531,OSI143,Kyle Gogolinski,787922833,,kg5387@syncrude.com,T9H 3L1,PO Bag 49 MD 365nan,Fort McMurray,AB,Canada,Syncrude Canada Ltd.,Sr. Technical Lead,214-3-26T12:27:29,OSI soft Event Frames
+532,OSI1443,Jim Herwig,812-257-271,812-459-3315,jim_herwig@grainprocessing.com,4751,1443 S 3 Wnan,Washington,IN,United States,Grain Processing Corporation,Control Systems Engineer,214-3-26T8:28:18,OSI soft Event Frames
+533,OSI1414,Itoro Meshioye,7132134349,7132134349,itoro.meshioye@hp.com,77429,17923 harbour bridge point drnan,cypress,TX,United States,Hewlett-Packard,Data Center Engineer,214-3-25T15:16:59,OSI soft Event Frames
+534,OSI16,Mark Derbecker,26-81-9339,,mark.derbecker@seeq.com,9811,131 2nd Ave.Suite 285,Seattle,WA,United States,Seeq Corporation,VP of Engineering,214-3-25T13:1:28,OSI soft Event Frames
+535,OSI1278,Kimlin Pen,43-699-187,,kpen@spectraenergy.com,T2P3L8,"Suite 26, 425 1st Street SWnan",Calgary,AB,Canada,Spectra Energy,Information Architect,214-3-25T15:36:23,OSI soft Event Frames
+536,OSI1842,Kiernan Salmon,53-752-3437,,kmsalmon@ad3.ucdavis.edu,95616,One Shields Avenuenan,Davis,CA,United States,UC Davis ,,214-3-25T13:56:59,OSI soft Event Frames
+537,OSI1134,Mike Farrow,919-993-1478,,michael.farrow@biogenidec.com,2779-4627,5 Davis DriveP.O. Box 14627,Research Triangle Park,NC,United States,Biogen Idec,"Engineer II, Manufacturing Sciences",214-3-26T13:43:7,OSI soft Event Frames
+538,OSI1796,Dave Imming,5128347198,5127997198,dave.imming@emerson.com,78681,"11 W. Louis Henna Blvd., Bldg. 1nan",Round Rock,Texas,United States,Emerson Process Management,Vice President - Product and Services Marketing,214-3-26T12:7:1,OSI soft Event Frames
+539,OSI1796,Dave Imming,5128347198,5127997198,dave.imming@emerson.com,78681,"11 W. Louis Henna Blvd., Bldg. 1nan",Round Rock,Texas,United States,Emerson Process Management,Vice President - Product and Services Marketing,214-3-26T12:13:47,OSI soft Event Frames
+540,OSI158,Roeland Baans,1 (78) 792-237,,baans.roeland@syncrude.com,T9H 3L1,P.O. Bag 49  M.D. 365nan,Fort McMurray,Alberta,Canada,Syncrude Canada Ltd.,Area Lead - IT Applications,214-3-26T12:27:26,OSI soft Event Frames
+541,OSI1168,Michael Watzke,+49 (89) 636-5457, +49 (173) 7473251 ,michael.watzke@siemens.com,81739,CT RTC BAM KMR-DEOtto-Hahn-Ring 6,Munich,Bavaria,Germany,Siemens,Research & development engineer,214-3-25T16:2:45,OSI soft Event Frames
+542,OSI146,James Douglas,229 559-2298,229 46-53,jdouglas@packagingcorp.com,3161,5495 Clyattville-Lake Park Rdnan,Valdosta,GA,United States,Packaging Corporation of America,Systems Analyst,214-3-25T15:53:37,OSI soft Event Frames
+543,OSI132,Dave Hopkins,58272232,,dave.hopkins@genzyme.com,242,25 Fuller Rd.nan,Lexington,MA,United States,Genzyme,Principal Engineer,214-3-26T8:19:23,OSI soft Event Frames
+544,OSI1625,Bruce Swanson,28-384-752,,bruceswanson@boiseinc.com,83728,1111 W. Jeffersonnan,Boise,ID,United States,PCA,,214-3-26T1:22:31,OSI soft Event Frames
+545,OSI11369,Ales Soudek,281 92-6186,713 49-8163,asoudek@osisoft.com,7779,1471 St. Mary's LaneSuite 6,Houston,,United States,OSIsoft,Global Solutions Group,214-3-25T12:5:3,OSI soft Event Frames
+546,OSI11369,Ales Soudek,281 92-6186,713 49-8163,asoudek@osisoft.com,7779,1471 St. Mary's LaneSuite 6,Houston,,United States,OSIsoft,Global Solutions Group,214-3-25T12:9:49,OSI soft Event Frames
+547,OSI1563,Steven Ho,2812637983,,steven.ho@nalco.com,77496,PO Box 18181nan,Sugar Land,Texas,United States,Ecolab,Plant Engineer,214-3-26T9:34:26,OSI soft Event Frames
+548,OSI1333,Keri Darlington,34-357-3243,34-716-6863,kdarlington@nisource.com,25314,17 MacCorkle Ave. SEnan,Charleston,WV,United States,NiSource,Lead RTS Analyst,214-3-26T1:37:23,OSIsoft PI Coresight
+549,OSI1111,David Weng,415-56-3594,,dweng@bmrn.com,94949,15 Digital Drnan,Novato,CA,United States,BioMarin Pharmaceutical,Sr. Automation Engineer,214-3-26T14:22:41,OSIsoft PI Coresight
+550,OSI1586,Chuck Alonge,518-356-6248,,calonge@nyiso.com,12144,1 Krey Boulevardnan,Rensselaer,NY,United States,NYISO,Senior Software Developer,214-3-25T17:19:,OSIsoft PI Coresight
+551,OSI179,Paulo Rueda,(+57) 3188199971,,prueda@pacificrubiales.com.co,11111,Calle 11 No. 9-25nan,Bogota,DC,Colombia,Pacific Rubiales Energy,Automation Supervisor,214-3-25T13:39:45,OSIsoft PI Coresight
+552,OSI1134,Matt Richards,6263933748,,mrichards@coloradoenergy.com,958,Malburg Generating Station4963 Soto St.,Vernon,CA,United States,Colorado Energy Management,O&M Manager,214-3-26T1:49:46,OSIsoft PI Coresight
+553,OSI1476,Carlos Prieto,787-78-374,787-63-3213,cprieto@ltapr.com,927,PMB 41 #89 Ave De DiegoSuite 15,San Juan,PR,Puerto Rico,LT Automation,IT Specialist,214-3-25T13:45:33,OSIsoft PI Coresight
+554,OSI1476,Carlos Prieto,787-78-374,787-63-3213,cprieto@ltapr.com,927,PMB 41 #89 Ave De DiegoSuite 15,San Juan,PR,Puerto Rico,LT Automation,IT Specialist,214-3-25T16:41:17,OSIsoft PI Coresight
+555,OSI1476,Carlos Prieto,787-78-374,787-63-3213,cprieto@ltapr.com,927,PMB 41 #89 Ave De DiegoSuite 15,San Juan,PR,Puerto Rico,LT Automation,IT Specialist,214-3-26T9:5:53,OSIsoft PI Coresight
+556,OSI1797,Dawson Newberry,914 993 219,,newberryd@conedenergy.com,1595,1 Summit Lake DriveSuite 41,Valhalla,NY,United States,,,214-3-26T8:55:12,OSIsoft PI Coresight
+557,OSI1266,Jason Maxwell,(33) 995-825,(44) 49-412,jason.maxwell@rovisys.com,4422,1455 Danner Drivenan,Aurora,OH,United States,RoviSys,Group Manager,214-3-26T9:2:43,OSIsoft PI Coresight
+558,OSI1515,Jeff Edwards,817-785-89,,jeff.edwards@triencon.com,755,1 Post and PaddockSte 2,Grand Prairie,TX,United States,TSI Group/Triencon Services,Director,214-3-25T14:31:15,OSIsoft PI Coresight
+559,OSI11391,Harry Paul,,(63) 568-325,hpaul@osisoft.com,1917,nannan,Philadelphia,,United States,OSIsoft,Technical Support Engineer,214-3-26T9:36:9,OSIsoft PI Coresight
+560,OSI1276,Steve Van Doren,315-73-936,315-877-5582,svandoren@rocktenn.com,1324,53 industrial drivenan,syracuse,new youk,United States,RockTenn-Solvay,Sr. Tech Service Engineer,214-3-26T9:58:26,OSIsoft PI Coresight
+561,OSI1661,Hector Rodriguez,787-521-7717,787-649-6823,hl-rodriguez@prepa.com,92,Puerto Rico Electric Power AuthoritySan Juan Power Plant,San Juan,PR,Puerto Rico,PREPA,Principal Engineer,214-3-26T9:5:55,OSIsoft PI Coresight
+562,OSI11392,Michael Ferster,,717-395-249,mferster@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,,214-3-26T9:37:47,OSIsoft PI Coresight
+563,OSI1758,Denis Means,213719337,,denim@microsoft.com,78254,515 Rogers Rdnan,San Antonio,TX,United States,Microsoft,Critical Environment Instrumentation Project Manager,214-3-26T13:13:31,OSIsoft PI Coresight
+564,OSI1375,Doug Tremblay,566353961,,tremblay.doug@irvingpulp.com,E2L5B6,PO Box 5666nan,Saint John,NB,Canada,Irving Tissue Company,ICT,214-3-25T17:6:35,OSIsoft PI Coresight
+565,OSI121,Donald Beverly,514 598-3256,,dbeverly@gazmetro.com,H2K 2X3,1717 du Havre Streetnan,Montreal,Quebec,Canada,Gaz Métro,Senior Advisor Renewable Energy,214-3-26T14::25,OSIsoft PI Coresight
+566,OSI11519,Craig Torpey,,,ctorpey@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,,214-3-26T1:24:9,OSIsoft PI Coresight
+567,OSI133,Anton Meyer,(775) 748-1111,(775) 777-568,ameyer@barrick.com,8981,95 West Main Streetnan,Elko,NV,United States,Barrick Gold Corporation,Senior Systems Engineer,214-3-25T16:16:43,OSIsoft PI Coresight
+568,OSI1737,Luis Yacher,562 2279,,lyacher@contac.cl,775,Americo Vespucio Sur 315nan,Santiago,Metropolitana,Chile,CONTAC,Manager,214-3-25T13:17:53,OSIsoft PI Coresight
+569,OSI113,Chilkoot Ward,97-474-568,,cbward@alaska.edu,99775-742,82 Alumni DriveBox 75742,Fairbanks,AK,United States,University of Alaska Fairbanks,Director of Utilities,214-3-25T17:51:9,OSIsoft PI Coresight
+570,OSI1761,Marvin Wong,437714861,,mwong@secure-energy.ca,T2P 2V7,"36, 25 5th Ave SWnan",Calgary,AB,Canada,Secure Energy Services,Operations Analyst Engineer,214-3-26T14:5:6,OSIsoft PI Coresight
+571,OSI1453,Rick Smith,513-248-6222,,richard.smithjr@ipaper.com,4515,6285 Tri-Ridge Blvdnan,Loveland,Ohio,United States,International Paper,Process Information Manager,214-3-26T8:18:15,OSIsoft PI Coresight
+572,OSI1228,Eleonora Aliverti,39525994,,eleonora.aliverti@eni.com,297,VIA EMILIA 1nan,SAN DONATO MILANESE (MI),ITALY,Italy,Eni E&P,Technical Scientific Services fo Operations (IT project Leader),214-3-26T13:44:1,OSIsoft PI Coresight
+573,OSI1742,Scott King,23-926-454,23-361-8996,scott.king@uinet.com,6477,1 Marsh Hill Roadnan,Orange,CT,United States,United Illuminating Company,SCADA Engineer,214-3-25T13:53:7,OSIsoft PI Coresight
+574,OSI1311,David Farrell,633352955,633352955,dscr22@yahoo.com,6532,442 Basswood Drivenan,Lisle,Illinois,United States,SmartSignal,Product Manager,214-3-26T14:17:48,OSIsoft PI Coresight
+575,OSI1181,Mickie Hodges,84-444-752,434-264-414,mickie.hodges@mwv.com,23219,51 South 5th Streetnan,Richmond,Virginia,United States,MeadWestvaco,COE Manufacturing Solutions,214-3-25T14:18:1,OSIsoft PI Coresight
+576,OSI1141,Charles Davis,(56) 635-5697,(56) 647-5781,davis.charles@jdirving.com,E2L3V6,3 Union Street4th Floor,Saint John,New Brunswick,Canada,"J.D. Irving, Limited - I.T. Division","Director,Transportation Group",214-3-25T14:7:4,OSIsoft PI Coresight
+577,OSI17,Bernardo Andres Tabares Gomez,+ 571 5112754,,btabares@Pacificrubiales.com.co,,Calle 11 # 9 -25 Piso 14nan,Bogota,Bogota,Colombia,Pacific Rubiales Energy,Automation Engineer,214-3-25T13:39:42,OSIsoft PI Coresight
+578,OSI1112,Corbin Thomas,281-297-3636,,cthomas2783@gmail.com,77384,22 Teakwood Plnan,Conroe,TX,United States,Leidos,System Administration / Developer,214-3-26T8:45:47,OSIsoft PI Coresight
+579,OSI1699,Justin Studer,335628688,,justin.studer@rovisys.com,4422,1455 Danner Drivenan,Aurora,OH,United States,Rovisys,Lead Software Engineer,214-3-25T15:12:55,OSIsoft PI Coresight
+580,OSI1699,Justin Studer,335628688,,justin.studer@rovisys.com,4422,1455 Danner Drivenan,Aurora,OH,United States,Rovisys,Lead Software Engineer,214-3-26T1:37:28,OSIsoft PI Coresight
+581,OSI1617,Sergio Zarate,(52) 81 8328 3,(1) 561-83-6174,sergioalberto.zarate@cemex.com,64,"Av. Constitución 444 Pte.Col. Centro,",Monterrey,Nuevo León,Mexico,CEMEX,Process Manager Plant Systems,214-3-25T13:45:46,OSIsoft PI Coresight
+582,OSI1299,Tim Heck,419-619-8115,,teheck@marathonpetroleum.com,4584,539 S. Main Streetnan,Findlay,OH,United States,Marathon Petroleum,Adv IT Systems Integrator,214-3-26T12:3:28,OSIsoft PI Coresight
+583,OSI1963,Crazy Pete,33-273-4838,33-91-3662,Peter.D.Gimeno@XcelEnergy.com,8231,1821 W. 1th Ave.nan,Golden,CO,United States,Xcel Energy,Programmer,214-3-26T12:13:6,OSIsoft PI Coresight
+584,OSI1341,Lucas Smith,51273531,,lucas.smith@sunpower.com,78759,"181 N. MoPac ExpresswayBuilding 3, Floor 5",Austin,TX,United States,SunPower,Application Engineer,214-3-26T1:21:19,OSIsoft PI Coresight
+585,OSI1386,Eddy Brooks,865-48-555,865-755-4657,eddy.brooks@tateandlyle.com,37774,198 Blair Bend Roadnan,Loudon,TN,United States,Tate & Lyle,PI Admin,214-3-25T13:5:59,OSIsoft PI Coresight
+586,OSI1428,Ghazala Siddiqui,925-827-6515,,Ghazala.Siddiqui@Chevron.com,9452-5738,23 Diamond Blvd.nan,Concord,California,United States,Chevron,GRTM,214-3-25T15:25:12,OSIsoft PI Coresight
+587,OSI192,Kevin MacLean,927531827,,kevin.maclean@ca.michelin.com,B2H 5E6,P.O. Box 399nan,New Glasgow,NS,Canada,Michelin North America (Canada) Inc,PI System Administrator,214-3-26T12:37:4,OSIsoft PI Coresight
+588,OSI1496,Thony Valbrun,732-227-7736,,anthony.valbrun@bms.com,893,1 Squibb DriveB15-146,New Brunswick,NJ,United States,Bristol-Myers Squibb,Principal Business Capability Analyst,214-3-25T14:18:3,OSIsoft PI Coresight
+589,OSI151,Mary Bellinger,336-941-3218,713-443-8538,mnbellinger@sinclairoil.com,276,119 Sycamore Commons Lanenan,Bermuda Run,NC,United States,Sinclair Oil,Project Systems Analyst,214-3-25T16:31:9,OSIsoft PI Coresight
+590,OSI1139,Jason Golla,,267-879-826,jgolla@osisoft.com,877,nannan,Philadelphia,,United States,OSIsoft,Developement Lead,214-3-25T12:22:15,OSIsoft PI Coresight
+591,OSI1533,Gus Green,(919) 993-137,(919) 274-6871,gus.green@biogenidec.com,2779,5 Davis Drnan,RTP,NC,United States,Biogen Idec,Sr. Automation Engineer,214-3-26T14:2:49,OSIsoft PI Coresight
+592,OSI125,Patrick Mechenbier,33 995 8118,,patrick.mechenbier@rovisys.com,4422,1455 Danner Dr.nan,Aurora,Ohio,United States,RoviSys,Software Developer,214-3-26T9:2:41,OSIsoft PI Coresight
+593,OSI1159,Kevin Geneva,21566791,2152646537,kgeneva@osisoft.com,1913,17 Market StreetSuite 22,Philadelphia,,United States,OSIsoft,Customer Support Engineer,214-3-26T11:5:9,OSIsoft PI Coresight
+594,OSI139,Susan Stoner,42-563-5446,42-91-4545,skstone@nppd.com,6862-499,1414 15th St.PO BOX 499,Columbus,Nebraska,United States,Nebraska Public Power District,Distribution Planning Engineer,214-3-26T12:33:38,OSIsoft PI Coresight
+595,OSI1339,Tony Maggio,(36) 293-9168,,tony.m.maggio@tsocorp.com,98221,12 West March Point Roadnan,Anacortes,WA,United States,Tesoro,Consulting Business Analyst,214-3-26T13:36:35,OSIsoft PI Coresight
+596,OSI1114,James Burr,435-864-6454,,james.burr@ipsc.com,84624,85 W Brushwellman Roadnan,Delta,UT,United States,Intermountain Power,Systems Engineer,214-3-26T14:6:19,OSIsoft PI Coresight
+597,OSI1926,Anthony Kaunehowen,48-257-349,48-257-349,akauenhowen@mhi.ca,R3P 1A3,211 Commerce Drivenan,Winnipeg,MB,Canada,Manitoba Hydro International,System Operations Specialist,214-3-26T13:55:29,OSIsoft PI Coresight
+598,OSI1843,Kevin Swain,857-31-5312,,kswain@firstwind.com,2111,179 Lincoln StSuite 5,Boston,Massachusettes,United States,First Wind,Business Intelligence Analyst,214-3-26T11:1:39,OSIsoft PI Coresight
+599,OSI1454,Jason Nunez,858-521-3489,,Jason.Nunez@edf-re.com,92128,15445 Innovation Drivenan,San Diego,CA,United States,EDF Renewable Energy,PI Development Engineer,214-3-25T13:45:17,OSIsoft PI Coresight
+600,OSI1455,Jerome Boudon,+33  476 29 753,+33  628 348 13,jerome.boudon@edf.fr,38,37 rue Diderotnan,Grenoble,Isère,France,EDF,Regional Center Development Manager,214-3-26T1:9:27,OSIsoft PI Coresight
+601,OSI1538,Uche Ejiogu,43-513-848,,uej@statoil.com,T2X 3B7,"36,38-4th ave SWnan",Calgary,Alberta,Canada,Statoil,Petroleum Technologist,214-3-25T14:31:7,OSIsoft PI Coresight
+602,OSI1725,Bryan Toich,33-995-8155,,bryan.toich@rovisys.com,4422,1455 Danner Drivenan,Aurora,OH,United States,RoviSys,Software Engineer,214-3-26T1:37:26,OSIsoft PI Coresight
+603,OSI142,Gary Petersen,925-37-335,,gary.j.petersen@tsocorp.com,94553,Golden Eagle Refinery15 Solano Way,Martinez,California,United States,Tesoro,Senior Engineer,214-3-26T13:56:27,OSIsoft PI Coresight
+604,OSI1474,Manuel Mendendez,78778374,787366754,mmenendez@ltapr.com,927,PMB 41 89 AVE DE DIEGOSUITE 15,SAN JUAN,PR,Puerto Rico,LT Automation,ENGINEERING DIRECTOR,214-3-25T13:45:35,OSIsoft PI Coresight
+605,OSI1474,Manuel Mendendez,78778374,787366754,mmenendez@ltapr.com,927,PMB 41 89 AVE DE DIEGOSUITE 15,SAN JUAN,PR,Puerto Rico,LT Automation,ENGINEERING DIRECTOR,214-3-26T9:5:51,OSIsoft PI Coresight
+606,OSI172,Francisco Ibarra,(52) 81 8328 3,832857359,franciscojavier.ibarrac@ext.cemex.com,64,Av. Constitución 444 Pte.Col. Centro,Monterrey,Nuevo León,Mexico,CEMEX,Business Consultant,214-3-25T13:45:44,OSIsoft PI Coresight
+607,OSI1477,Cyndi Bourne,143691479,,cyndi.bourne@shell.com,T2P 2H5,4 4th Avenue SWnan,Calgary,Alberta,Canada,Shell,PI Center of Excellence,214-3-26T12:2:36,OSIsoft PI Coresight
+608,OSI1945,Brandon Curless,86-64-638,,brandon.a.curless@xcelenergy.com,7919,686 SW 48thnan,Amarillo,TX,United States,XCEL Energy,Programmer II,214-3-26T11:1:57,OSIsoft PI Coresight
+609,OSI1156,James Lisk,67-974-9658,67-329-548,liskjd@corning.com,14831,HP-ME-3-81nan,Corning,New York,United States,Corning Incorporated,Project Engineer,214-3-25T16:48:8,OSIsoft PI Coresight
+610,OSI1666,Ronald Holden,441224777,4478598742,ronald.holden@servelec-controls.com,AB23 8GD,The Technology CentreClaymore Drive,Aberdeen,Aberdeenshire,United Kingdom,Servelec Controls,Divisional Director,214-3-26T13:11:7,OSIsoft PI Coresight
+611,OSI154,Li Luo,324544392,,li.luo@pepcoholdings.com,19714,PO Box 923979NC35,Newark,DE,United States,"Pepco Holdings, Inc",Sr. Systems Architect,214-3-26T9:58:18,OSIsoft PI Coresight
+612,OSI1479,Elvin Pagan,787-78-374,,epagan@ltapr.com,927,PMB 41 #89 Ave De DiegoSuite 15,San Juan,PR,Puerto Rico,LT Automation,President,214-3-25T16:41:15,OSIsoft PI Coresight
+613,OSI1421,Carl Van Laer,32146473,3247455949,cvlaer1@its.jnj.com,B-234,Turnhoutseweg 3nan,Beerse,Antwerp,Belgium,Janssen Pharmaceutical Companies,IT Manager Manufacturing Systems,214-3-26T8:7:12,OSIsoft PI Coresight
+614,OSI1147,John Sintilas,,,jsintilas@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,Development Lead,214-3-25T16:8:16,OSIsoft PI Coresight
+615,OSI1147,John Sintilas,,,jsintilas@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,Development Lead,214-3-25T16:8:21,OSIsoft PI Coresight
+616,OSI1147,John Sintilas,,,jsintilas@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,Development Lead,214-3-25T16:8:24,OSIsoft PI Coresight
+617,OSI167,Tom Pardue,423-229-2938,423-3841896,tpardue@eastman.com,3766,B-2841 Eastman Road,Kingsport ,Tennessee ,United States,Eastman Chemical Company,Systems Analyst,214-3-26T11:2:13,OSIsoft PI Coresight
+618,OSI171,Alan Calder,435-781-5719,,acalder@deseretpower.com,8478,125 East 255 Southnan,Vernal,Utah,United States,Deseret Power,Electrical Engineer,214-3-26T8:37:27,OSIsoft PI Coresight
+619,OSI11497,Eric Lang,,,elang@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,,214-3-25T12:55:3,OSIsoft PI Coresight
+620,OSI115,Joe Couchara,215-66-641,,jcouchara@osisoft.com,1913,17 Market StSuite 221,Philadelphia,,United States,OSIsoft,Software Test Engineer,214-3-26T9:37:19,OSIsoft PI Coresight
+621,OSI11699,Brent Bregenzer,51-877-4415,,bbregenzer@osisoft.com,94577,"Creekside Plaza Building A11 San Leandro Blvd, Suite 2",San Leandro,,United States,OSIsoft,Customer Support Engineer,214-3-26T11:6:19,OSIsoft PI Coresight
+622,OSI1622,Peter King,9253723167,,peter.j.king@tsocorp.com,94553,"Golden Eagle Refinery15, Solano Way,",Matinez,Ca,United States,Tesoro,Control Systems Manager,214-3-26T13:56:25,OSIsoft PI Coresight
+623,OSI158,Philipp Sutter,+41 61 271 8283,,philipp.sutter@octavesoft.ch,452,Malzgasse 15nan,Basel,BS,Switzerland,OctaveSoft GmbH,Owner,214-3-25T13:33:31,OSIsoft PI Coresight
+624,OSI11761,Gary Grimes,562-531-26,949-93-4112,ggrimes@ppcla.com,9723,147 Downey Avenan,Paramount,CA,United States,Paramount Petroleum,Director of Technology,214-3-26T13:32:,OSIsoft PI Coresight
+625,OSI11771,Nader Riad,8541514,8541514,nader_riad@baxter.com,9132,17 rancho conejonan,thousand oaks,CA,United States,Baxter Healthcare,Engineer,214-3-25T14:1:17,OSIsoft PI Coresight
+626,OSI1439,Frank Inselbuch,713-581-914,713-865-6244,frank.inselbuch@accenture.com,772,131 FanninSuite 19,Houston,TX,United States,Accenture,Senior Manager,214-3-25T16:19:38,OSIsoft PI DataLink
+627,OSI1284,Chris Garza,94 33-3121,,cgarza@rocktenn.com,32216,"166 Prudential Drive, Suite 22nan",Jacksonville,FL,United States,RockTenn,System Analyst,214-3-25T14:32:15,OSIsoft PI DataLink
+628,OSI1284,Chris Garza,94 33-3121,,cgarza@rocktenn.com,32216,"166 Prudential Drive, Suite 22nan",Jacksonville,FL,United States,RockTenn,System Analyst,214-3-25T14:32:18,OSIsoft PI DataLink
+629,OSI1284,Chris Garza,94 33-3121,,cgarza@rocktenn.com,32216,"166 Prudential Drive, Suite 22nan",Jacksonville,FL,United States,RockTenn,System Analyst,214-3-25T14:32:21,OSIsoft PI DataLink
+630,OSI154,Salla Diop,215652149,,salla_diop@merck.com,19454,131 CHURCH ROAD Apt 1-Anan,NORTH WALES,PA,United States,Merck,Project Manager,214-3-25T14:15:3,OSIsoft PI DataLink
+631,OSI11254,Ted Groszkiewicz,,51-499-3234,tgrosz@osisoft.com,,nannan,Bend,,United States,OSIsoft,,214-3-25T9:47:37,OSIsoft PI DataLink
+632,OSI11254,Ted Groszkiewicz,,51-499-3234,tgrosz@osisoft.com,,nannan,Bend,,United States,OSIsoft,,214-3-26T13:11:5,OSIsoft PI DataLink
+633,OSI17,Tracy Harper,414737,,tracy.l.harper@constellation.com,21226-1746,15 Brandon Shores Roadnan,Baltimore,MD,United States,Exelon Corporation,Engineering Analyst,214-3-25T15:45:7,OSIsoft PI DataLink
+634,OSI1185,Khalid Alzahrani,966888518,,khalid.zahrani.2@aramco.com,31311,P.O.Box 1914nan,Ras Tanura,Eastern,Saudi Arabia,Saudi Aramco,Supervisor,214-3-26T8:5:42,OSIsoft PI DataLink
+635,OSI179,Paulo Rueda,(+57) 3188199971,,prueda@pacificrubiales.com.co,11111,Calle 11 No. 9-25nan,Bogota,DC,Colombia,Pacific Rubiales Energy,Automation Supervisor,214-3-26T8:39:33,OSIsoft PI DataLink
+636,OSI16,Dan Wilson,619-725-8778,,dpwilson@semprautilities.com,92112,PO Box 129831SD116,San Diego,CA,United States,SDG&E,Engineer,214-3-26T9:11:3,OSIsoft PI DataLink
+637,OSI1613,John Hume,27-897-152,27-357-146,john.hume@versopaper.com,4239,P.O. Box 2nan,Jay,Me,United States,Verso Paper Corporation,Sr PI System Manager,214-3-25T14:25:32,OSIsoft PI DataLink
+638,OSI1613,John Hume,27-897-152,27-357-146,john.hume@versopaper.com,4239,P.O. Box 2nan,Jay,Me,United States,Verso Paper Corporation,Sr PI System Manager,214-3-25T14:25:34,OSIsoft PI DataLink
+639,OSI1613,John Hume,27-897-152,27-357-146,john.hume@versopaper.com,4239,P.O. Box 2nan,Jay,Me,United States,Verso Paper Corporation,Sr PI System Manager,214-3-25T14:25:35,OSIsoft PI DataLink
+640,OSI1162,Lee Roberson,843-745-3759,843-557-5517,lee.roberson@kapstonepaper.com,2946,56 Virginia Avennan,Charleston,SC,United States,KapStone Charleston Kraft LLC,Application Developer/DBA,214-3-25T16:34:41,OSIsoft PI DataLink
+641,OSI1682,Paul Yaroshak,829-345-9572,829-345-9572,pyaroshak@barrick.com,,"Novo - Centro, Piso 16, Avenida Lope de Vega No. 29. Ensanche Naco",Santo Domingo,Santo Domingo,Dominican Republic,Barrick Gold Corporation,Senior Process Systems Engineer,214-3-25T17:31:41,OSIsoft PI DataLink
+642,OSI1249,Jason Cox,312582126,,jcox@invenergyllc.com,6148,192 Springer Drivenan,Lombard,Illinois,United States,Invenergy LLC,SCADA Administrator,214-3-26T9:32:4,OSIsoft PI DataLink
+643,OSI188,Tom Nobis,713-656-8547,,tom.j.nobis@exxonmobil.com,772,P.O. Box 9#219E,Houston,TX,United States,ExxonMobil,Application Engineer,214-3-25T16:4:37,OSIsoft PI DataLink
+644,OSI188,Tom Nobis,713-656-8547,,tom.j.nobis@exxonmobil.com,772,P.O. Box 9#219E,Houston,TX,United States,ExxonMobil,Application Engineer,214-3-26T8:51:56,OSIsoft PI DataLink
+645,OSI1758,Denis Means,213719337,,denim@microsoft.com,78254,515 Rogers Rdnan,San Antonio,TX,United States,Microsoft,Critical Environment Instrumentation Project Manager,214-3-26T1:3:28,OSIsoft PI DataLink
+646,OSI11429,Valli Kamakodu,,,vkamakodu@osisoft.com,94577,nannan,San Leandro,,United States,OSIsoft,Engineer,214-3-25T13:35:16,OSIsoft PI DataLink
+647,OSI121,Donald Beverly,514 598-3256,,dbeverly@gazmetro.com,H2K 2X3,1717 du Havre Streetnan,Montreal,Quebec,Canada,Gaz Métro,Senior Advisor Renewable Energy,214-3-26T13:34:3,OSIsoft PI DataLink
+648,OSI1367,André Trudel,819-676-81,819-676-6812,atrudel@rocktenn.com,G9x 3P8,"1, chemin de l'usinenan",La Tuque,Québec,Canada,Rocktenn,Process control engineer,214-3-25T17:4:41,OSIsoft PI DataLink
+649,OSI1328,David Barker,+64 9 282 4231,+64 21 522 591,david@dimensionsoftware.co.nz,1542,PO Box 1159Ellerslie,Auckland,Auckland,New Zealand,Dimension Software,Managing Director,214-3-25T13:51:34,OSIsoft PI DataLink
+650,OSI1258,Steve Tran,367993,367993,nataliya.dvorak@meragroup.net,S4S7J7,195-1 Research Drivenan,Regina ,Saskatchewan,Canada,Mera,Senior Project Engineer,214-3-26T11:1:9,OSIsoft PI DataLink
+651,OSI133,Anton Meyer,(775) 748-1111,(775) 777-568,ameyer@barrick.com,8981,95 West Main Streetnan,Elko,NV,United States,Barrick Gold Corporation,Senior Systems Engineer,214-3-26T8:56:3,OSIsoft PI DataLink
+652,OSI1329,Benji Capsuto,51439471,,benji.capsuto@sunpowercorp.com,9484,1414 Harbour Way Southnan,Richmond,CA,United States,SunPower,Engineer,214-3-25T13:51:2,OSIsoft PI DataLink
+653,OSI126,Richard Mueller,1313235583,,muellerrj@dteenergy.com,48226,1 Energy Plaza42 SB,Detroit,MI,United States,DTE Energy,Supervising Engineer - Power Systems Technology,214-3-26T11:27:8,OSIsoft PI DataLink
+654,OSI1495,Bruno Longchamps,418 284-33,,bruno.longchamps@alcoa.com,G3H A4,3 Rue Du Geraniumnan,Pont-Rouge,Québec,Canada,Alcoa,SMART Manufacturing Program Manager,214-3-25T18:18:26,OSIsoft PI DataLink
+655,OSI1141,David Rosinski,76-796-557,76-836-3866,david.rosinski@ipaper.com,396-9784,4278 Mike Padgett Hwynan,Augusta,GA,United States,International Paper,IT Analysis,214-3-26T8:24:45,OSIsoft PI DataLink
+656,OSI1489,Maria Cruz,832 624-468,832 566-4775,maria.m.cruz@exxonmobil.com,7792,45 Dacoma Drnan,Houston,tx,United States,ExxonMobil,Application Support,214-3-26T8:51:52,OSIsoft PI DataLink
+657,OSI1581,Ron Yuen,916-781-4258,916-67-114,ronald.yuen@ncpa.com,95678,651 Commerce Drivenan,Roseville,CA,United States,Northern California Power Agency,Engineer,214-3-25T15:5:49,OSIsoft PI DataLink
+658,OSI164,Sam Parino,51-245-4565,925-766-267,sam.parino@p66.com,94572,138 san pablo avenan,rodeo,ca,United States,Phillips 66,Operations Mgr,214-3-26T14:31:2,OSIsoft PI DataLink
+659,OSI1164,Scott Harrison,,5122943522,sharrison@osisoft.com,94577,nannan,SAN LEANDRO,,United States,OSIsoft,Software Developer,214-3-25T12:18:5,OSIsoft PI DataLink
+660,OSI1296,Ian Rivett,36-79-93,,ian.rivett@meragroup.net,S4S 7J7,195-1 Research Drivenan,Regina,Saskatchewan,Canada,Mera,Project Engineer,214-3-26T11:1:12,OSIsoft PI DataLink
+661,OSI1112,Corbin Thomas,281-297-3636,,cthomas2783@gmail.com,77384,22 Teakwood Plnan,Conroe,TX,United States,Leidos,System Administration / Developer,214-3-26T8:29:8,OSIsoft PI DataLink
+662,OSI1491,Josh Lyon,469423221,4694266348,jlyon@flowserve.com,7563,5215 N. O'Connor Blvd #23nan,Irving,TX,United States,Flowserve,Technology Manager,214-3-26T1:54:57,OSIsoft PI DataLink
+663,OSI1512,James Wardlaw,252-533-6212,252-532-173,james.wardlaw@kapstonepaper.com,27822,1 Gaston Roadnan,Roanoke Rapids,NC,United States,KapStone Paper,Application Analyst,214-3-25T16:34:44,OSIsoft PI DataLink
+664,OSI11347,Jim Black,,27 229 118,jblack@osisoft.com,,nannan,Kennebunk,,United States,OSIsoft,Industry Principal- Forest Products Sector,214-3-25T14:32:24,OSIsoft PI DataLink
+665,OSI11347,Jim Black,,27 229 118,jblack@osisoft.com,,nannan,Kennebunk,,United States,OSIsoft,Industry Principal- Forest Products Sector,214-3-25T14:32:24,OSIsoft PI DataLink
+666,OSI11347,Jim Black,,27 229 118,jblack@osisoft.com,,nannan,Kennebunk,,United States,OSIsoft,Industry Principal- Forest Products Sector,214-3-25T14:32:26,OSIsoft PI DataLink
+667,OSI11347,Jim Black,,27 229 118,jblack@osisoft.com,,nannan,Kennebunk,,United States,OSIsoft,Industry Principal- Forest Products Sector,214-3-25T14:32:28,OSIsoft PI DataLink
+668,OSI11347,Jim Black,,27 229 118,jblack@osisoft.com,,nannan,Kennebunk,,United States,OSIsoft,Industry Principal- Forest Products Sector,214-3-25T14:32:29,OSIsoft PI DataLink
+669,OSI1786,Chandra Gannavarapu,713 39 7688,,chandrasekhar.gannavarapu@lyondellbasell.com,771,1221 McKinneynan,Houston,Texas,United States,LyondellBasell Industries,Optimization Business Solutions Lead,214-3-26T1:25:3,OSIsoft PI DataLink
+670,OSI1427,Brian Heritage,43-651-7311,43-651-7311,Brian.Heritage@streamlinecontrol.com,T2J 4S3,216 Queen Anne Place SEnan,Calgary,Alberta,Canada,Streamline Control Solutions,Senior Consultant,214-3-26T8:17:34,OSIsoft PI DataLink
+671,OSI1396,Robin McAhon,843-745-3648,843-834-134,robin.mcahon@kapstonepaper.com,29423-85,P O Box 1185nan,Charleston,SC,United States,Kapstone Paper and Packaging,Infrastructure & Systems Team Lead,214-3-25T16:34:45,OSIsoft PI DataLink
+672,OSI1157,Dave Oda,,,dcoda@osisoft.com,94577695,nannan,SAN LEANDRO,,United States,OSIsoft,Software Developer,214-3-25T12:17:57,OSIsoft PI DataLink
+673,OSI131,Brent Punt,57 957 5623,57 216 6116,brent.punt@sanofi.com,18411,1 Discovery Drnan,Swiftwater,PA,United States,Sanofi Pasteur,Swiftwater Site Head for Industrial,214-3-25T14:15:9,OSIsoft PI DataLink
+674,OSI131,Brent Punt,57 957 5623,57 216 6116,brent.punt@sanofi.com,18411,1 Discovery Drnan,Swiftwater,PA,United States,Sanofi Pasteur,Swiftwater Site Head for Industrial,214-3-25T14:36:29,OSIsoft PI DataLink
+675,OSI155,Richard Tremblay,5148762855,514 833 863,richard.tremblay@keops.com,H3B 3A7,1155 University Suite 11nan,Montreal,quebec,Canada,Keops Technologies,Director,214-3-25T13:51:26,OSIsoft PI DataLink
+676,OSI1496,Thony Valbrun,732-227-7736,,anthony.valbrun@bms.com,893,1 Squibb DriveB15-146,New Brunswick,NJ,United States,Bristol-Myers Squibb,Principal Business Capability Analyst,214-3-26T13:58:37,OSIsoft PI DataLink
+677,OSI151,Mary Bellinger,336-941-3218,713-443-8538,mnbellinger@sinclairoil.com,276,119 Sycamore Commons Lanenan,Bermuda Run,NC,United States,Sinclair Oil,Project Systems Analyst,214-3-26T11:5:5,OSIsoft PI DataLink
+678,OSI1141,Charles Shin,,267243588,cshin@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,,214-3-26T9::57,OSIsoft PI DataLink
+679,OSI11562,Richard Najarian,,925-699-189,RNajarian@osisoft.com,,nannan,"San Leandro, CA",,United States,OSIsoft,"Director, Quality Systems",214-3-25T11:18:18,OSIsoft PI DataLink
+680,OSI1454,Jason Nunez,858-521-3489,,Jason.Nunez@edf-re.com,92128,15445 Innovation Drivenan,San Diego,CA,United States,EDF Renewable Energy,PI Development Engineer,214-3-25T15:57:14,OSIsoft PI DataLink
+681,OSI1454,Jason Nunez,858-521-3489,,Jason.Nunez@edf-re.com,92128,15445 Innovation Drivenan,San Diego,CA,United States,EDF Renewable Energy,PI Development Engineer,214-3-25T15:57:18,OSIsoft PI DataLink
+682,OSI1595,Anh Hoang,281-719-9312,,anh.hoang@champ-tech.com,77545,313 FM 521nan,Fresno,Texas,United States,NALCO Champion,Process Control Engineer,214-3-25T14:11:8,OSIsoft PI DataLink
+683,OSI1595,Anh Hoang,281-719-9312,,anh.hoang@champ-tech.com,77545,313 FM 521nan,Fresno,Texas,United States,NALCO Champion,Process Control Engineer,214-3-25T14:16:39,OSIsoft PI DataLink
+684,OSI1726,Jack Rao,661632148,7325138482,j.rao@chevron.com,9339,381 Ashe RdApt 63,Bakersfield,CA,United States,AvalonDev,Sr. Database Analyst,214-3-25T15:57:27,OSIsoft PI DataLink
+685,OSI1726,Jack Rao,661632148,7325138482,j.rao@chevron.com,9339,381 Ashe RdApt 63,Bakersfield,CA,United States,AvalonDev,Sr. Database Analyst,214-3-25T15:57:38,OSIsoft PI DataLink
+686,OSI1726,Jack Rao,661632148,7325138482,j.rao@chevron.com,9339,381 Ashe RdApt 63,Bakersfield,CA,United States,AvalonDev,Sr. Database Analyst,214-3-25T15:57:4,OSIsoft PI DataLink
+687,OSI1267,Nate Chang,51-529-1298,51-529-1298,nyc1@pge.com,93583,34 Crow Canyon RoadRoom 151,San Ramon,CA,United States,Pacific Gas & Electric Company,Product Manager,214-3-25T15:1:56,OSIsoft PI DataLink
+688,OSI11418,Jonathan Silvestre,,,jsilvestre@osisoft.com,,nannan,Potomac,,United States,OSIsoft,Center of Excellence Engineer,214-3-25T18:18:23,OSIsoft PI DataLink
+689,OSI1432,Robert Lane,59-373-4748,28-818-6976,Robert_A_Lane@rl.gov,99354,"244 Stevens Center PlacePO Box 85, MSIN R1-2",Richland,WA,United States,Washington River Protection Solutions (WRPS),Software Engineer/Analyst/Developer,214-3-26T9:2:54,OSIsoft PI DataLink
+690,OSI1443,Jim Herwig,812-257-271,812-459-3315,jim_herwig@grainprocessing.com,4751,1443 S 3 Wnan,Washington,IN,United States,Grain Processing Corporation,Control Systems Engineer,214-3-26T1:2:25,OSIsoft PI DataLink
+691,OSI1492,James Liu,972443672,2147964933,jamliu@flowserve.com,7539,5215 N. O'Connor BlvdSuite 23,Irving,Texas,United States,Flowserve,Business Analyst,214-3-26T11:19:25,OSIsoft PI DataLink
+692,OSI1671,Seth Whitworth,86-257-718,86-523-8529,seth.whitworth@xcelenergy.com,7931,97 CR 65nan,Earth,TX,United States,Xcel Energy,Senior Engineer,214-3-26T12:43:26,OSIsoft PI DataLink
+693,OSI1676,Darin Grandfield,51 245 4489,,darin.grandfield@p66.com,94572,138 San Pablo Avenan,Rodeo,CA,United States,Phillips 66,Operations Engineer,214-3-26T14:31:,OSIsoft PI DataLink
+694,OSI1877,Frank Card,27-897-1453,27-931-8756,frank.card@versopaper.com,4263,Verso PaperPO Box 2,Jay,Maine,United States,Verso Paper Corporation,Energy Coordinator,214-3-25T14:25:3,OSIsoft PI DataLink
+695,OSI1877,Frank Card,27-897-1453,27-931-8756,frank.card@versopaper.com,4263,Verso PaperPO Box 2,Jay,Maine,United States,Verso Paper Corporation,Energy Coordinator,214-3-25T14:26:48,OSIsoft PI DataLink
+696,OSI161,Daniel Gougeon,514 642-9251,514 947-9251,dgougeon@rocktenn.com,H1A 3S2,154 Sherbrooke Eastnan,Montreal,Quebec,Canada,RockTenn,Process & Development Superintendant,214-3-25T14:32:1,OSIsoft PI DataLink
+697,OSI161,Daniel Gougeon,514 642-9251,514 947-9251,dgougeon@rocktenn.com,H1A 3S2,154 Sherbrooke Eastnan,Montreal,Quebec,Canada,RockTenn,Process & Development Superintendant,214-3-25T14:32:11,OSIsoft PI DataLink
+698,OSI161,Daniel Gougeon,514 642-9251,514 947-9251,dgougeon@rocktenn.com,H1A 3S2,154 Sherbrooke Eastnan,Montreal,Quebec,Canada,RockTenn,Process & Development Superintendant,214-3-25T14:32:13,OSIsoft PI DataLink
+699,OSI11128,RENE RODRIGUEZ,77-399-1125,,rene.e.rodriguez@abbott.com,94533,232 Courage Drivenan,Fairfield,CA,United States,ABBOTT LABORATORIES,SCIENTIST,214-3-25T16:26:27,OSIsoft PI DataLink
+700,OSI158,Philipp Sutter,+41 61 271 8283,,philipp.sutter@octavesoft.ch,452,Malzgasse 15nan,Basel,BS,Switzerland,OctaveSoft GmbH,Owner,214-3-25T16:53:13,OSIsoft PI DataLink
+701,OSI332,Noah Jacobs,,,njacobs@osisoft.com,,nannan,,,USA,OSIsoft,,214-3-25T12:33:2,OSIsoft PI DataLink
+702,OSI1535,Derek Bossert,917758545,912673665,derek_bossert@cargill.com,38113,233 Buoy Stnan,Memphis,TN,United States,Cargill,Data Handling Specialist,214-3-26T14:26:55,OSIsoft PI Manual Logger
+703,OSI1535,Derek Bossert,917758545,912673665,derek_bossert@cargill.com,38113,233 Buoy Stnan,Memphis,TN,United States,Cargill,Data Handling Specialist,214-3-26T14:26:58,OSIsoft PI Manual Logger
+704,OSI1285,Dennis Lawless,21-626-6478,,dennis.a.lawless@tsocorp.com,78259,191 Ridgewood Parkwaynan,San Antonio,TX,United States,Tesoro,Consulting Business Analyst,214-3-25T15:8:18,OSIsoft PI Manual Logger
+705,OSI116,Craig Sloat,67-974-6898,717-88-9657,sloatcr@corning.com,14831,HP-ME-3-81nan,Corning,New York,United States,Corning Incorporated,Engineering Supervisor,214-3-25T15:8:27,OSIsoft PI Manual Logger
+706,OSI1828,John Ewald,313-235-3541,,ewaldj@dteenergy.com,48226,1 Energy Plazanan,Detroit,MI,United States,DTE Energy,Senior Engineer,214-3-26T1:8:37,OSIsoft PI Manual Logger
+707,OSI154,Salla Diop,215652149,,salla_diop@merck.com,19454,131 CHURCH ROAD Apt 1-Anan,NORTH WALES,PA,United States,Merck,Project Manager,214-3-26T11:11:31,OSIsoft PI Manual Logger
+708,OSI1484,Pinal Patel,85-48-2573,,pinal_patel@baxter.com,9132,17 Rancho Conejo Blvdnan,Thousand Oaks,CA,United States,Baxter Healthcare,Sr. Engineer,214-3-25T15:37:9,OSIsoft PI Manual Logger
+709,OSI15,Mehrdad Ghorashi,(225) 612-6394,225-82-2179,mehrdad.ghorashi@champtechnology.com,789,"17991 Old Perkins Road, EastSTE E",Baton Rouge,LA,United States,Champion Technology Services,Business Manager,214-3-26T11:46:4,OSIsoft PI Manual Logger
+710,OSI1976,Alex Junk,319-384-3629,,alexander-junk@uiowa.edu,52242,1 W Prentiss St22 USB,Iowa City,Iowa,United States,University of Iowa,Senior Systems Administrator,214-3-26T12:22:22,OSIsoft PI Manual Logger
+711,OSI17,Tracy Harper,414737,,tracy.l.harper@constellation.com,21226-1746,15 Brandon Shores Roadnan,Baltimore,MD,United States,Exelon Corporation,Engineering Analyst,214-3-25T17:26:47,OSIsoft PI Manual Logger
+712,OSI1368,Darwin Stahlback,8179622321,7634437233,dstahlback@bssinc.us,7594,12 East FM 544 Ste 72PMB 212,Murphy,TX,United States,Blu-Sphere Systems Inc.,President - Solutions Architect,214-3-25T13:4:57,OSIsoft PI Manual Logger
+713,OSI1176,Michael Larimer,2166945311,2166945311,michael.larimer@cliffsnr.com,44144,2 Public Squarenan,Cleveland,Ohio,United States,"Cliffs Natural Resources, Inc.",Sr. IT/OT Operational Analyst/Developer,214-3-26T14:15:47,OSIsoft PI Manual Logger
+714,OSI16,Greg Sonnier,(225) 612-6394,337-654-1227,greg.sonnier@champtechnology.com,789,"17991 Old Perkins Road, EastSTE E",Baton Rouge,LA,United States,Champion Technology Services,Business Development,214-3-26T11:46:6,OSIsoft PI Manual Logger
+715,OSI1373,Michael Wheat,33-228-431,33-99-82,mwheat@nobleenergyinc.com,824,1625 Broadway Suie 22nan,Denver,CO,United States,Noble Energy Inc.,Systems Engineer,214-3-26T8:28:4,OSIsoft PI Manual Logger
+716,OSI11125,Edmund Campion,942232289,9425797,edmund.campion@aprenergy.com,32224,3814 Biggin Church Rd. W.nan,Jacksonville,Fl,United States,APR Energy,Director R&D,214-3-25T16:4:14,OSIsoft PI Manual Logger
+717,OSI1334,Kasen Huwa,33-571-7368,,kasen.r.huwa@xcelenergy.com,864,18 Larimer StSuite 8,Denver,CO,United States,Xcel Energy,Sr. Application Delivery Manager,214-3-25T16:47:7,OSIsoft PI Manual Logger
+718,OSI1154,Stewart Tang,925-415-648,925-55-2452,stt1@pge.com,94582,455 Watsonia Courtnan,San Ramon,Ca ,United States,Pacific Gas & Electric,Pwrgen IT,214-3-25T14::13,OSIsoft PI Manual Logger
+719,OSI11559,Karim Zaim,,415336778,kzaim@osisoft.com,,nannan,San Francisco,,United States,OSIsoft,,214-3-25T17:5:54,OSIsoft PI Manual Logger
+720,OSI183,Mark Nealis,918-573-243,,mark.nealis@williams.com,74133,One Williams Centernan,Tulsa,OK,United States,Williams,Manager Asset Performance & Benchmarking,214-3-26T12:36:1,OSIsoft PI Manual Logger
+721,OSI133,Kiko Castillo,6329813378,6329813378,francisco.castillo@mayniladwater.com.ph,115,"MWSS Compound, Katipunan Ave., BalaraMaynilad Water Services, in",Quezon City,M.Manila,Philippines,"Maynilad Water Services, inc.",SVP-CIO,214-3-26T13:15:53,OSIsoft PI Manual Logger
+722,OSI1747,Stephen Wu,3132354734,58699668,wus@dteenergy.com,48226,DTE Energy1 Energy Plaza,Detroit,MI,United States,DTE Energy,Engineer,214-3-26T1:8:38,OSIsoft PI Manual Logger
+723,OSI1189,Sven Batalla,+1 (78) 328-2415,,sven.batalla@industrialevolution.com,T5J 1V9,"18 Jasper Ave, Suite #111nan",Edmonton,Alberta,Canada,Industrial Evolution,Technical Director,214-3-25T17:2:15,OSIsoft PI Manual Logger
+724,OSI1761,Marvin Wong,437714861,,mwong@secure-energy.ca,T2P 2V7,"36, 25 5th Ave SWnan",Calgary,AB,Canada,Secure Energy Services,Operations Analyst Engineer,214-3-25T13:24:58,OSIsoft PI Manual Logger
+725,OSI15,Scott Larson,63-824-1721,63-432-3119,sdlarson@suncoke.com,6532,111 Wrrenville RdSuite 6,Lisle,IL,United States,SunCoke Energy,IT Systems Analyst,214-3-26T9:36:27,OSIsoft PI Manual Logger
+726,OSI1228,Eleonora Aliverti,39525994,,eleonora.aliverti@eni.com,297,VIA EMILIA 1nan,SAN DONATO MILANESE (MI),ITALY,Italy,Eni E&P,Technical Scientific Services fo Operations (IT project Leader),214-3-26T13:44:1,OSIsoft PI Manual Logger
+727,OSI1936,Roland Esquivel,714-837-6696,,resquivel@amway.com,9621,56 beach blvdnan,buena Park,california,United States,Amway,Manufacturing Systems Analyst,214-3-26T1:58:9,OSIsoft PI Manual Logger
+728,OSI11582,Janelle Minich,,4259858683,janelle@osisoft.com,,nannan,Snoqualmie,,United States,OSIsoft,"Manager, North American System Engineering",214-3-26T12:3:29,OSIsoft PI Manual Logger
+729,OSI1743,Sumanth Makunur,313 235 8713,,makunurs@dteenergy.com,48226,1 Energy Plazanan,Detroit,MI,United States,DTE Energy,Supervisor Engineering,214-3-26T1:8:35,OSIsoft PI Manual Logger
+730,OSI1112,Corbin Thomas,281-297-3636,,cthomas2783@gmail.com,77384,22 Teakwood Plnan,Conroe,TX,United States,Leidos,System Administration / Developer,214-3-26T11:3:37,OSIsoft PI Manual Logger
+731,OSI112,Rhonda Clendenon,,423-791-359,rclendenon@osisoft.com,,nannan,Johnson City,,United States,OSIsoft,,214-3-25T12:9:4,OSIsoft PI Manual Logger
+732,OSI1899,Jennifer Medina,(818)71-3323,,JMedina2@SempraUtilities.com,91311,94 Oakdale Ave.nan,Chatsworth,CA,United States,Southern California Gas Company,Engineering Technical Advisor,214-3-26T1:3:39,OSIsoft PI Manual Logger
+733,OSI1167,Barbara Lancaster,415-973-527,415-317-1862,bll2@pge.com,94117,77 Beale St.B16F,San Francisco,CA,United States,Pacific Gas and Electric Company,Sr Project Manager,214-3-26T1:39:1,OSIsoft PI Manual Logger
+734,OSI148,Richard D'Souza,146764257,7866568216,richard@terrasol.co.uk,AB51 5JR,Anvil CottageBurnhervie,Inverurie,Aberdeenshire,United Kingdom,TerraSol Limited,Director,214-3-26T1:23:48,OSIsoft PI Manual Logger
+735,OSI1138,David Mora,719-321-455,,rabrown@csu.org,893,71 E Las Vegas Stnan,Colorado Springs,CO,United States,Colorado Springs Utilities,ESL,214-3-26T13:36:46,OSIsoft PI Manual Logger
+736,OSI1693,Sekti Setiono,832854295,281975964,ssetion@chevron.com,772,15 Louisiana Street Floor 38thnan,Houston,Texas,United States,Chevron,Engineer,214-3-26T13:32:2,OSIsoft PI Manual Logger
+737,OSI1231,Leisa Gary,932376753,,ldgary@eastman.com,7567-7444,PO Box 7444nan,Longview,TX,United States,Eastman Chemical Company,Operations Computer Specialist,214-3-25T13:38:1,OSIsoft PI Manual Logger
+738,OSI1531,Wesley Smith,55-598-7676,51-449-9321,wesley.smith@pnm.com,87421,CR 68 NorthPNM,Waterflow,New Mexico,United States,Public Service Company of New Mexico,Controls Technician,214-3-26T11:52:24,OSIsoft PI Manual Logger
+739,OSI118,Brandon Giancola,7654487274,765418189,Brandon.Giancola@tateandlyle.com,4794,372 Tesla Drivenan,West Lafayette,Indiana,United States,Tate & Lyle,Process Controls Technologist,214-3-25T16:16:29,OSIsoft PI Manual Logger
+740,OSI1592,Matt Voll,217-451-3473,217-619-455,James.Voll@adm.com,62526,4666 East Faries Parkwaynan,Decatur,IL,United States,Archer Daniels Midland,Process Controls Optimization Engineer,214-3-26T13:59:17,OSIsoft PI Manual Logger
+741,OSI1496,Thony Valbrun,732-227-7736,,anthony.valbrun@bms.com,893,1 Squibb DriveB15-146,New Brunswick,NJ,United States,Bristol-Myers Squibb,Principal Business Capability Analyst,214-3-26T14:21:21,OSIsoft PI Manual Logger
+742,OSI1185,Rick Alvidrez,93-237-5181,,alvidrez@eastman.com,7567,PO Box 7444nan,Longview,Texas,United States,Eastman Chemical Company,Control System Technician,214-3-25T15:54:4,OSIsoft PI Manual Logger
+743,OSI1874,Steve Lyon,58-849-2854,,stephen.lyon@abbvie.com,165,1 Research Drivenan,Worcester,MA,United States,AbbVie,Principal Engineer,214-3-26T8:51:27,OSIsoft PI Manual Logger
+744,OSI1572,Cassie Murillo,914-847-384,67-342-2524,cassandra.murillo@regeneron.com,1591,777 Old Saw Mill River Roadnan,Tarrytown,NY,United States,Regeneron Pharmaceuticals,Process Development Engineer II,214-3-25T14:34:41,OSIsoft PI Manual Logger
+745,OSI1739,David Head,86 257-732,86 946-7698,david.head@xcelenergy.com,7931,97 CR 65nan,Earth,Texas,United States,Xcel Energy,Plant Superintendent,214-3-26T8:36:57,OSIsoft PI Manual Logger
+746,OSI11341,Steve Hofman,,6141345237,SteveH@osisoft.com,,nannan,North Sydney,,Australia,OSIsoft,Regional Manager - Oceania,214-3-25T18:12:51,OSIsoft PI Manual Logger
+747,OSI1533,Gus Green,(919) 993-137,(919) 274-6871,gus.green@biogenidec.com,2779,5 Davis Drnan,RTP,NC,United States,Biogen Idec,Sr. Automation Engineer,214-3-26T14:18:48,OSIsoft PI Manual Logger
+748,OSI134,James Woods,832-624-4769,,james.r.woods@exxonmobil.com,7792,44 Dacoma Stnan,Houston,TX,United States,ExxonMobil,Support Supervisor,214-3-25T14:1:43,OSIsoft PI Manual Logger
+749,OSI1169,Aimin Wang,925-415-6354,,a1wc@pge.com,94588,341 Crow Canyon Rdnan,San Ramon,CA,United States,Pacific Gas and Electric Company,Sr. Programmer,214-3-26T1:39:3,OSIsoft PI Manual Logger
+750,OSI1145,Matt McPheeters,538893211,53414926,m4m9@pge.com,9563,343 Sacramento stnan,Auburn,CA,United States,Pacific Gas and Electric Company,Sr. Hydrographer,214-3-26T13:53:11,OSIsoft PI Manual Logger
+751,OSI1941,Pierre Boutin,418-286-5231,418-284-3643,pierre.boutin@alcoa.com,G1W 3P9,"166, route de l'églisenan",Québec,Québec,Canada,Alcoa,"Program manager, GPM MES systems",214-3-26T8:51:34,OSIsoft PI Manual Logger
+752,OSI1372,Joe Hill,338883677,338883677,jhill@nobleenergyinc.com,853,7968 Liley Ctnan,Frederick,Colorado,United States,Noble Energy Inc.,Sr. Analyst Enterprise Systems,214-3-26T8:28:38,OSIsoft PI Manual Logger
+753,OSI143,Bruce Gordon,86-275-567,86-64-4624,gordobw@cpchem.com,797-968,Box 968 Philtex/Ryton PlantPrairie Street,Borger,Texas,United States,Chevron/Phillips Chemical Company LLP,Senior Process Control Specialist,214-3-25T17:2:2,OSIsoft PI Manual Logger
+754,OSI11361,Tjeerd Zwijnenberg,,31629347191,tzwijnenberg@osisoft.com,,nannan,Alkmaar,,Netherlands,OSIsoft,,214-3-26T12:3:27,OSIsoft PI Manual Logger
+755,OSI1926,Anthony Kaunehowen,48-257-349,48-257-349,akauenhowen@mhi.ca,R3P 1A3,211 Commerce Drivenan,Winnipeg,MB,Canada,Manitoba Hydro International,System Operations Specialist,214-3-26T14::57,OSIsoft PI Manual Logger
+756,OSI1545,Alain Lecours,5148762855,,alain.lecours@keops.com,H3B3A7,"1155 University, suite 11nan",Montréal,Québec,Canada,Keops Technologies,Project Lead,214-3-26T8:51:37,OSIsoft PI Manual Logger
+757,OSI1588,Uzma Taj,551-265-214,,Uzma.Taj@exeloncorp.com,855,5 Orly Ctnan,West Windsor,NJ,United States,ComEd,Engineer,214-3-25T15:3:15,OSIsoft PI Manual Logger
+758,OSI1595,Anh Hoang,281-719-9312,,anh.hoang@champ-tech.com,77545,313 FM 521nan,Fresno,Texas,United States,NALCO Champion,Process Control Engineer,214-3-25T14:8:,OSIsoft PI Manual Logger
+759,OSI1726,Jack Rao,661632148,7325138482,j.rao@chevron.com,9339,381 Ashe RdApt 63,Bakersfield,CA,United States,AvalonDev,Sr. Database Analyst,214-3-25T15:5:18,OSIsoft PI Manual Logger
+760,OSI1538,Uche Ejiogu,43-513-848,,uej@statoil.com,T2X 3B7,"36,38-4th ave SWnan",Calgary,Alberta,Canada,Statoil,Petroleum Technologist,214-3-25T15:17:55,OSIsoft PI Manual Logger
+761,OSI1591,Jonathan Moretti,1-217-451-4683,,Jonathan.Moretti@adm.com,62526,4666 Faries Parkwaynan,Decatur,IL,United States,Archer Daniels Midland,Process Information Administrator,214-3-26T13:59:16,OSIsoft PI Manual Logger
+762,OSI1619,Bob McIntyre,36-933-8556,36-23-777,bob.mcintyre@potashcorp.com,S7K7G,Suite 5122-1st Ave S,Saskatoon,Sask,Canada,PotashCorp,Sr Process Control Engineer,214-3-25T17:42:27,OSIsoft PI Manual Logger
+763,OSI11418,Jonathan Silvestre,,,jsilvestre@osisoft.com,,nannan,Potomac,,United States,OSIsoft,Center of Excellence Engineer,214-3-25T15:19:48,OSIsoft PI Manual Logger
+764,OSI1829,Alexandre Côté,514666636,514666636,alexandre.cote@mwgroup.net,H2Y2H4,485 McGill suite 1nan,Montréal,Québec,Canada,M+W Automation,Automation Engineer | Manufacturing IT,214-3-25T15:57:2,OSIsoft PI Manual Logger
+765,OSI121,Allison Ridenour,765-477-538,765-49-8629,allison.ridenour@tateandlyle.com,4795,33 US 52 Snan,Lafayette,IN,United States,Tate & Lyle,Document & System Administrator,214-3-25T16:16:31,OSIsoft PI Manual Logger
+766,OSI142,Gary Petersen,925-37-335,,gary.j.petersen@tsocorp.com,94553,Golden Eagle Refinery15 Solano Way,Martinez,California,United States,Tesoro,Senior Engineer,214-3-26T14:16:54,OSIsoft PI Manual Logger
+767,OSI1295,Chris Jardine,33228465,338622413,cjardine@nobleenergyinc.com,822,1625 Broadway Suite 22nan,Denver,CO,United States,Noble Energy Inc.,Sr. Enterprise Systems Analyst,214-3-26T12:9:12,OSIsoft PI Manual Logger
+768,OSI1278,Kimlin Pen,43-699-187,,kpen@spectraenergy.com,T2P3L8,"Suite 26, 425 1st Street SWnan",Calgary,AB,Canada,Spectra Energy,Information Architect,214-3-25T14:58:18,OSIsoft PI Manual Logger
+769,OSI1156,James Lisk,67-974-9658,67-329-548,liskjd@corning.com,14831,HP-ME-3-81nan,Corning,New York,United States,Corning Incorporated,Project Engineer,214-3-25T15:56:51,OSIsoft PI Manual Logger
+770,OSI1232,Robby Bridges,93-237-3637,,rbridges@eastman.com,7567,PO Box 7444Bldg 14,Longview,TX,United States,Eastman Chemical Company,Systems Technician,214-3-25T15:54:35,OSIsoft PI Manual Logger
+771,OSI164,Jim McKibbon,43 691 2223,,jim.mckibbon@shell.com,T2P 2H5,4 4th ave swnan,calgary,ab,Canada,Shell,Control and Automation Team Lead,214-3-25T17:3:5,OSIsoft PI Manual Logger
+772,OSI1783,Michel Briere,1-317-49-9947,,michel.briere@mwgroup.net,3247,118 Front Beach RDUnit 141,Panama City Beach,Florida,United States,M+W Automation,Director MIT ,214-3-25T16:6:37,OSIsoft PI Manual Logger
+773,OSI11478,Len Uronis,,239-27-99,Len@osisoft.com,,nannan,Naples,,United States,OSIsoft,Area Sales Manager - Florida,214-3-25T13:58:12,OSIsoft PI Manual Logger
+774,OSI156,Tyler Wipf,65-965-6428,,Tyler.Wipf@poet.com,5714,4615 N Lewis Avenan,Sioux Falls,SD,United States,POET,Data Systems Analyst,214-3-26T8:2:9,OSIsoft PI Manual Logger
+775,OSI11314,Caroline Hughes,+61 8 9282 9252,,chughes@osisoft.com,6,Perthnan,Perth,,Australia,OSIsoft,Escalation Engineer,214-3-25T13:6:38,OSIsoft PI Manual Logger
+776,OSI171,Alan Calder,435-781-5719,,acalder@deseretpower.com,8478,125 East 255 Southnan,Vernal,Utah,United States,Deseret Power,Electrical Engineer,214-3-26T14:25:27,OSIsoft PI Manual Logger
+777,OSI142,Scott Johnson,65-965-2297,65-261-8589,scott.johnson@poet.com,5714,4615 N Lewis Avenan,Sioux Falls,SD,United States,POET,Data Systems Administrator,214-3-26T8:2:7,OSIsoft PI Manual Logger
+778,OSI1646,Eric Wiseman,98 373 3613,98 722 575,eric.wiseman@duke-energy.com,28285,4 S. TryonMC ST 1134,Charlotte,NC,United States,Duke Energy,Lead IT Applications Analyst,214-3-25T16:54:37,OSIsoft PI Manual Logger
+779,OSI136,Mark Faith,6135754327,61419152864,mfaith@agl.com.au,3699,Kiewa Valley Highwaynan,Mount Beauty,Victoria,Australia,AGL,Engineer Reliability and Performance Systems,214-3-25T18:12:47,OSIsoft PI Manual Logger
+780,OSI1622,Peter King,9253723167,,peter.j.king@tsocorp.com,94553,"Golden Eagle Refinery15, Solano Way,",Matinez,Ca,United States,Tesoro,Control Systems Manager,214-3-26T14:16:56,OSIsoft PI Manual Logger
+781,OSI154,Salla Diop,215652149,,salla_diop@merck.com,19454,131 CHURCH ROAD Apt 1-Anan,NORTH WALES,PA,United States,Merck,Project Manager,214-3-26T11:17:34,OSIsoft PI Notifications
+782,OSI155,Chris Smelker,86275552,866268282,smelkca@cpchem.com,797,Spur 119 Eastnan,Borger,Texas,United States,Chevron/Phillips Chemical Company LLP,Control Engineer,214-3-26T8:28:,OSIsoft PI Notifications
+783,OSI112,David Bell,859985686,,david.bell@novelis.com,443,32 Mayde Rd.nan,Berea,KY,United States,Novelis,Engineering Leader,214-3-26T11:47:6,OSIsoft PI Notifications
+784,OSI1921,Jorge Bonomi,551155831525,551155831525,jbonomi@gruposcr.com.br,4316,Av. Pedro Severino Jr. 366 cj 164nan,Sao Paulo,SP,Brazil,SCR Tecnologia da Informacao,CIO,214-3-25T16:51:16,OSIsoft PI Notifications
+785,OSI1515,Jeff Edwards,817-785-89,,jeff.edwards@triencon.com,755,1 Post and PaddockSte 2,Grand Prairie,TX,United States,TSI Group/Triencon Services,Director,214-3-25T15:12:57,OSIsoft PI Notifications
+786,OSI11168,Darrol Weiss,438157456,438157456,darrol.weiss@calgary.ca,T2Y2X7,1665 56th ave swnan,Calgary,Alberta,Canada,City of Calgary,Control Systems Leader,214-3-26T1:32:24,OSIsoft PI Notifications
+787,OSI128,Derek Hernandez,719-668-914,,dchernandez@csu.org,891,PO Box 113nan,Colorado Springs,CO,United States,Colorado Springs Utilities,Systems and Database Sr,214-3-25T15:24:54,OSIsoft PI Notifications
+788,OSI1164,Bill Maulsby,97-292-2881,97-214-2893,bill.maulsby@woodgroup.com,8538,591 West 66th Stnan,Loveland,CO,United States,Wood Group,Sr. Infrastructure Engineer,214-3-25T13:9:,OSIsoft PI Notifications
+789,OSI13,Chris Seaman,(724) 337-2355,(724) 448-835,christopher.seaman@alcoa.com,1569,Alcoa Technical Center1 Technical Drive,Alcoa Center,PA,United States,Alcoa,Sr. Staff Engineer,214-3-25T17:27:46,OSIsoft PI Notifications
+790,OSI121,Donald Beverly,514 598-3256,,dbeverly@gazmetro.com,H2K 2X3,1717 du Havre Streetnan,Montreal,Quebec,Canada,Gaz Métro,Senior Advisor Renewable Energy,214-3-26T11:22:8,OSIsoft PI Notifications
+791,OSI1556,Anthony DeBiase,914847338,914847338,anthony.debiase@regeneron.com,1591,777 Old Saw Mill River Roadnan,Tarrytown,New York,United States,Regeneron Pharmaceuticals Inc,Process Development Engineer,214-3-26T11:12:56,OSIsoft PI Notifications
+792,OSI1329,Benji Capsuto,51439471,,benji.capsuto@sunpowercorp.com,9484,1414 Harbour Way Southnan,Richmond,CA,United States,SunPower,Engineer,214-3-25T16:34:47,OSIsoft PI Notifications
+793,OSI126,Richard Mueller,1313235583,,muellerrj@dteenergy.com,48226,1 Energy Plaza42 SB,Detroit,MI,United States,DTE Energy,Supervising Engineer - Power Systems Technology,214-3-25T14:7:3,OSIsoft PI Notifications
+794,OSI1674,Timi Sangsnit,595453289,53838165,timisangsnit@boiseinc.com,99363,31831 West Highway 12nan,Wallula,WA,United States,"Boise Paper, a Packaging Corporation of America Company",Technology Resources Manager,214-3-26T1:21:5,OSIsoft PI Notifications
+795,OSI148,Richard D'Souza,146764257,7866568216,richard@terrasol.co.uk,AB51 5JR,Anvil CottageBurnhervie,Inverurie,Aberdeenshire,United Kingdom,TerraSol Limited,Director,214-3-26T1:46:56,OSIsoft PI Notifications
+796,OSI1138,David Mora,719-321-455,,rabrown@csu.org,893,71 E Las Vegas Stnan,Colorado Springs,CO,United States,Colorado Springs Utilities,ESL,214-3-26T13:54:45,OSIsoft PI Notifications
+797,OSI1886,Dan King,4126755413,4124961487,DJKing1@uss.com,15642,116 Reed Stnan,Irwin,PA,United States,United States Steel Corperation,Process Control Engineer,214-3-26T13:9:33,OSIsoft PI Notifications
+798,OSI184,Nick Merolli,(912) 238-6358,(912) 38-1947,nick.merolli@azchem.com,3142,P.O. Box 2668nan,Savannah,GA,United States,Arizona Chemical,Project Manager,214-3-26T14:6:1,OSIsoft PI Notifications
+799,OSI1531,Wesley Smith,55-598-7676,51-449-9321,wesley.smith@pnm.com,87421,CR 68 NorthPNM,Waterflow,New Mexico,United States,Public Service Company of New Mexico,Controls Technician,214-3-25T15:33:58,OSIsoft PI Notifications
+800,OSI126,Mark Mays,343573282,,mmays@nisource.com,25314,17 MacCorkle Ave SEnan,Charleston,WV,United States,Columbia Pipeline Group,Sr Engineer,214-3-25T16:18:23,OSIsoft PI Notifications
+801,OSI1298,Charles Chen,886-3-5995899,886-926-251716,charleschen@unimicron.com,34,"No.29, Chung-Lun Village, Hsin-Feng, Hsinchunan",Hsinchu,Taiwan,Taiwan,Unimicron Technology Gorp.,Information Technology Senior Assistant Manager,214-3-25T14:55:9,OSIsoft PI Notifications
+802,OSI143,Bruce Gordon,86-275-567,86-64-4624,gordobw@cpchem.com,797-968,Box 968 Philtex/Ryton PlantPrairie Street,Borger,Texas,United States,Chevron/Phillips Chemical Company LLP,Senior Process Control Specialist,214-3-25T14:4:33,OSIsoft PI Notifications
+803,OSI1253,Anny Chang,886223452366221,8869171691,anny_chang@provision.com.tw,11,"4F, No.56, Sec.4, Jhongsiao E. RDnan",TAIPEI,TAIPEI,Taiwan,"Provision Information Co., Ltd",Sales Manager,214-3-25T14:55:14,OSIsoft PI Notifications
+804,OSI1588,Uzma Taj,551-265-214,,Uzma.Taj@exeloncorp.com,855,5 Orly Ctnan,West Windsor,NJ,United States,ComEd,Engineer,214-3-25T15:45:26,OSIsoft PI Notifications
+805,OSI1878,Mariana Freitas,+55 42 3234-8645,+55 42 983-22,mariana_freitas@cargill.com,84.174-15,Rod PR 9 KM 115 S/Nnan,Castro,PR,Brazil,Cargill,Project Analyst,214-3-25T16:51:14,OSIsoft PI Notifications
+806,OSI1287,Christian Gruber,4946324736,49177361549,christian.c.h.gruber@shell.com,22335,Suhrenkamp 71-77nan,Hamburg,Hamburg,Germany,Shell,Solution Architect,214-3-26T11:8:,OSIsoft PI Notifications
+807,OSI172,Marion Hernandez,719-668-8979,,rkurkowski@csu.org,8817,6598 Ray Nixon Rd nan,Fountain,CO,United States,Colorado Springs Utilities,Project Manager,214-3-25T15:24:56,OSIsoft PI Notifications
+808,OSI1625,Bruce Swanson,28-384-752,,bruceswanson@boiseinc.com,83728,1111 W. Jeffersonnan,Boise,ID,United States,PCA,,214-3-26T1:21:53,OSIsoft PI Notifications
+809,OSI11523,James Wong,,,jwong@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,Software Developer,214-3-25T12:8:44,OSIsoft PI Notifications
+810,OSI1646,Eric Wiseman,98 373 3613,98 722 575,eric.wiseman@duke-energy.com,28285,4 S. TryonMC ST 1134,Charlotte,NC,United States,Duke Energy,Lead IT Applications Analyst,214-3-25T16:29:1,OSIsoft PI Notifications
+811,OSI148,Amy Konat,661-292-392,,byih@chevron.com,93311,9525 Camino Medianan,Bakersfield,CA,United States,Chevron,Business Analyst,214-3-26T13:35:23,OSIsoft PI ProcessBook
+812,OSI1828,John Ewald,313-235-3541,,ewaldj@dteenergy.com,48226,1 Energy Plazanan,Detroit,MI,United States,DTE Energy,Senior Engineer,214-3-25T16:54:19,OSIsoft PI ProcessBook
+813,OSI1528,Tero Hakala,358248317,,tero.hakala@metso.com,3311,Lentokentänkatu 11nan,Tampere,Häme,Finland,Metso Automation,Development Manager,214-3-25T17:15:48,OSIsoft PI ProcessBook
+814,OSI17,Tracy Harper,414737,,tracy.l.harper@constellation.com,21226-1746,15 Brandon Shores Roadnan,Baltimore,MD,United States,Exelon Corporation,Engineering Analyst,214-3-25T17:29:,OSIsoft PI ProcessBook
+815,OSI151,Manuela Echavarria,56 392 4371,56 612 92,manuela.echavarria@mccain.ca,E7L 4A7,215 Lansdowne Rdnan,Peel,New Brunswick,Canada,McCain Foods Ltd.,Developer II,214-3-26T14:15:13,OSIsoft PI ProcessBook
+816,OSI11126,Erik Durocher,26 898-7758,,erikdurocher@yahoo.com,9219,473 Noyes St. # 45,San Diego,CA,United States,EGD,Partner Manager,214-3-25T17:1:55,OSIsoft PI ProcessBook
+817,OSI1515,Jeff Edwards,817-785-89,,jeff.edwards@triencon.com,755,1 Post and PaddockSte 2,Grand Prairie,TX,United States,TSI Group/Triencon Services,Director,214-3-25T14:25:39,OSIsoft PI ProcessBook
+818,OSI11392,Michael Ferster,,717-395-249,mferster@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,,214-3-26T1:21:35,OSIsoft PI ProcessBook
+819,OSI11392,Michael Ferster,,717-395-249,mferster@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,,214-3-26T11:26:5,OSIsoft PI ProcessBook
+820,OSI1542,Herb Falk,+1-586-254-2,,herb@sisconet.com,48314,665 19-1/2 Mile Roadnan,Sterling Heights,MI,United States,SISCO,Solutions Architect,214-3-25T15:36:11,OSIsoft PI ProcessBook
+821,OSI1375,Doug Tremblay,566353961,,tremblay.doug@irvingpulp.com,E2L5B6,PO Box 5666nan,Saint John,NB,Canada,Irving Tissue Company,ICT,214-3-25T17:9:47,OSIsoft PI ProcessBook
+822,OSI11519,Craig Torpey,,,ctorpey@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,,214-3-26T1:21:31,OSIsoft PI ProcessBook
+823,OSI1258,Steve Tran,367993,367993,nataliya.dvorak@meragroup.net,S4S7J7,195-1 Research Drivenan,Regina ,Saskatchewan,Canada,Mera,Senior Project Engineer,214-3-26T12:28:56,OSIsoft PI ProcessBook
+824,OSI177,Loyda Zambrano,143691294,143667955,loyda.zambrano@shell.com,T3H5T9,23 West Cedar PL SWnan,Calgary,AB,Canada,Shell ,Business Analyst,214-3-26T12:2:21,OSIsoft PI ProcessBook
+825,OSI126,Richard Mueller,1313235583,,muellerrj@dteenergy.com,48226,1 Energy Plaza42 SB,Detroit,MI,United States,DTE Energy,Supervising Engineer - Power Systems Technology,214-3-25T15:17:15,OSIsoft PI ProcessBook
+826,OSI1453,Rick Smith,513-248-6222,,richard.smithjr@ipaper.com,4515,6285 Tri-Ridge Blvdnan,Loveland,Ohio,United States,International Paper,Process Information Manager,214-3-26T8:25:38,OSIsoft PI ProcessBook
+827,OSI15,Scott Larson,63-824-1721,63-432-3119,sdlarson@suncoke.com,6532,111 Wrrenville RdSuite 6,Lisle,IL,United States,SunCoke Energy,IT Systems Analyst,214-3-25T13:46:11,OSIsoft PI ProcessBook
+828,OSI1644,Tom Albrecht,48-34-4681,,talbrecht@calera.com,9532,1 Albright WaySuite A,Los Gatos,CA,United States,Calera Corporation,Scientist,214-3-25T16:54:15,OSIsoft PI ProcessBook
+829,OSI1353,Matthew Bailey,974617546,,mbailey@wapa.gov,8538,5555 East Crossroads BLVDnan,Loveland,Co,United States,DOE - WAPA,EMS Systems Engineer,214-3-26T13:53:22,OSIsoft PI ProcessBook
+830,OSI1743,Sumanth Makunur,313 235 8713,,makunurs@dteenergy.com,48226,1 Energy Plazanan,Detroit,MI,United States,DTE Energy,Supervisor Engineering,214-3-25T16:54:16,OSIsoft PI ProcessBook
+831,OSI1296,Ian Rivett,36-79-93,,ian.rivett@meragroup.net,S4S 7J7,195-1 Research Drivenan,Regina,Saskatchewan,Canada,Mera,Project Engineer,214-3-26T11:18:58,OSIsoft PI ProcessBook
+832,OSI1167,Barbara Lancaster,415-973-527,415-317-1862,bll2@pge.com,94117,77 Beale St.B16F,San Francisco,CA,United States,Pacific Gas and Electric Company,Sr Project Manager,214-3-25T16:31:43,OSIsoft PI ProcessBook
+833,OSI1299,Tim Heck,419-619-8115,,teheck@marathonpetroleum.com,4584,539 S. Main Streetnan,Findlay,OH,United States,Marathon Petroleum,Adv IT Systems Integrator,214-3-26T12:31:29,OSIsoft PI ProcessBook
+834,OSI1512,James Wardlaw,252-533-6212,252-532-173,james.wardlaw@kapstonepaper.com,27822,1 Gaston Roadnan,Roanoke Rapids,NC,United States,KapStone Paper,Application Analyst,214-3-26T1:28:48,OSIsoft PI ProcessBook
+835,OSI1886,Dan King,4126755413,4124961487,DJKing1@uss.com,15642,116 Reed Stnan,Irwin,PA,United States,United States Steel Corperation,Process Control Engineer,214-3-26T13:23:21,OSIsoft PI ProcessBook
+836,OSI1427,Brian Heritage,43-651-7311,43-651-7311,Brian.Heritage@streamlinecontrol.com,T2J 4S3,216 Queen Anne Place SEnan,Calgary,Alberta,Canada,Streamline Control Solutions,Senior Consultant,214-3-26T1:48:25,OSIsoft PI ProcessBook
+837,OSI1259,Christine Frazier-Hollins,713-432-6127,713-257-762,CFrazierHollins@chevron.com,7741,48 Fournace Placenan,Bellaire,TX,United States,Chevron,Operations Engineer,214-3-26T13:52:9,OSIsoft PI ProcessBook
+838,OSI1149,Ryan McErlean,,856-34-2494,rmcerlean@osisoft.com,1913,nannan,Philadelphia,,United States,OSIsoft,Tech Support Escalation Engineer,214-3-25T13:48:3,OSIsoft PI ProcessBook
+839,OSI1149,Ryan McErlean,,856-34-2494,rmcerlean@osisoft.com,1913,nannan,Philadelphia,,United States,OSIsoft,Tech Support Escalation Engineer,214-3-26T1:21:39,OSIsoft PI ProcessBook
+840,OSI11574,Julie Fuchs,,,jfuchs@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,,214-3-25T12:39:49,OSIsoft PI ProcessBook
+841,OSI1331,Asle Frantzen,4755527823,4795859162,asle.frantzen@amitec.no,5257,Kokstaddalen 4nan,Kokstad,Hordaland,Norway,Amitec,Sr. Software Engineer,214-3-26T11:4:2,OSIsoft PI ProcessBook
+842,OSI151,Mary Bellinger,336-941-3218,713-443-8538,mnbellinger@sinclairoil.com,276,119 Sycamore Commons Lanenan,Bermuda Run,NC,United States,Sinclair Oil,Project Systems Analyst,214-3-25T16:32:1,OSIsoft PI ProcessBook
+843,OSI1975,Tim Presar,419-226-2584,419-231-328,tim.presar@huskyenergy.com,4584,115 S. Metcalf St.nan,Lima,OH,United States,Husky Lima Refinery,Programmer/Analyst,214-3-25T15:22:16,OSIsoft PI ProcessBook
+844,OSI117,Billy Bonner,318338523,,wbonner@entergy.com,71291,291 Cypress Stnan,West Monroe,LA,United States,Leidos,Software Developer,214-3-25T16:57:23,OSIsoft PI ProcessBook
+845,OSI117,Billy Bonner,318338523,,wbonner@entergy.com,71291,291 Cypress Stnan,West Monroe,LA,United States,Leidos,Software Developer,214-3-26T8:44:17,OSIsoft PI ProcessBook
+846,OSI1159,Kevin Geneva,21566791,2152646537,kgeneva@osisoft.com,1913,17 Market StreetSuite 22,Philadelphia,,United States,OSIsoft,Customer Support Engineer,214-3-25T12:58:15,OSIsoft PI ProcessBook
+847,OSI1169,Aimin Wang,925-415-6354,,a1wc@pge.com,94588,341 Crow Canyon Rdnan,San Ramon,CA,United States,Pacific Gas and Electric Company,Sr. Programmer,214-3-25T16:31:33,OSIsoft PI ProcessBook
+848,OSI1731,Syed Mehdi,4252146113,,syedm@microsoft.com,94539,4398 San Sebastian Placenan,Fremont,CA,United States,Microsoft,Application Development Manager,214-3-25T13:5:56,OSIsoft PI ProcessBook
+849,OSI1297,Niall Wilson,36-79-93,,niall.wilson@meragroup.net,S4S 7J7,195-1 Research Drivenan,Regina,Saskatchewan,Canada,Mera,Project Engineer,214-3-26T12:28:59,OSIsoft PI ProcessBook
+850,OSI1843,Kevin Swain,857-31-5312,,kswain@firstwind.com,2111,179 Lincoln StSuite 5,Boston,Massachusettes,United States,First Wind,Business Intelligence Analyst,214-3-26T11:5:16,OSIsoft PI ProcessBook
+851,OSI1454,Jason Nunez,858-521-3489,,Jason.Nunez@edf-re.com,92128,15445 Innovation Drivenan,San Diego,CA,United States,EDF Renewable Energy,PI Development Engineer,214-3-25T13:39:6,OSIsoft PI ProcessBook
+852,OSI1595,Anh Hoang,281-719-9312,,anh.hoang@champ-tech.com,77545,313 FM 521nan,Fresno,Texas,United States,NALCO Champion,Process Control Engineer,214-3-25T13:54:8,OSIsoft PI ProcessBook
+853,OSI1595,Anh Hoang,281-719-9312,,anh.hoang@champ-tech.com,77545,313 FM 521nan,Fresno,Texas,United States,NALCO Champion,Process Control Engineer,214-3-25T13:59:45,OSIsoft PI ProcessBook
+854,OSI1619,Bob McIntyre,36-933-8556,36-23-777,bob.mcintyre@potashcorp.com,S7K7G,Suite 5122-1st Ave S,Saskatoon,Sask,Canada,PotashCorp,Sr Process Control Engineer,214-3-25T17:5:39,OSIsoft PI ProcessBook
+855,OSI1354,Marci Riddle,(97)461-7422,,riddlem@wapa.gov,8538,5555 E. Crossroads Blvd.nan,Loveland,CO,United States,Western Area Power Administration,IT Specialist/Historian Administrator,214-3-26T13:53:28,OSIsoft PI ProcessBook
+856,OSI1356,Borre Heggernes,4791395525,,borre.heggernes@amitec.no,456,Estervegen 18nan,TANANGER,Rogaland,Norway,Amitec,CTO,214-3-26T1:52:22,OSIsoft PI ProcessBook
+857,OSI1949,Hervé Delesalle,+33 559 83 68 51,+66 646 44 3 81,herve.delesalle@total.com,6418,Avenue Larribaunan,PAU,Aquitaine,France,TOTAL,IS Architect,214-3-26T1:2:58,OSIsoft PI ProcessBook
+858,OSI1477,Cyndi Bourne,143691479,,cyndi.bourne@shell.com,T2P 2H5,4 4th Avenue SWnan,Calgary,Alberta,Canada,Shell,PI Center of Excellence,214-3-26T12:2:18,OSIsoft PI ProcessBook
+859,OSI1278,Kimlin Pen,43-699-187,,kpen@spectraenergy.com,T2P3L8,"Suite 26, 425 1st Street SWnan",Calgary,AB,Canada,Spectra Energy,Information Architect,214-3-26T9:49:33,OSIsoft PI ProcessBook
+860,OSI1145,Dave Hollebeek,,61982632,djhbeek@yahoo.com,,nannan,King of Prussia,,United States,OSIsoft,,214-3-25T12:28:33,OSIsoft PI ProcessBook
+861,OSI1145,Dave Hollebeek,,61982632,djhbeek@yahoo.com,,nannan,King of Prussia,,United States,OSIsoft,,214-3-25T12:4:35,OSIsoft PI ProcessBook
+862,OSI15,Marisol Ortega,(56)3922997,,marisol.ortega@mccain.ca,E7L 3G2,886 Main Streetnan,Florenceville-Bristol,NB,Canada,McCain Foods Ltd.,Business Analyst,214-3-25T16:3:1,OSIsoft PI ProcessBook
+863,OSI11444,Dan McGovern,,2152842358,dmcgovern@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,,214-3-25T14:4:52,OSIsoft PI ProcessBook
+864,OSI11444,Dan McGovern,,2152842358,dmcgovern@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,,214-3-26T1:39:38,OSIsoft PI ProcessBook
+865,OSI11497,Eric Lang,,,elang@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,,214-3-26T11:34:5,OSIsoft PI ProcessBook
+866,OSI115,Joe Couchara,215-66-641,,jcouchara@osisoft.com,1913,17 Market StSuite 221,Philadelphia,,United States,OSIsoft,Software Test Engineer,214-3-25T17:39:55,OSIsoft PI ProcessBook
+867,OSI158,Philipp Sutter,+41 61 271 8283,,philipp.sutter@octavesoft.ch,452,Malzgasse 15nan,Basel,BS,Switzerland,OctaveSoft GmbH,Owner,214-3-25T17:33:4,OSIsoft PI ProcessBook
+868,OSI11771,Nader Riad,8541514,8541514,nader_riad@baxter.com,9132,17 rancho conejonan,thousand oaks,CA,United States,Baxter Healthcare,Engineer,214-3-25T14:56:56,OSIsoft PI ProcessBook
+869,OSI333,Dararith Long,,,dlong@osisoft.com,,nannan,,,,OSIsoft,,214-3-26T9:51:46,OSIsoft PI ProcessBook
+870,OSI11538,Chris Johnson,281-92-6181,361-676-1855,cjohnson@osisoft.com,7779,1471 Saint Marys LaneSuite 6,Houston,,United States,OSIsoft,Account Manager,214-3-25T12:43:54,OSIsoft Product Expo (OSIsoft)
+871,OSI11483,Diane Bricco,,51275861,dbricco@osisoft.com,,nannan,Gladstone,,United States,OSIsoft,Enterprise Project Manager,214-3-25T15:49:14,OSIsoft Product Expo (OSIsoft)
+872,OSI1131,Steve Kwan,,775-79-5631,skwan@osisoft.com,,nannan,San Leandro,,United States,OSIsoft,Product Manager,214-3-25T12:24:4,OSIsoft Product Expo (OSIsoft)
+873,OSI11251,Laurent Garrigues,,+1 514 994 2884,lgarrigues@osisoft.com,,nannan,Montreal,,Canada,OSIsoft,,214-3-25T12:43:34,OSIsoft Product Expo (OSIsoft)
+874,OSI132,Christine Maul,1 281 383 6932,1 713 2946297,christine.maul@bayer.com,77523,85 West Bay Rdnan,Baytown,Texas,United States,Bayer MaterialScience,Head of Process Automation,214-3-25T15:55:38,OSIsoft Product Expo (OSIsoft)
+875,OSI1231,Leisa Gary,932376753,,ldgary@eastman.com,7567-7444,PO Box 7444nan,Longview,TX,United States,Eastman Chemical Company,Operations Computer Specialist,214-3-25T13:21:58,OSIsoft Product Expo (OSIsoft)
+876,OSI11199,Michael Sloves,,856-296-3492,msloves@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,,214-3-25T18:8:45,OSIsoft Product Expo (OSIsoft)
+877,OSI11228,Chuck Thompson,,+1-925-98-7867,chuck@osisoft.com,,nannan,"Newark, Ohio",,United States,OSIsoft,,214-3-25T1:59:38,OSIsoft Product Expo (OSIsoft)
+878,OSI1164,Gregg Le Blanc,,,gleblanc@osisoft.com,94577,nannan,San Leandro,,United States,OSIsoft,OSisoft Research,214-3-26T13:21:49,Search (OSIsoft)
+879,OSI1249,Jason Cox,312582126,,jcox@invenergyllc.com,6148,192 Springer Drivenan,Lombard,Illinois,United States,Invenergy LLC,SCADA Administrator,214-3-26T9:57:9,Search (OSIsoft)
+880,OSI1885,Trent Boudreaux,337231418,3372889492,trent.boudreaux@cse-icon.com,751,1 Central StreetSuite 1,Lafayette,Louisiana,United States,CSE ICON,Technical Authority,214-3-26T14:16:58,Search (OSIsoft)
+881,OSI182,Rui Sun,84-257-4978,84-363-8554,rui.sun@dom.com,2322,24 Grayland Ave.nan,Richmond,VA,United States,Dominion Virginia Power,Engineer III,214-3-25T15:33:53,Search (OSIsoft)
+882,OSI1542,Herb Falk,+1-586-254-2,,herb@sisconet.com,48314,665 19-1/2 Mile Roadnan,Sterling Heights,MI,United States,SISCO,Solutions Architect,214-3-25T16:7:14,Search (OSIsoft)
+883,OSI1916,Ed Smits,316158143,,eduard.smits@accenture.com,182MA,Gustav Mahlerplein 9nan,Amsterdam,NH,Netherlands,Accenture,MES Lead TGP,214-3-26T11:45:52,Search (OSIsoft)
+884,OSI127,Juan Senquiz,787-716-4872,787-316-7583,jsenquiz@jcapr.com,792,Suite 117 Box 851nan,Humacao,PR,Puerto Rico,"JC Automation, Corp.",Principal,214-3-25T15:17:5,Search (OSIsoft)
+885,OSI1245,Dave Monsibais,661-615-4613,,dfmonsibais@sycamore.com,9338,P.O. Box 8598nan,Bakersfield,CA,United States,Sycamore Cogeneration,PI Systems Administrator,214-3-26T8:51:31,Search (OSIsoft)
+886,OSI1146,Hoon Chew Toh,832 571 629,,hoon_chew@w-industries.com,77381,2645 Technology Forest Blvdnan,Spring,TX,United States,CSE ICON,Business Development Director,214-3-26T14:17:,Search (OSIsoft)
+887,OSI1169,Aimin Wang,925-415-6354,,a1wc@pge.com,94588,341 Crow Canyon Rdnan,San Ramon,CA,United States,Pacific Gas and Electric Company,Sr. Programmer,214-3-26T14:28:44,Search (OSIsoft)
+888,OSI139,Susan Stoner,42-563-5446,42-91-4545,skstone@nppd.com,6862-499,1414 15th St.PO BOX 499,Columbus,Nebraska,United States,Nebraska Public Power District,Distribution Planning Engineer,214-3-26T8:1:45,Search (OSIsoft)
+889,OSI1726,Jack Rao,661632148,7325138482,j.rao@chevron.com,9339,381 Ashe RdApt 63,Bakersfield,CA,United States,AvalonDev,Sr. Database Analyst,214-3-25T16:57:38,Search (OSIsoft)
+890,OSI11275,Alton Loe,,425-922-4323,alton@osisoft.com,,nannan,Seattle,,United States,OSIsoft,Director,214-3-26T11:5:45,Search (OSIsoft)
+891,OSI1836,Jon Abbott,842574925,,jona63@dom.com,2322,24 grayland avenan,Richmond,va,United States,Dominion Virginia Power,Systems Analyst Specialist,214-3-25T15:7:29,Search (OSIsoft)
+892,OSI1246,Jackie Bell,661-615-4756,,jrbell@sycamore.com,9338,P.O. Box 8598nan,Bakersfield,CA,United States,Sycamore Cogeneration,Developer,214-3-26T8:51:27,Search (OSIsoft)
+893,OSI11427,Chad Chisholm,,48294527,chad@osisoft.com,,nannan,Phoenix,,United States,OSIsoft,Development Lead,214-3-25T12:23:3,Search (OSIsoft)
+894,OSI11427,Chad Chisholm,,48294527,chad@osisoft.com,,nannan,Phoenix,,United States,OSIsoft,Development Lead,214-3-25T14:1:52,Search (OSIsoft)
+895,OSI142,Scott Johnson,65-965-2297,65-261-8589,scott.johnson@poet.com,5714,4615 N Lewis Avenan,Sioux Falls,SD,United States,POET,Data Systems Administrator,214-3-26T11:16:12,Search (OSIsoft)
+896,OSI1744,James Simonetti,31484269,,jsimonetti@pepco.com,2817,1611 Westlake Drivenan,Bethesda,Md,United States,"Pepco Holdings, Inc",Systems Architect,214-3-25T14:45:17,WebAPI (OSIsoft)
+897,OSI1122,Vincent Devine,97-266-8551,,jvdevine@process-innovations.net,8526,2519 S Shields St #166nan,Fort Collins,CO,United States,Process Plugins Inc,Application Engineer,214-3-25T17:11:52,WebAPI (OSIsoft)
+898,OSI1586,Chuck Alonge,518-356-6248,,calonge@nyiso.com,12144,1 Krey Boulevardnan,Rensselaer,NY,United States,NYISO,Senior Software Developer,214-3-26T14:19:58,WebAPI (OSIsoft)
+899,OSI1237,Andre Alexander,7134322952,,andre.alexander@chevron.com,7741,48 FOURNACE PLnan,Bellaire,TX,United States,Chevron,Advanced Analytics Team Leader,214-3-26T9:5:2,WebAPI (OSIsoft)
+900,OSI1176,Michael Larimer,2166945311,2166945311,michael.larimer@cliffsnr.com,44144,2 Public Squarenan,Cleveland,Ohio,United States,"Cliffs Natural Resources, Inc.",Sr. IT/OT Operational Analyst/Developer,214-3-26T8:39:43,WebAPI (OSIsoft)
+901,OSI11392,Michael Ferster,,717-395-249,mferster@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,,214-3-25T16:48:59,WebAPI (OSIsoft)
+902,OSI118,Brendan Bell,34 55 7438,34 55 7438,brendanbell@nisource.com,2534,17 MacCorkle Avenan,Charleston,wv,United States,Columbia Pipeline Group,Sr Technical Reliability Consultant,214-3-25T15:39:23,WebAPI (OSIsoft)
+903,OSI1464,Esteban Lugo,52 686 5615622,,elugo@vitro.com,21399,Calzada Industrial Palaco No 215Colonia Dos Division 2,Mexicali,Baja California,Mexico,Vitro,Electrical Engineer,214-3-26T13:47:33,WebAPI (OSIsoft)
+904,OSI126,Richard Mueller,1313235583,,muellerrj@dteenergy.com,48226,1 Energy Plaza42 SB,Detroit,MI,United States,DTE Energy,Supervising Engineer - Power Systems Technology,214-3-25T15:1:44,WebAPI (OSIsoft)
+905,OSI113,Chilkoot Ward,97-474-568,,cbward@alaska.edu,99775-742,82 Alumni DriveBox 75742,Fairbanks,AK,United States,University of Alaska Fairbanks,Director of Utilities,214-3-25T17:39:59,WebAPI (OSIsoft)
+906,OSI1441,Ricardo Gonzalez,52 686 5615621,,rgonzalezc@vitro.com,216,Calzada Industrial Palaco No. 215Colonia Dos Division 2,Mexicali,Baja California,Mexico,Vitro,ELectrical Enginner,214-3-26T13:47:31,WebAPI (OSIsoft)
+907,OSI1761,Marvin Wong,437714861,,mwong@secure-energy.ca,T2P 2V7,"36, 25 5th Ave SWnan",Calgary,AB,Canada,Secure Energy Services,Operations Analyst Engineer,214-3-25T13:28:11,WebAPI (OSIsoft)
+908,OSI1936,Roland Esquivel,714-837-6696,,resquivel@amway.com,9621,56 beach blvdnan,buena Park,california,United States,Amway,Manufacturing Systems Analyst,214-3-26T11:42:51,WebAPI (OSIsoft)
+909,OSI1128,Joe Kasper,72-942-3398,,joseph_kasper@fmi.com,8438,1746 County Rd 22nan,Empire,CO,United States,"Freeport-McMoRan, Inc.",Applications Analyst/Programmer,214-3-25T13:46:31,WebAPI (OSIsoft)
+910,OSI142,Francois Ruel,713-372-544,832-763-8266,fruel@chevron.com,772,14 Smith avenan,Houston,Texas,United States,Chevron,Control System Engineer,214-3-26T9:26:52,WebAPI (OSIsoft)
+911,OSI1169,Aimin Wang,925-415-6354,,a1wc@pge.com,94588,341 Crow Canyon Rdnan,San Ramon,CA,United States,Pacific Gas and Electric Company,Sr. Programmer,214-3-25T14:37:19,WebAPI (OSIsoft)
+912,OSI192,Michael Saucier,925-218-6983,62-315-413,michael@transpara.com,8586,3825 W Anthem WayUnit 311,Phoenix,AZ,United States,Transpara,CEO,214-3-25T14:22:17,WebAPI (OSIsoft)
+913,OSI11414,Mark Browning,,617-276-6865,mbrowning@osisoft.com,,nannan,Philadelphia,,United States,OSIsoft,,214-3-25T12:18:14,WebAPI (OSIsoft)
+914,OSI183,Tao Xia,(84)257-4851,,Tao.Xia@dom.com,2322,24 Grayland Avenuenan,Richmond,VA,United States,Dominion Virginia Power,Engineer,214-3-25T15:28:8,WebAPI (OSIsoft)
+915,OSI1356,Borre Heggernes,4791395525,,borre.heggernes@amitec.no,456,Estervegen 18nan,TANANGER,Rogaland,Norway,Amitec,CTO,214-3-26T8:36:45,WebAPI (OSIsoft)
+916,OSI1846,David Jacob,99-793-2853,21-241-5185,djacob@esri.com,92373,38 New York Streetnan,Redlands,CA,United States,Esri,Solution Engineer,214-3-26T8:28:31,WebAPI (OSIsoft)
+917,OSI1836,Jon Abbott,842574925,,jona63@dom.com,2322,24 grayland avenan,Richmond,va,United States,Dominion Virginia Power,Systems Analyst Specialist,214-3-26T8:38:55,WebAPI (OSIsoft)
+918,OSI1246,Jackie Bell,661-615-4756,,jrbell@sycamore.com,9338,P.O. Box 8598nan,Bakersfield,CA,United States,Sycamore Cogeneration,Developer,214-3-25T13:46:29,WebAPI (OSIsoft)
+919,OSI111,John Doncsecz,61-774-588,,jtdoncsecz@pplweb.com,1811,2 N 9th Streetnan,Allentown,PA,United States,PPL,IT Infrastructure Engineer,214-3-25T14:21:44,WebAPI (OSIsoft)
+920,OSI154,Li Luo,324544392,,li.luo@pepcoholdings.com,19714,PO Box 923979NC35,Newark,DE,United States,"Pepco Holdings, Inc",Sr. Systems Architect,214-3-26T11:2:13,WebAPI (OSIsoft)
+921,OSI167,Tom Pardue,423-229-2938,423-3841896,tpardue@eastman.com,3766,B-2841 Eastman Road,Kingsport ,Tennessee ,United States,Eastman Chemical Company,Systems Analyst,214-3-25T15:36:4,WebAPI (OSIsoft)
+922,OSI1563,Steven Ho,2812637983,,steven.ho@nalco.com,77496,PO Box 18181nan,Sugar Land,Texas,United States,Ecolab,Plant Engineer,214-3-26T9:3:1,WebAPI (OSIsoft)
+923,OSI158,Philipp Sutter,+41 61 271 8283,,philipp.sutter@octavesoft.ch,452,Malzgasse 15nan,Basel,BS,Switzerland,OctaveSoft GmbH,Owner,214-3-25T17:24:28,WebAPI (OSIsoft)
+924,OSI11761,Gary Grimes,562-531-26,949-93-4112,ggrimes@ppcla.com,9723,147 Downey Avenan,Paramount,CA,United States,Paramount Petroleum,Director of Technology,214-3-26T13:53:1,WebAPI (OSIsoft)
+925,OSI339,Simon Hanson,,,shanson@osisoft.com,,nannan,,,Uninted Kingdom,OSIsoft,,214-3-26T13:39:43,WebAPI (OSIsoft)
+926,OSI148,Amy Konat,661-292-392,,byih@chevron.com,93311,9525 Camino Medianan,Bakersfield,CA,United States,Chevron,Business Analyst,214-3-26T13:4:3,WebParts (OSIsoft)
+927,OSI1819,Frank Seguin,75-267-8777,75-266-4221,frank.seguin@glencore-ca.com,P4N 7K1,"P.O. Bag 22, Stn Mainnan",Timmins,Ontario,Canada,Glencore Canada,IT Superintendent,214-3-25T14:27:14,WebParts (OSIsoft)
+928,OSI1828,John Ewald,313-235-3541,,ewaldj@dteenergy.com,48226,1 Energy Plazanan,Detroit,MI,United States,DTE Energy,Senior Engineer,214-3-25T15:54:15,WebParts (OSIsoft)
+929,OSI1828,John Ewald,313-235-3541,,ewaldj@dteenergy.com,48226,1 Energy Plazanan,Detroit,MI,United States,DTE Energy,Senior Engineer,214-3-25T15:54:18,WebParts (OSIsoft)
+930,OSI154,Salla Diop,215652149,,salla_diop@merck.com,19454,131 CHURCH ROAD Apt 1-Anan,NORTH WALES,PA,United States,Merck,Project Manager,214-3-25T14:2:36,WebParts (OSIsoft)
+931,OSI154,Salla Diop,215652149,,salla_diop@merck.com,19454,131 CHURCH ROAD Apt 1-Anan,NORTH WALES,PA,United States,Merck,Project Manager,214-3-25T14:2:37,WebParts (OSIsoft)
+932,OSI17,Tracy Harper,414737,,tracy.l.harper@constellation.com,21226-1746,15 Brandon Shores Roadnan,Baltimore,MD,United States,Exelon Corporation,Engineering Analyst,214-3-25T17:1:34,WebParts (OSIsoft)
+933,OSI17,Tracy Harper,414737,,tracy.l.harper@constellation.com,21226-1746,15 Brandon Shores Roadnan,Baltimore,MD,United States,Exelon Corporation,Engineering Analyst,214-3-25T17:1:36,WebParts (OSIsoft)
+934,OSI1185,Khalid Alzahrani,966888518,,khalid.zahrani.2@aramco.com,31311,P.O.Box 1914nan,Ras Tanura,Eastern,Saudi Arabia,Saudi Aramco,Supervisor,214-3-26T8:47:28,WebParts (OSIsoft)
+935,OSI1129,Steve Richardson,72-942-3398,,steve_richardson@fmi.com,8438,1746 County Rd 22nan,Empire,CO,United States,"Freeport-McMoRan, Inc.",Chief Engineer,214-3-25T14:1:13,WebParts (OSIsoft)
+936,OSI11188,Ameen Hamdon,43278885,48-272-755,hamdon@subnet.com,T2G4B3,4639 Manhattan Road SEnan,Calgary,Alberta,Canada,SUBNET Solutions Inc.,President,214-3-25T14:1:58,WebParts (OSIsoft)
+937,OSI1162,Lee Roberson,843-745-3759,843-557-5517,lee.roberson@kapstonepaper.com,2946,56 Virginia Avennan,Charleston,SC,United States,KapStone Charleston Kraft LLC,Application Developer/DBA,214-3-26T1:56:33,WebParts (OSIsoft)
+938,OSI188,Tom Nobis,713-656-8547,,tom.j.nobis@exxonmobil.com,772,P.O. Box 9#219E,Houston,TX,United States,ExxonMobil,Application Engineer,214-3-25T16::2,WebParts (OSIsoft)
+939,OSI188,Tom Nobis,713-656-8547,,tom.j.nobis@exxonmobil.com,772,P.O. Box 9#219E,Houston,TX,United States,ExxonMobil,Application Engineer,214-3-25T16::4,WebParts (OSIsoft)
+940,OSI188,Tom Nobis,713-656-8547,,tom.j.nobis@exxonmobil.com,772,P.O. Box 9#219E,Houston,TX,United States,ExxonMobil,Application Engineer,214-3-25T16::6,WebParts (OSIsoft)
+941,OSI11125,Edmund Campion,942232289,9425797,edmund.campion@aprenergy.com,32224,3814 Biggin Church Rd. W.nan,Jacksonville,Fl,United States,APR Energy,Director R&D,214-3-25T18::17,WebParts (OSIsoft)
+942,OSI121,Donald Beverly,514 598-3256,,dbeverly@gazmetro.com,H2K 2X3,1717 du Havre Streetnan,Montreal,Quebec,Canada,Gaz Métro,Senior Advisor Renewable Energy,214-3-26T13:16:13,WebParts (OSIsoft)
+943,OSI1367,André Trudel,819-676-81,819-676-6812,atrudel@rocktenn.com,G9x 3P8,"1, chemin de l'usinenan",La Tuque,Québec,Canada,Rocktenn,Process control engineer,214-3-25T17:3:48,WebParts (OSIsoft)
+944,OSI1328,David Barker,+64 9 282 4231,+64 21 522 591,david@dimensionsoftware.co.nz,1542,PO Box 1159Ellerslie,Auckland,Auckland,New Zealand,Dimension Software,Managing Director,214-3-26T1:48:7,WebParts (OSIsoft)
+945,OSI177,Loyda Zambrano,143691294,143667955,loyda.zambrano@shell.com,T3H5T9,23 West Cedar PL SWnan,Calgary,AB,Canada,Shell ,Business Analyst,214-3-26T12:39:18,WebParts (OSIsoft)
+946,OSI133,Kiko Castillo,6329813378,6329813378,francisco.castillo@mayniladwater.com.ph,115,"MWSS Compound, Katipunan Ave., BalaraMaynilad Water Services, in",Quezon City,M.Manila,Philippines,"Maynilad Water Services, inc.",SVP-CIO,214-3-25T17:57:21,WebParts (OSIsoft)
+947,OSI1761,Marvin Wong,437714861,,mwong@secure-energy.ca,T2P 2V7,"36, 25 5th Ave SWnan",Calgary,AB,Canada,Secure Energy Services,Operations Analyst Engineer,214-3-25T12:58:51,WebParts (OSIsoft)
+948,OSI1718,Mike Parker,217-451-3224,217-412-8711,mike.parker@adm.com,62568,417 Kennedy Rdnan,Taylorville,IL,United States,Archer Daniels Midland,Regional Automation & Electrical Manager,214-3-25T13:42:55,WebParts (OSIsoft)
+949,OSI118,Elaine Honan,58-381-7,58-439-246,ethonan@spectraautomation.com,1757,113 Cedar St. Ste S6,Milford,MA,United States,Spectra Automation,Senior Automation Engineer,214-3-26T14:24:16,WebParts (OSIsoft)
+950,OSI1716,Tom Bell,229-293-264,229-251-814,tom.bell@adm.com,3161,1841 Clay Rdnan,Valdosta,Georgia,United States,Archer Daniels Midland,Regional Automation & Electrical Manager,214-3-25T13:42:57,WebParts (OSIsoft)
+951,OSI1581,Ron Yuen,916-781-4258,916-67-114,ronald.yuen@ncpa.com,95678,651 Commerce Drivenan,Roseville,CA,United States,Northern California Power Agency,Engineer,214-3-25T15:58:38,WebParts (OSIsoft)
+952,OSI174,Zach Birmingham,(619) 686-644,(619) 45-7836,zbirming@portofsandiego.org,9217,3165 Pacific Hwynan,San Diego ,CA,United States,Port of San diego,Staff Assistant II,214-3-26T12:3:25,WebParts (OSIsoft)
+953,OSI1491,Josh Lyon,469423221,4694266348,jlyon@flowserve.com,7563,5215 N. O'Connor Blvd #23nan,Irving,TX,United States,Flowserve,Technology Manager,214-3-25T14:33:19,WebParts (OSIsoft)
+954,OSI1491,Josh Lyon,469423221,4694266348,jlyon@flowserve.com,7563,5215 N. O'Connor Blvd #23nan,Irving,TX,United States,Flowserve,Technology Manager,214-3-25T14:33:21,WebParts (OSIsoft)
+955,OSI1786,Chandra Gannavarapu,713 39 7688,,chandrasekhar.gannavarapu@lyondellbasell.com,771,1221 McKinneynan,Houston,Texas,United States,LyondellBasell Industries,Optimization Business Solutions Lead,214-3-26T11:34:49,WebParts (OSIsoft)
+956,OSI1693,Sekti Setiono,832854295,281975964,ssetion@chevron.com,772,15 Louisiana Street Floor 38thnan,Houston,Texas,United States,Chevron,Engineer,214-3-26T13:34:13,WebParts (OSIsoft)
+957,OSI1396,Robin McAhon,843-745-3648,843-834-134,robin.mcahon@kapstonepaper.com,29423-85,P O Box 1185nan,Charleston,SC,United States,Kapstone Paper and Packaging,Infrastructure & Systems Team Lead,214-3-26T1:56:3,WebParts (OSIsoft)
+958,OSI173,Robert Fallejo,925-422-9164,,fallejo2@llnl.gov,9455,7 East AveL-478,Livermore,CA,United States,Lawrence Livermore National Lab,Software Developer,214-3-26T13:51:56,WebParts (OSIsoft)
+959,OSI1117,Doug Reed,63-929-341,63-918-971,dreed@wm.com,38421,4 Liberty Lane Westnan,Hampton,NH,United States,Wheelabrator Technologies Inc.,Manager Operations Services,214-3-26T8:57:,WebParts (OSIsoft)
+960,OSI1978,Huy Dao,415-92-45,,hdao@sfwater.org,94124,75 Phelps Street nan,San Francisco,CA,United States,SFPUC,DCS Engineer,214-3-26T11:26:7,WebParts (OSIsoft)
+961,OSI165,Steve Spurlock,728767394,,steve.spurlock@swgas.com,8915,5241 Spring Mountain Rdnan,Las Vegas,NV,United States,Southwest Gas,SCADA Administrator,214-3-25T15:18:33,WebParts (OSIsoft)
+962,OSI1572,Cassie Murillo,914-847-384,67-342-2524,cassandra.murillo@regeneron.com,1591,777 Old Saw Mill River Roadnan,Tarrytown,NY,United States,Regeneron Pharmaceuticals,Process Development Engineer II,214-3-25T15:7:51,WebParts (OSIsoft)
+963,OSI1975,Tim Presar,419-226-2584,419-231-328,tim.presar@huskyenergy.com,4584,115 S. Metcalf St.nan,Lima,OH,United States,Husky Lima Refinery,Programmer/Analyst,214-3-25T15:13:2,WebParts (OSIsoft)
+964,OSI11127,Geoff Mueller,678-231-7275,678-231-7275,geoff.mueller@clorox.com,3144,1 Cobb Place Blvd.Bldg 1,Kennesaw,GA,United States,Clorox,Continuous Improvement Systems Manager,214-3-25T14:51:33,WebParts (OSIsoft)
+965,OSI1267,Nate Chang,51-529-1298,51-529-1298,nyc1@pge.com,93583,34 Crow Canyon RoadRoom 151,San Ramon,CA,United States,Pacific Gas & Electric Company,Product Manager,214-3-25T17:55:34,WebParts (OSIsoft)
+966,OSI1267,Nate Chang,51-529-1298,51-529-1298,nyc1@pge.com,93583,34 Crow Canyon RoadRoom 151,San Ramon,CA,United States,Pacific Gas & Electric Company,Product Manager,214-3-25T17:55:36,WebParts (OSIsoft)
+967,OSI183,Tao Xia,(84)257-4851,,Tao.Xia@dom.com,2322,24 Grayland Avenuenan,Richmond,VA,United States,Dominion Virginia Power,Engineer,214-3-25T15:44:33,WebParts (OSIsoft)
+968,OSI183,Tao Xia,(84)257-4851,,Tao.Xia@dom.com,2322,24 Grayland Avenuenan,Richmond,VA,United States,Dominion Virginia Power,Engineer,214-3-25T15:44:36,WebParts (OSIsoft)
+969,OSI1174,Erik Thielsen,52-421-6246,,erik.thielsen@abbott.com,85193,125 W. Maricopa Hqynan,Casa Grande,AZ,United States,Abbott Laboratories,IT Manager,214-3-25T16:7:54,WebParts (OSIsoft)
+970,OSI1174,Erik Thielsen,52-421-6246,,erik.thielsen@abbott.com,85193,125 W. Maricopa Hqynan,Casa Grande,AZ,United States,Abbott Laboratories,IT Manager,214-3-25T16:7:56,WebParts (OSIsoft)
+971,OSI1432,Robert Lane,59-373-4748,28-818-6976,Robert_A_Lane@rl.gov,99354,"244 Stevens Center PlacePO Box 85, MSIN R1-2",Richland,WA,United States,Washington River Protection Solutions (WRPS),Software Engineer/Analyst/Developer,214-3-26T8:38:53,WebParts (OSIsoft)
+972,OSI1295,Chris Jardine,33228465,338622413,cjardine@nobleenergyinc.com,822,1625 Broadway Suite 22nan,Denver,CO,United States,Noble Energy Inc.,Sr. Enterprise Systems Analyst,214-3-26T12:19:49,WebParts (OSIsoft)
+973,OSI1949,Hervé Delesalle,+33 559 83 68 51,+66 646 44 3 81,herve.delesalle@total.com,6418,Avenue Larribaunan,PAU,Aquitaine,France,TOTAL,IS Architect,214-3-26T12:19:17,WebParts (OSIsoft)
+974,OSI1477,Cyndi Bourne,143691479,,cyndi.bourne@shell.com,T2P 2H5,4 4th Avenue SWnan,Calgary,Alberta,Canada,Shell,PI Center of Excellence,214-3-26T12:39:16,WebParts (OSIsoft)
+975,OSI1492,James Liu,972443672,2147964933,jamliu@flowserve.com,7539,5215 N. O'Connor BlvdSuite 23,Irving,Texas,United States,Flowserve,Business Analyst,214-3-25T14:33:23,WebParts (OSIsoft)
+976,OSI111,John Doncsecz,61-774-588,,jtdoncsecz@pplweb.com,1811,2 N 9th Streetnan,Allentown,PA,United States,PPL,IT Infrastructure Engineer,214-3-25T14:8:5,WebParts (OSIsoft)
+977,OSI1433,Jack Chan,51-284-6129,,jack.chan@boehringer-ingelheim.com,94555,671 Kaiser Drivenan,Fremont,CA,United States,Boehringer Ingelheim,Business Analyst,214-3-26T11:12:11,WebParts (OSIsoft)
+978,OSI156,Tyler Wipf,65-965-6428,,Tyler.Wipf@poet.com,5714,4615 N Lewis Avenan,Sioux Falls,SD,United States,POET,Data Systems Analyst,214-3-26T8:27:33,WebParts (OSIsoft)
+979,OSI11383,Neal Feller,,86634789,nfeller@osisoft.com,,nannan,Delray Beach,,United States,OSIsoft,,214-3-25T11:47:36,WebParts (OSIsoft)
+980,OSI11383,Neal Feller,,86634789,nfeller@osisoft.com,,nannan,Delray Beach,,United States,OSIsoft,,214-3-25T12:39:5,WebParts (OSIsoft)
+981,OSI1796,Dave Imming,5128347198,5127997198,dave.imming@emerson.com,78681,"11 W. Louis Henna Blvd., Bldg. 1nan",Round Rock,Texas,United States,Emerson Process Management,Vice President - Product and Services Marketing,214-3-26T1:26:51,WebParts (OSIsoft)
+982,OSI1796,Dave Imming,5128347198,5127997198,dave.imming@emerson.com,78681,"11 W. Louis Henna Blvd., Bldg. 1nan",Round Rock,Texas,United States,Emerson Process Management,Vice President - Product and Services Marketing,214-3-26T1:26:53,WebParts (OSIsoft)
+983,OSI142,Scott Johnson,65-965-2297,65-261-8589,scott.johnson@poet.com,5714,4615 N Lewis Avenan,Sioux Falls,SD,United States,POET,Data Systems Administrator,214-3-26T8:27:3,WebParts (OSIsoft)
+984,OSI11128,RENE RODRIGUEZ,77-399-1125,,rene.e.rodriguez@abbott.com,94533,232 Courage Drivenan,Fairfield,CA,United States,ABBOTT LABORATORIES,SCIENTIST,214-3-25T16:7:52,WebParts (OSIsoft)
+985,OSI1374,Darin Molone,45-727-1587,,darin.molone@accessmidstream.com,7315,525 Central Park Drivenan,Oklahoma City,OK,United States,Access Midstream,"Manager, SCADA",214-3-26T14:24:7,WebParts (OSIsoft)
+986,OSI1646,Eric Wiseman,98 373 3613,98 722 575,eric.wiseman@duke-energy.com,28285,4 S. TryonMC ST 1134,Charlotte,NC,United States,Duke Energy,Lead IT Applications Analyst,214-3-26T12:27:31,WebParts (OSIsoft)
+987,OSI1563,Steven Ho,2812637983,,steven.ho@nalco.com,77496,PO Box 18181nan,Sugar Land,Texas,United States,Ecolab,Plant Engineer,214-3-26T9:45:13,WebParts (OSIsoft)
+988,OSI11761,Gary Grimes,562-531-26,949-93-4112,ggrimes@ppcla.com,9723,147 Downey Avenan,Paramount,CA,United States,Paramount Petroleum,Director of Technology,214-3-25T17:43:7,WebParts (OSIsoft)
